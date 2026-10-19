@@ -1,0 +1,1056 @@
+{
+  "1": {
+    "path": "audio/beat_001.wav",
+    "duration": 4.0,
+    "words": [
+      {
+        "w": "Cleopatra",
+        "s": 0.0,
+        "e": 0.4
+      },
+      {
+        "w": "lived",
+        "s": 0.4,
+        "e": 0.66
+      },
+      {
+        "w": "closer",
+        "s": 0.66,
+        "e": 1.0
+      },
+      {
+        "w": "to",
+        "s": 1.0,
+        "e": 1.28
+      },
+      {
+        "w": "the",
+        "s": 1.28,
+        "e": 1.36
+      },
+      {
+        "w": "Moon",
+        "s": 1.36,
+        "e": 1.48
+      },
+      {
+        "w": "landing",
+        "s": 1.48,
+        "e": 1.82
+      },
+      {
+        "w": "than",
+        "s": 1.82,
+        "e": 2.44
+      },
+      {
+        "w": "to",
+        "s": 2.44,
+        "e": 2.54
+      },
+      {
+        "w": "the",
+        "s": 2.54,
+        "e": 2.64
+      },
+      {
+        "w": "building",
+        "s": 2.64,
+        "e": 2.9
+      },
+      {
+        "w": "of",
+        "s": 2.9,
+        "e": 3.08
+      },
+      {
+        "w": "the",
+        "s": 3.08,
+        "e": 3.18
+      },
+      {
+        "w": "Great",
+        "s": 3.18,
+        "e": 3.36
+      },
+      {
+        "w": "Pyramid.",
+        "s": 3.36,
+        "e": 3.64
+      }
+    ],
+    "hash": "95f5783b7487",
+    "text": "Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid."
+  },
+  "2": {
+    "path": "audio/beat_002.wav",
+    "duration": 1.38,
+    "words": [
+      {
+        "w": "That",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "is",
+        "s": 0.08,
+        "e": 0.16
+      },
+      {
+        "w": "how",
+        "s": 0.16,
+        "e": 0.32
+      },
+      {
+        "w": "old",
+        "s": 0.32,
+        "e": 0.58
+      },
+      {
+        "w": "Egypt",
+        "s": 0.58,
+        "e": 0.9
+      },
+      {
+        "w": "is.",
+        "s": 0.9,
+        "e": 1.2
+      }
+    ],
+    "hash": "0d74a48704a9",
+    "text": "That is how old Egypt is."
+  },
+  "3": {
+    "path": "audio/beat_003.wav",
+    "duration": 5.58,
+    "words": [
+      {
+        "w": "Around",
+        "s": 0.0,
+        "e": 0.61
+      },
+      {
+        "w": "3100",
+        "s": 0.61,
+        "e": 1.22
+      },
+      {
+        "w": "BC,",
+        "s": 1.22,
+        "e": 1.54
+      },
+      {
+        "w": "a",
+        "s": 2.18,
+        "e": 2.24
+      },
+      {
+        "w": "king",
+        "s": 2.24,
+        "e": 2.42
+      },
+      {
+        "w": "named",
+        "s": 2.42,
+        "e": 2.72
+      },
+      {
+        "w": "Narmer",
+        "s": 2.72,
+        "e": 3.16
+      },
+      {
+        "w": "united",
+        "s": 3.16,
+        "e": 3.42
+      },
+      {
+        "w": "Upper",
+        "s": 3.42,
+        "e": 3.76
+      },
+      {
+        "w": "and",
+        "s": 3.76,
+        "e": 4.02
+      },
+      {
+        "w": "Lower",
+        "s": 4.02,
+        "e": 4.2
+      },
+      {
+        "w": "Egypt",
+        "s": 4.2,
+        "e": 4.62
+      },
+      {
+        "w": "into",
+        "s": 4.62,
+        "e": 4.92
+      },
+      {
+        "w": "one",
+        "s": 4.92,
+        "e": 5.14
+      },
+      {
+        "w": "kingdom.",
+        "s": 5.14,
+        "e": 5.4
+      }
+    ],
+    "hash": "1ab9a5252b53",
+    "text": "Around 3100 BC, a king named Narmer united Upper and Lower Egypt into one kingdom."
+  },
+  "4": {
+    "path": "audio/beat_004.wav",
+    "duration": 4.41,
+    "words": [
+      {
+        "w": "Every",
+        "s": 0.0,
+        "e": 0.18
+      },
+      {
+        "w": "summer",
+        "s": 0.18,
+        "e": 0.44
+      },
+      {
+        "w": "the",
+        "s": 0.44,
+        "e": 0.64
+      },
+      {
+        "w": "Nile",
+        "s": 0.64,
+        "e": 0.86
+      },
+      {
+        "w": "flooded,",
+        "s": 0.86,
+        "e": 1.24
+      },
+      {
+        "w": "and",
+        "s": 1.6,
+        "e": 1.78
+      },
+      {
+        "w": "the",
+        "s": 1.78,
+        "e": 1.86
+      },
+      {
+        "w": "black",
+        "s": 1.86,
+        "e": 2.08
+      },
+      {
+        "w": "mud",
+        "s": 2.08,
+        "e": 2.32
+      },
+      {
+        "w": "it",
+        "s": 2.32,
+        "e": 2.42
+      },
+      {
+        "w": "left",
+        "s": 2.42,
+        "e": 2.54
+      },
+      {
+        "w": "behind",
+        "s": 2.54,
+        "e": 2.84
+      },
+      {
+        "w": "fed",
+        "s": 2.84,
+        "e": 3.26
+      },
+      {
+        "w": "a",
+        "s": 3.26,
+        "e": 3.4
+      },
+      {
+        "w": "whole",
+        "s": 3.4,
+        "e": 3.54
+      },
+      {
+        "w": "civilization.",
+        "s": 3.54,
+        "e": 3.82
+      }
+    ],
+    "hash": "c273e39b1966",
+    "text": "Every summer the Nile flooded, and the black mud it left behind fed a whole civilization."
+  },
+  "5": {
+    "path": "audio/beat_005.wav",
+    "duration": 3.62,
+    "words": [
+      {
+        "w": "Pharaohs",
+        "s": 0.0,
+        "e": 0.34
+      },
+      {
+        "w": "were",
+        "s": 0.34,
+        "e": 0.42
+      },
+      {
+        "w": "treated",
+        "s": 0.42,
+        "e": 0.66
+      },
+      {
+        "w": "as",
+        "s": 0.66,
+        "e": 0.9
+      },
+      {
+        "w": "living",
+        "s": 0.9,
+        "e": 1.12
+      },
+      {
+        "w": "gods,",
+        "s": 1.12,
+        "e": 1.46
+      },
+      {
+        "w": "and",
+        "s": 1.86,
+        "e": 2.0
+      },
+      {
+        "w": "gods",
+        "s": 2.0,
+        "e": 2.18
+      },
+      {
+        "w": "need",
+        "s": 2.18,
+        "e": 2.5
+      },
+      {
+        "w": "very",
+        "s": 2.5,
+        "e": 2.82
+      },
+      {
+        "w": "big",
+        "s": 2.82,
+        "e": 3.08
+      },
+      {
+        "w": "tombs.",
+        "s": 3.08,
+        "e": 3.6
+      }
+    ],
+    "hash": "0c3b78676ae3",
+    "text": "Pharaohs were treated as living gods, and gods need very big tombs."
+  },
+  "6": {
+    "path": "audio/beat_006.wav",
+    "duration": 2.94,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "Great",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "Pyramid",
+        "s": 0.2,
+        "e": 0.48
+      },
+      {
+        "w": "used",
+        "s": 0.48,
+        "e": 0.76
+      },
+      {
+        "w": "about",
+        "s": 0.76,
+        "e": 0.96
+      },
+      {
+        "w": "2.3",
+        "s": 0.96,
+        "e": 1.7
+      },
+      {
+        "w": "million",
+        "s": 1.7,
+        "e": 1.94
+      },
+      {
+        "w": "stone",
+        "s": 1.94,
+        "e": 2.3
+      },
+      {
+        "w": "blocks.",
+        "s": 2.3,
+        "e": 2.58
+      }
+    ],
+    "hash": "de5848c25d68",
+    "text": "The Great Pyramid used about 2.3 million stone blocks."
+  },
+  "7": {
+    "path": "audio/beat_007.wav",
+    "duration": 3.36,
+    "words": [
+      {
+        "w": "And",
+        "s": 0.0,
+        "e": 0.33
+      },
+      {
+        "w": "archaeologists",
+        "s": 0.33,
+        "e": 0.66
+      },
+      {
+        "w": "think",
+        "s": 0.66,
+        "e": 0.98
+      },
+      {
+        "w": "it",
+        "s": 0.98,
+        "e": 1.1
+      },
+      {
+        "w": "was",
+        "s": 1.1,
+        "e": 1.2
+      },
+      {
+        "w": "built",
+        "s": 1.2,
+        "e": 1.44
+      },
+      {
+        "w": "by",
+        "s": 1.44,
+        "e": 1.64
+      },
+      {
+        "w": "paid",
+        "s": 1.64,
+        "e": 1.88
+      },
+      {
+        "w": "workers,",
+        "s": 1.88,
+        "e": 2.18
+      },
+      {
+        "w": "not",
+        "s": 2.58,
+        "e": 2.8
+      },
+      {
+        "w": "slaves.",
+        "s": 2.8,
+        "e": 3.0
+      }
+    ],
+    "hash": "f775f01a39d9",
+    "text": "And archaeologists think it was built by paid workers, not slaves."
+  },
+  "8": {
+    "path": "audio/beat_008.wav",
+    "duration": 4.57,
+    "words": [
+      {
+        "w": "Then",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "foreign",
+        "s": 0.08,
+        "e": 0.26
+      },
+      {
+        "w": "kings",
+        "s": 0.26,
+        "e": 0.58
+      },
+      {
+        "w": "seized",
+        "s": 0.58,
+        "e": 0.92
+      },
+      {
+        "w": "the",
+        "s": 0.92,
+        "e": 1.16
+      },
+      {
+        "w": "north,",
+        "s": 1.16,
+        "e": 1.38
+      },
+      {
+        "w": "riding",
+        "s": 1.68,
+        "e": 1.88
+      },
+      {
+        "w": "a",
+        "s": 1.88,
+        "e": 1.98
+      },
+      {
+        "w": "terrifying",
+        "s": 1.98,
+        "e": 2.36
+      },
+      {
+        "w": "new",
+        "s": 2.36,
+        "e": 2.72
+      },
+      {
+        "w": "weapon:",
+        "s": 2.72,
+        "e": 3.02
+      },
+      {
+        "w": "the",
+        "s": 3.4,
+        "e": 3.48
+      },
+      {
+        "w": "horse-drawn",
+        "s": 3.48,
+        "e": 3.9
+      },
+      {
+        "w": "chariot.",
+        "s": 3.9,
+        "e": 4.48
+      }
+    ],
+    "hash": "8e3a0ff95cd2",
+    "text": "Then foreign kings seized the north, riding a terrifying new weapon: the horse-drawn chariot."
+  },
+  "9": {
+    "path": "audio/beat_009.wav",
+    "duration": 3.65,
+    "words": [
+      {
+        "w": "So",
+        "s": 0.0,
+        "e": 0.12
+      },
+      {
+        "w": "Egypt",
+        "s": 0.12,
+        "e": 0.3
+      },
+      {
+        "w": "copied",
+        "s": 0.3,
+        "e": 0.66
+      },
+      {
+        "w": "the",
+        "s": 0.66,
+        "e": 0.88
+      },
+      {
+        "w": "chariots,",
+        "s": 0.88,
+        "e": 1.32
+      },
+      {
+        "w": "kicked",
+        "s": 1.64,
+        "e": 1.8
+      },
+      {
+        "w": "the",
+        "s": 1.8,
+        "e": 1.96
+      },
+      {
+        "w": "invaders",
+        "s": 1.96,
+        "e": 2.08
+      },
+      {
+        "w": "out,",
+        "s": 2.08,
+        "e": 2.58
+      },
+      {
+        "w": "and",
+        "s": 2.58,
+        "e": 2.76
+      },
+      {
+        "w": "built",
+        "s": 2.76,
+        "e": 2.94
+      },
+      {
+        "w": "an",
+        "s": 2.94,
+        "e": 3.08
+      },
+      {
+        "w": "empire.",
+        "s": 3.08,
+        "e": 3.26
+      }
+    ],
+    "hash": "6dd885c39887",
+    "text": "So Egypt copied the chariots, kicked the invaders out, and built an empire."
+  },
+  "10": {
+    "path": "audio/beat_010.wav",
+    "duration": 2.35,
+    "words": [
+      {
+        "w": "Ramesses",
+        "s": 0.0,
+        "e": 0.4
+      },
+      {
+        "w": "the",
+        "s": 0.4,
+        "e": 0.52
+      },
+      {
+        "w": "Great",
+        "s": 0.52,
+        "e": 0.7
+      },
+      {
+        "w": "ruled",
+        "s": 0.7,
+        "e": 1.0
+      },
+      {
+        "w": "for",
+        "s": 1.0,
+        "e": 1.3
+      },
+      {
+        "w": "66",
+        "s": 1.3,
+        "e": 1.6
+      },
+      {
+        "w": "years.",
+        "s": 1.6,
+        "e": 2.14
+      }
+    ],
+    "hash": "8a05e3b50034",
+    "text": "Ramesses the Great ruled for 66 years."
+  },
+  "11": {
+    "path": "audio/beat_011.wav",
+    "duration": 1.26,
+    "words": [
+      {
+        "w": "But",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "empires",
+        "s": 0.08,
+        "e": 0.34
+      },
+      {
+        "w": "get",
+        "s": 0.34,
+        "e": 0.7
+      },
+      {
+        "w": "tired.",
+        "s": 0.7,
+        "e": 1.04
+      }
+    ],
+    "hash": "e4237af851b6",
+    "text": "But empires get tired."
+  },
+  "12": {
+    "path": "audio/beat_012.wav",
+    "duration": 3.09,
+    "words": [
+      {
+        "w": "Libyans,",
+        "s": 0.0,
+        "e": 0.32
+      },
+      {
+        "w": "Nubians,",
+        "s": 0.32,
+        "e": 1.12
+      },
+      {
+        "w": "Persians",
+        "s": 1.12,
+        "e": 1.42
+      },
+      {
+        "w": "and",
+        "s": 1.42,
+        "e": 1.58
+      },
+      {
+        "w": "Greeks",
+        "s": 1.58,
+        "e": 1.74
+      },
+      {
+        "w": "took",
+        "s": 1.74,
+        "e": 2.06
+      },
+      {
+        "w": "turns",
+        "s": 2.06,
+        "e": 2.34
+      },
+      {
+        "w": "on",
+        "s": 2.34,
+        "e": 2.56
+      },
+      {
+        "w": "the",
+        "s": 2.56,
+        "e": 2.64
+      },
+      {
+        "w": "throne.",
+        "s": 2.64,
+        "e": 2.84
+      }
+    ],
+    "hash": "fd8c1683e7c2",
+    "text": "Libyans, Nubians, Persians and Greeks took turns on the throne."
+  },
+  "13": {
+    "path": "audio/beat_013.wav",
+    "duration": 1.82,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "last",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "ruling",
+        "s": 0.2,
+        "e": 0.48
+      },
+      {
+        "w": "pharaoh",
+        "s": 0.48,
+        "e": 0.8
+      },
+      {
+        "w": "was",
+        "s": 0.8,
+        "e": 1.12
+      },
+      {
+        "w": "Cleopatra,",
+        "s": 1.12,
+        "e": 1.6
+      }
+    ],
+    "hash": "57bf6dec85aa",
+    "text": "The last ruling pharaoh was Cleopatra,"
+  },
+  "14": {
+    "path": "audio/beat_014.wav",
+    "duration": 1.62,
+    "words": [
+      {
+        "w": "and",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "when",
+        "s": 0.06,
+        "e": 0.14
+      },
+      {
+        "w": "she",
+        "s": 0.14,
+        "e": 0.26
+      },
+      {
+        "w": "died,",
+        "s": 0.26,
+        "e": 0.48
+      },
+      {
+        "w": "Rome",
+        "s": 0.48,
+        "e": 0.82
+      },
+      {
+        "w": "took",
+        "s": 0.82,
+        "e": 1.06
+      },
+      {
+        "w": "Egypt.",
+        "s": 1.06,
+        "e": 1.34
+      }
+    ],
+    "hash": "e51d7d359c2b",
+    "text": "and when she died, Rome took Egypt."
+  },
+  "15": {
+    "path": "audio/beat_015.wav",
+    "duration": 3.05,
+    "words": [
+      {
+        "w": "Within",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "a",
+        "s": 0.14,
+        "e": 0.22
+      },
+      {
+        "w": "few",
+        "s": 0.22,
+        "e": 0.38
+      },
+      {
+        "w": "centuries,",
+        "s": 0.38,
+        "e": 0.82
+      },
+      {
+        "w": "nobody",
+        "s": 1.14,
+        "e": 1.4
+      },
+      {
+        "w": "on",
+        "s": 1.4,
+        "e": 1.72
+      },
+      {
+        "w": "Earth",
+        "s": 1.72,
+        "e": 1.9
+      },
+      {
+        "w": "could",
+        "s": 1.9,
+        "e": 2.1
+      },
+      {
+        "w": "read",
+        "s": 2.1,
+        "e": 2.28
+      },
+      {
+        "w": "hieroglyphs.",
+        "s": 2.28,
+        "e": 3.02
+      }
+    ],
+    "hash": "859f6a7b3e7f",
+    "text": "Within a few centuries, nobody on Earth could read hieroglyphs."
+  },
+  "16": {
+    "path": "audio/beat_016.wav",
+    "duration": 2.98,
+    "words": [
+      {
+        "w": "For",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "fourteen",
+        "s": 0.06,
+        "e": 0.3
+      },
+      {
+        "w": "centuries,",
+        "s": 0.3,
+        "e": 0.8
+      },
+      {
+        "w": "Egypt's",
+        "s": 1.26,
+        "e": 1.62
+      },
+      {
+        "w": "writing",
+        "s": 1.62,
+        "e": 1.8
+      },
+      {
+        "w": "was",
+        "s": 1.8,
+        "e": 2.08
+      },
+      {
+        "w": "a",
+        "s": 2.08,
+        "e": 2.14
+      },
+      {
+        "w": "total",
+        "s": 2.14,
+        "e": 2.34
+      },
+      {
+        "w": "mystery.",
+        "s": 2.34,
+        "e": 2.66
+      }
+    ],
+    "hash": "27bb05321aaa",
+    "text": "For fourteen centuries, Egypt's writing was a total mystery."
+  },
+  "17": {
+    "path": "audio/beat_017.wav",
+    "duration": 2.22,
+    "words": [
+      {
+        "w": "Until",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "one",
+        "s": 0.14,
+        "e": 0.3
+      },
+      {
+        "w": "stone",
+        "s": 0.3,
+        "e": 0.58
+      },
+      {
+        "w": "with",
+        "s": 0.58,
+        "e": 0.78
+      },
+      {
+        "w": "three",
+        "s": 0.78,
+        "e": 0.96
+      },
+      {
+        "w": "scripts",
+        "s": 0.96,
+        "e": 1.26
+      },
+      {
+        "w": "cracked",
+        "s": 1.26,
+        "e": 1.56
+      },
+      {
+        "w": "the",
+        "s": 1.56,
+        "e": 1.8
+      },
+      {
+        "w": "code,",
+        "s": 1.8,
+        "e": 1.98
+      }
+    ],
+    "hash": "30df59edec95",
+    "text": "Until one stone with three scripts cracked the code,"
+  },
+  "18": {
+    "path": "audio/beat_018.wav",
+    "duration": 2.35,
+    "words": [
+      {
+        "w": "and",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "we",
+        "s": 0.0,
+        "e": 0.1
+      },
+      {
+        "w": "finally",
+        "s": 0.1,
+        "e": 0.36
+      },
+      {
+        "w": "learned",
+        "s": 0.36,
+        "e": 0.78
+      },
+      {
+        "w": "how",
+        "s": 0.78,
+        "e": 1.02
+      },
+      {
+        "w": "old",
+        "s": 1.02,
+        "e": 1.24
+      },
+      {
+        "w": "Egypt",
+        "s": 1.24,
+        "e": 1.58
+      },
+      {
+        "w": "really",
+        "s": 1.58,
+        "e": 1.9
+      },
+      {
+        "w": "is.",
+        "s": 1.9,
+        "e": 2.16
+      }
+    ],
+    "hash": "36419888c3bb",
+    "text": "and we finally learned how old Egypt really is."
+  }
+}

@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# downloaded by `python -m chronicle setup`
+models/
+assets/fonts/*.ttf
+
+# your licensed music beds (see assets/music/README.md)
+assets/music/*
+!assets/music/README.md
+
+# working projects
+projects/
+
+# regenerable demo intermediates (re-created by `chronicle voice` / `chronicle images --provider folder`)
+examples/*/images/
+examples/*/audio/*.wav
+examples/*/image_prompts.csv
+
+analysis/casting/
+analysis/reference/

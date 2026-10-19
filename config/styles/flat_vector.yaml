@@ -1,0 +1,14 @@
+name: flat_vector
+extends: ink_cartoon
+label: "Flat vector explainer (modern topics: tech, business, science)"
+description: Clean flat-vector look for modern subjects where parchment textures feel wrong.
+style_prompt: >-
+  Clean flat vector illustration, geometric shapes, thin consistent dark outlines, limited palette of navy,
+  off-white, coral, teal and mustard, subtle grain, simple isometric-ish environments, simple cartoon people,
+  one clear focal subject readable at phone size. 2D vector art.
+character_recipe: >-
+  People are simple flat-vector figures with round heads in a few skin tones, dot eyes, expressive eyebrow
+  strokes, no nose, simplified modern clothing in solid colours.
+negative: >-
+  photorealistic, 3D render, painterly texture, parchment, anime, watermark, signature, text, letters, blurry
+palette: ["#14213d", "#fbf8f1", "#e76f51", "#2a9d8f", "#e9c46a", "#264653"]

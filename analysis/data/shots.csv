@@ -1,0 +1,201 @@
+shot,start_s,end_s,dur_s,chapter,shot_type,family,visual_description,cut_on,next_word_lead_s,words_in_shot,camera_motion,transition_in
+0,0.0,2.57,2.57,Hook / legacy promise,ESTABLISHING,Literal scene,humble riverside farming village,,,8,static,cut
+1,2.57,7.63,5.07,Hook / legacy promise,MAP,Text & orientation,"flat red empire over blue sea, max extent",mid,0.033,15,static,cut
+2,7.63,9.57,1.93,Hook / legacy promise,SCENE,Literal scene,farmers ploughing,sentence,0.287,8,static,cut
+3,9.57,11.93,2.37,Hook / legacy promise,LANDMARK,Literal scene,colosseum exterior,mid,0.013,7,static,cut
+4,11.93,14.03,2.1,Hook / legacy promise,SCENE,Literal scene,paved road with legionaries and carts,clause,0.247,7,static,cut
+5,14.03,16.43,2.4,Hook / legacy promise,SCENE,Literal scene,law court / senate session,clause,-0.013,8,static,cut
+6,16.43,17.57,1.13,Hook / legacy promise,TITLE,Text & orientation,big 'ROME' title over sunset skyline,sentence,0.327,3,static,cut
+7,17.57,22.2,4.63,Hook / legacy promise,METAPHOR,Concept & explainer,figures riding a roller coaster,sentence,0.173,11,static,cut
+8,22.2,24.87,2.67,Hook / legacy promise,SCENE,Literal scene,outcasts huddled at night,sentence,0.12,11,static,cut
+9,24.87,29.0,4.13,Hook / legacy promise,ESTABLISHING,Literal scene,aqueduct-filled imperial landscape,mid,0.013,13,static,cut
+10,29.0,35.2,6.2,Hook / legacy promise,SYMBOL,Concept & explainer,question mark between tiny village and empire map,sentence,0.08,23,static,cut
+11,35.2,39.37,4.17,Founding & kingdom,TIMELINE,Text & orientation,"parchment timeline, arrow on 753 BC",sentence,0.46,9,static,flash (chapter)
+12,39.37,44.73,5.37,Founding & kingdom,ESTABLISHING,Literal scene,ziggurats and pyramids of older empires,sentence,0.173,19,static,cut
+13,44.73,48.23,3.5,Founding & kingdom,MAP,Text & orientation,illustrated map of tribal Italy,sentence,0.227,10,static,cut
+14,48.23,54.43,6.2,Founding & kingdom,CHARACTER_INTRO,Text & orientation,twins with name banners,sentence,0.267,21,static,cut
+15,54.43,56.47,2.03,Founding & kingdom,SCENE,Literal scene,divine light on two babies,sentence,0.307,7,static,cut
+16,56.47,59.67,3.2,Founding & kingdom,SCENE,Literal scene,basket drifting on river,clause,0.253,11,static,cut
+17,59.67,63.77,4.1,Founding & kingdom,SCENE,Literal scene,she-wolf nursing babies,sentence,0.233,16,static,cut
+18,63.77,66.4,2.63,Founding & kingdom,SCENE,Literal scene,grown twins by river,sentence,0.273,13,static,cut
+19,66.4,69.4,3.0,Founding & kingdom,SCENE,Literal scene,"twins arguing, comic anger bursts",clause,0.06,14,static,cut
+20,69.4,73.5,4.1,Founding & kingdom,SCENE,Literal scene,one twin strikes the other (comic violence),sentence,0.1,11,static,cut
+21,73.5,78.2,4.7,Founding & kingdom,SCENE,Literal scene,lone founder on hill after the deed,sentence,0.24,20,static,cut
+22,78.2,82.37,4.17,Founding & kingdom,SCENE,Literal scene,founder enthroned in empty city,sentence,0.34,15,static,cut
+23,82.37,85.77,3.4,Founding & kingdom,CALLOUT,Text & orientation,'ASYLUM' gate with arrivals,sentence,0.333,11,static,cut
+24,85.77,91.37,5.6,Founding & kingdom,CROWD,Literal scene,crowd of misfits,sentence,0.193,15,static,cut
+25,91.37,95.1,3.73,Founding & kingdom,CROWD,Literal scene,crowd of hard-faced men,sentence,0.193,14,static,cut
+26,95.1,98.23,3.13,Republic,TIMELINE,Text & orientation,'200 YEARS - KINGDOM' bracket on timeline,sentence,0.24,9,static,cut
+27,98.23,102.57,4.33,Republic,LINEUP,Literal scene,lineup of seven kings,sentence,0.307,13,static,cut
+28,102.57,104.2,1.63,Republic,SCENE,Literal scene,temple construction,sentence,0.173,6,static,cut
+29,104.2,105.6,1.4,Republic,SCENE,Literal scene,religious ritual,clause,0.16,5,static,cut
+30,105.6,109.4,3.8,Republic,SCENE,Literal scene,workers in underground sewer,clause,-0.02,9,static,cut
+31,109.4,113.07,3.67,Republic,CALLOUT,Text & orientation,'CLOACA MAXIMA' label + arrow,clause,0.04,13,static,cut
+32,113.07,119.5,6.43,Republic,SCENE,Literal scene,"tyrant king, kneeling subjects",sentence,0.213,22,static,cut
+33,119.5,122.0,2.5,Republic,CROWD,Literal scene,furious mob,sentence,0.26,7,static,cut
+34,122.0,126.5,4.5,Republic,SCENE,Literal scene,king chased out of the city,sentence,0.2,17,static,cut
+35,126.5,128.63,2.13,Republic,CROWD,Literal scene,vast assembly swearing an oath,sentence,0.24,7,static,cut
+36,128.63,132.57,3.93,Republic,REACTION,Literal scene,close-up scowl + crossed-out crown icon,sentence,0.087,16,static,cut
+37,132.57,135.4,2.83,Republic,SCENE,Literal scene,"throne discarded, council table",sentence,-0.007,8,static,cut
+38,135.4,139.1,3.7,Republic,TITLE,Text & orientation,'RES PUBLICA' scroll with sunburst,sentence,0.12,11,static,cut
+39,139.1,142.1,3.0,Republic,SPLIT,Concept & explainer,official vs citizens split panel,sentence,0.2,11,static,cut
+40,142.1,144.93,2.83,Republic,CROWD,Literal scene,citizens voting,sentence,0.26,8,static,cut
+41,144.93,147.7,2.77,Republic,SCENE,Literal scene,"two consuls, one vetoes",clause,0.127,9,static,cut
+42,147.7,153.17,5.47,Republic,ESTABLISHING,Literal scene,packed senate chamber,sentence,0.18,18,static,cut
+43,153.17,157.53,4.37,Republic,TITLE,Text & orientation,'SPQR' text + eagle standard,sentence,0.233,14,static,cut
+44,157.53,163.0,5.47,Republic,SCENE,Literal scene,citizens outside SPQR building,sentence,0.187,21,static,cut
+45,163.0,165.8,2.8,Republic,CROWD,Literal scene,legion formation at sunset,sentence,0.22,8,static,cut
+46,165.8,170.27,4.47,Expansion & Punic Wars,SPLIT,Concept & explainer,crossed-out globe vs defensive shield,sentence,0.22,17,static,cut
+47,170.27,173.2,2.93,Expansion & Punic Wars,SCENE,Literal scene,fort attacked by neighbours,sentence,0.153,7,static,cut
+48,173.2,177.63,4.43,Expansion & Punic Wars,SCENE,Literal scene,battle on plain,sentence,0.18,14,static,cut
+49,177.63,182.63,5.0,Expansion & Punic Wars,SCENE,Literal scene,building forts/roads in conquered land,sentence,0.107,17,static,cut
+50,182.63,187.63,5.0,Expansion & Punic Wars,SCENE,Literal scene,victors over defeated,sentence,0.087,18,static,cut
+51,187.63,191.63,4.0,Expansion & Punic Wars,SCENE,Literal scene,learning from enemies' tactics,sentence,0.027,16,static,cut
+52,191.63,194.97,3.33,Expansion & Punic Wars,SCENE,Literal scene,heavy infantry drill,sentence,0.187,12,static,cut
+53,194.97,198.4,3.43,Expansion & Punic Wars,SCENE,Literal scene,mountain warfare,sentence,0.033,14,static,cut
+54,198.4,203.4,5.0,Expansion & Punic Wars,MAP,Text & orientation,'275 BC' + Italy all red with flags,sentence,0.24,11,static,cut
+55,203.4,208.4,5.0,Expansion & Punic Wars,CONFRONT,Literal scene,two rivals staring across the sea,sentence,0.16,17,static,cut
+56,208.4,210.83,2.43,Expansion & Punic Wars,ESTABLISHING,Literal scene,rich port city,sentence,0.22,7,static,cut
+57,210.83,213.93,3.1,Expansion & Punic Wars,CROWD,Literal scene,huge fleet,sentence,0.167,12,static,cut
+58,213.93,216.27,2.33,Expansion & Punic Wars,SCENE,Literal scene,merchant on mountain of gold,clause,0.247,8,static,cut
+59,216.27,220.73,4.47,Expansion & Punic Wars,CONFRONT,Literal scene,"two warriors clash, lightning bolts",mid,0.313,11,static,cut
+60,220.73,222.3,1.57,Expansion & Punic Wars,TITLE,Text & orientation,'PUNIC WARS' comic burst title,sentence,0.167,5,static,cut
+61,222.3,227.33,5.03,Expansion & Punic Wars,SCENE,Literal scene,soldiers inspect wrecked ship,sentence,0.22,16,static,cut
+62,227.33,232.23,4.9,Expansion & Punic Wars,SCENE,Literal scene,copying the ship design,clause,0.187,17,static,cut
+63,232.23,237.67,5.43,Expansion & Punic Wars,SCENE,Literal scene,boarding bridge naval battle,sentence,0.327,19,static,cut
+64,237.67,241.57,3.9,Expansion & Punic Wars,CHARACTER_INTRO,Text & orientation,'HANNIBAL' title + general,sentence,0.133,13,static,cut
+65,241.57,243.97,2.4,Expansion & Punic Wars,NUMBER,Text & orientation,"'40,000 MEN' + army",sentence,0.313,8,static,cut
+66,243.97,248.67,4.7,Expansion & Punic Wars,NUMBER,Text & orientation,'37 WAR ELEPHANTS' crossing snowy Alps,mid,-0.027,13,static,cut
+67,248.67,252.57,3.9,Expansion & Punic Wars,SCENE,Literal scene,general amid fallen soldiers,sentence,0.233,11,static,cut
+68,252.57,254.97,2.4,Expansion & Punic Wars,CROWD,Literal scene,surrendering crowd with white flags,sentence,0.233,9,static,cut
+69,254.97,258.4,3.43,Expansion & Punic Wars,SCENE,Literal scene,new armies raised at the walls,clause,-0.007,12,static,cut
+70,258.4,260.53,2.13,Expansion & Punic Wars,SCENE,Literal scene,general sails to Africa,mid,-0.02,6,static,cut
+71,260.53,264.9,4.37,Expansion & Punic Wars,SCENE,Literal scene,battle in Africa,sentence,0.027,15,static,cut
+72,264.9,269.93,5.03,Expansion & Punic Wars,SCENE,Literal scene,city burning,sentence,0.1,16,static,cut
+73,269.93,275.03,5.1,Expansion & Punic Wars,SCENE,Literal scene,salting the earth,clause,0.167,18,static,cut
+74,275.03,279.67,4.63,Expansion & Punic Wars,MAP,Text & orientation,"Mediterranean controlled, tiny figure on top",sentence,0.167,13,static,cut
+75,279.67,283.73,4.07,Expansion & Punic Wars,METAPHOR,Concept & explainer,river of gold flooding the city,sentence,0.113,15,static,cut
+76,283.73,285.37,1.63,Crisis & fall of Republic,METAPHOR,Concept & explainer,gold slide into the hands of the rich,clause,0.007,7,static,cut
+77,285.37,291.77,6.4,Crisis & fall of Republic,SCENE,Literal scene,"rich buy land, farmers displaced",sentence,0.153,24,static,cut
+78,291.77,296.53,4.77,Crisis & fall of Republic,SPLIT,Concept & explainer,feasting rich vs starving poor,sentence,0.253,15,static,cut
+79,296.53,301.27,4.73,Crisis & fall of Republic,SCENE,Literal scene,generals paying soldiers in gold,mid,0.547,15,static,cut
+80,301.27,304.0,2.73,Crisis & fall of Republic,METAPHOR,Concept & explainer,'ROMA' temple cracking apart,sentence,0.293,8,static,cut
+81,304.0,308.57,4.57,Crisis & fall of Republic,SCENE,Literal scene,street fighting in burning city,sentence,0.34,15,static,cut
+82,308.57,312.47,3.9,Crisis & fall of Republic,CHARACTER_INTRO,Text & orientation,'JULIUS CAESAR' title + hero pose,sentence,0.273,12,static,cut
+83,312.47,317.93,5.47,Crisis & fall of Republic,SCENE,Literal scene,general leading legion,sentence,0.293,16,static,cut
+84,317.93,321.03,3.1,Crisis & fall of Republic,SPLIT,Concept & explainer,cheering people vs fearful senators,sentence,0.207,13,static,cut
+85,321.03,323.97,2.93,Crisis & fall of Republic,CONFRONT,Literal scene,"senator orders, general refuses",sentence,0.127,12,static,cut
+86,323.97,329.23,5.27,Crisis & fall of Republic,SCENE,Literal scene,army crossing the river,sentence,0.173,17,static,cut
+87,329.23,334.27,5.03,Crisis & fall of Republic,SCENE,Literal scene,dictator addresses crowd,sentence,0.167,17,static,cut
+88,334.27,340.5,6.23,Crisis & fall of Republic,SCENE,Literal scene,"reforms: land, debts, calendar wheel",sentence,0.233,19,static,cut
+89,340.5,343.07,2.57,Crisis & fall of Republic,BUBBLE,Concept & explainer,senators with crown thought-bubbles,sentence,0.08,9,static,cut
+90,343.07,346.17,3.1,Crisis & fall of Republic,TITLE,Text & orientation,'44 BC - IDES OF MARCH' torn-paper card,sentence,0.233,10,static,cut
+91,346.17,348.77,2.6,Crisis & fall of Republic,SCENE,Literal scene,"dark hall, conspirators gather",clause,0.113,11,static,cut
+92,348.77,351.17,2.4,Crisis & fall of Republic,SCENE,Literal scene,"victim down with X-eyes, shocked onlookers",mid,-0.027,4,static,cut
+93,351.17,355.23,4.07,Crisis & fall of Republic,SCENE,Literal scene,conspirators amid ruins,sentence,0.013,17,static,cut
+94,355.23,358.57,3.33,Crisis & fall of Republic,CROWD,Literal scene,"grieving, angry crowd with signs",sentence,0.307,10,static,cut
+95,358.57,363.9,5.33,Birth of the Empire,ESTABLISHING,Literal scene,city burning panorama,sentence,0.193,18,static,cut
+96,363.9,367.13,3.23,Birth of the Empire,SYMBOL,Concept & explainer,lone figure emerging from smoke,sentence,0.22,9,static,cut
+97,367.13,371.83,4.7,Birth of the Empire,NUMBER,Text & orientation,'AGE 18' + young heir,sentence,0.167,17,static,cut
+98,371.83,375.2,3.37,Birth of the Empire,SCENE,Literal scene,young heir victorious over rivals,sentence,0.167,10,static,cut
+99,375.2,381.7,6.5,Birth of the Empire,SPLIT,Concept & explainer,'CAESAR' vs 'AUGUSTUS' comparison,sentence,0.08,25,static,cut
+100,381.7,384.47,2.77,Birth of the Empire,SCENE,Literal scene,new ruler with senate,sentence,0.3,8,static,cut
+101,384.47,387.6,3.13,Birth of the Empire,TITLE,Text & orientation,'ROMAN EMPIRE - OFFICIALLY BORN' + map,sentence,0.153,8,static,cut
+102,387.6,392.37,4.77,Birth of the Empire,TITLE,Text & orientation,'PAX ROMANA - 200 YEARS' over busy harbour,sentence,0.18,14,static,cut
+103,392.37,397.1,4.73,Birth of the Empire,ESTABLISHING,Literal scene,bustling capital panorama,sentence,0.193,17,static,cut
+104,397.1,401.67,4.57,Birth of the Empire,SCENE,Literal scene,"arena games, packed stands",sentence,0.2,14,static,cut
+105,401.67,406.1,4.43,Birth of the Empire,INFOGRAPHIC,Concept & explainer,dome + inset size chart,sentence,0.133,16,static,cut
+106,406.1,410.97,4.87,Birth of the Empire,MAP,Text & orientation,road network across empire,sentence,0.2,16,static,cut
+107,410.97,413.23,2.27,Birth of the Empire,SCENE,Literal scene,"citizen on paved street, aqueduct",sentence,0.253,9,static,cut
+108,413.23,417.47,4.23,Birth of the Empire,SCENE,Literal scene,running water fountain,clause,0.167,14,static,cut
+109,417.47,420.0,2.53,Birth of the Empire,METAPHOR,Concept & explainer,figure on peak of a hill-shaped graph of achievements,sentence,0.213,8,static,cut
+110,420.0,424.27,4.27,Crisis of 3rd century,METAPHOR,Concept & explainer,melting candle,sentence,0.16,13,static,cut
+111,424.27,428.47,4.2,Crisis of 3rd century,TIMELINE,Text & orientation,'180 AD' slider into dark future,sentence,0.193,12,static,cut
+112,428.47,431.97,3.5,Crisis of 3rd century,SPLIT,Concept & explainer,peaceful side vs burning chaos,sentence,0.173,12,static,cut
+113,431.97,434.7,2.73,Crisis of 3rd century,TITLE,Text & orientation,'CRISIS OF THE THIRD CENTURY' cracked title,sentence,0.133,11,static,cut
+114,434.7,437.33,2.63,Crisis of 3rd century,INFOGRAPHIC,Concept & explainer,ruined street + falling thermometer chart,mid,0.4,7,static,cut
+115,437.33,440.57,3.23,Crisis of 3rd century,SCENE,Literal scene,emperors fighting over throne,sentence,0.127,9,static,cut
+116,440.57,443.47,2.9,Crisis of 3rd century,SCENE,Literal scene,guards toppling emperors,clause,0.093,11,static,cut
+117,443.47,446.5,3.03,Crisis of 3rd century,ESTABLISHING,Literal scene,plague-struck empty city,sentence,0.273,9,static,cut
+118,446.5,449.4,2.9,Crisis of 3rd century,INFOGRAPHIC,Concept & explainer,tower of coins for bread + down chart,sentence,0.38,5,static,cut
+119,449.4,453.73,4.33,Crisis of 3rd century,SCENE,Literal scene,raiders breaking through wall,sentence,0.28,10,static,cut
+120,453.73,456.03,2.3,Crisis of 3rd century,METAPHOR,Concept & explainer,ruler tangled in a web of problems,sentence,0.207,7,static,cut
+121,456.03,460.43,4.4,Crisis of 3rd century,METAPHOR,Concept & explainer,paperwork tornado around tiny ruler,clause,0.107,17,static,cut
+122,460.43,464.43,4.0,Crisis of 3rd century,CHARACTER_INTRO,Text & orientation,'DIOCLETIAN' label + emperor,clause,0.067,11,static,cut
+123,464.43,466.63,2.2,Crisis of 3rd century,SCENE,Literal scene,emperor surveys realm,sentence,0.227,6,static,cut
+124,466.63,470.03,3.4,Crisis of 3rd century,METAPHOR,Concept & explainer,"ruler stretched across a map, threats on all sides",sentence,0.207,12,static,cut
+125,470.03,472.03,2.0,Crisis of 3rd century,METAPHOR,Concept & explainer,cleaver chopping a map in half,clause,-0.013,6,static,cut
+126,472.03,477.93,5.9,Crisis of 3rd century,SPLIT,Concept & explainer,'WESTERN EMPIRE' vs 'EASTERN EMPIRE',sentence,0.327,18,static,cut
+127,477.93,481.2,3.27,Fall of the West,CHARACTER_INTRO,Text & orientation,'CONSTANTINE' title + glowing cross,sentence,0.347,7,static,cut
+128,481.2,485.23,4.03,Fall of the West,SCENE,Literal scene,crosses spreading over cities,sentence,0.18,12,static,cut
+129,485.23,488.7,3.47,Fall of the West,MAP,Text & orientation,ruler points to new capital on map,sentence,0.087,14,static,cut
+130,488.7,491.37,2.67,Fall of the West,SCENE,Literal scene,building the new capital,sentence,0.36,10,static,cut
+131,491.37,494.3,2.93,Fall of the West,TITLE,Text & orientation,'CONSTANTINOPLE' place title,mid,-0.047,5,static,cut
+132,494.3,497.57,3.27,Fall of the West,INFOGRAPHIC,Concept & explainer,golden arrow loop of trade and elites,sentence,0.26,11,static,cut
+133,497.57,500.43,2.87,Fall of the West,SCENE,Literal scene,legions marching east,clause,0.233,9,static,cut
+134,500.43,504.83,4.4,Fall of the West,ESTABLISHING,Literal scene,old capital decaying at sunset,clause,0.027,12,static,cut
+135,504.83,508.57,3.73,Fall of the West,METAPHOR,Concept & explainer,'5TH CENTURY' + zombie legionary,sentence,0.247,11,static,cut
+136,508.57,512.67,4.1,Fall of the West,SCENE,Literal scene,nomad cavalry charge,sentence,0.193,13,static,cut
+137,512.67,515.73,3.07,Fall of the West,METAPHOR,Concept & explainer,cavalry as a wave of fire,clause,0.153,11,static,cut
+138,515.73,521.4,5.67,Fall of the West,CROWD,Literal scene,refugee tribes at the border,clause,0.107,17,static,cut
+139,521.4,525.7,4.3,Fall of the West,SCENE,Literal scene,tribes crossing into the empire,sentence,0.3,12,static,cut
+140,525.7,529.47,3.77,Fall of the West,SCENE,Literal scene,"newcomers, worried locals",sentence,0.1,15,static,cut
+141,529.47,531.67,2.2,Fall of the West,TIMELINE,Text & orientation,'410 AD' vortex on parchment,sentence,0.293,5,static,cut
+142,531.67,535.47,3.8,Fall of the West,SCENE,Literal scene,gates smashed open,clause,0.173,13,static,cut
+143,535.47,539.57,4.1,Fall of the West,SCENE,Literal scene,city looted and burning,sentence,0.253,13,static,cut
+144,539.57,541.87,2.3,Fall of the West,CROWD,Literal scene,shocked citizens,sentence,0.113,6,static,cut
+145,541.87,546.07,4.2,Fall of the West,BUBBLE,Concept & explainer,thought-bubbles of the burning city,sentence,0.333,11,static,cut
+146,546.07,549.03,2.97,Fall of the West,TIMELINE,Text & orientation,'476 AD' red burst at end of line,sentence,0.193,6,static,cut
+147,549.03,553.03,4.0,Fall of the West,SCENE,Literal scene,warlord strides into palace,clause,0.147,13,static,cut
+148,553.03,556.33,3.3,Fall of the West,CONFRONT,Literal scene,warlord dismisses boy emperor,clause,0.147,8,static,cut
+149,556.33,559.07,2.73,Fall of the West,MAP,Text & orientation,Italy goes dark,sentence,0.207,8,static,cut
+150,559.07,563.27,4.2,Byzantine legacy,MAP,Text & orientation,"split map: dark west, golden east",clause,0.273,12,static,cut
+151,563.27,565.3,2.03,Byzantine legacy,ESTABLISHING,Literal scene,western ruins,sentence,0.173,8,static,cut
+152,565.3,568.73,3.43,Byzantine legacy,MAP,Text & orientation,'EASTERN EMPIRE = BYZANTINE EMPIRE' labels,clause,0.18,10,static,cut
+153,568.73,571.0,2.27,Byzantine legacy,ESTABLISHING,Literal scene,eastern market city,clause,0.207,6,static,cut
+154,571.0,575.2,4.2,Byzantine legacy,CALLOUT,Text & orientation,people holding 'BYZANTINE' vs 'ROMAN' signs,sentence,0.12,11,static,cut
+155,575.2,578.13,2.93,Byzantine legacy,SCENE,Literal scene,eastern officials and law,sentence,0.14,9,static,cut
+156,578.13,583.3,5.17,Byzantine legacy,MAP,Text & orientation,"royal couple plan reconquest, arrows on map",sentence,0.207,15,static,cut
+157,583.3,587.1,3.8,Byzantine legacy,LANDMARK,Literal scene,great domed church,sentence,0.16,13,static,cut
+158,587.1,590.13,3.03,Byzantine legacy,SCENE,Literal scene,library of preserved books,clause,0.26,8,static,cut
+159,590.13,592.47,2.33,Byzantine legacy,ESTABLISHING,Literal scene,impoverished western village,sentence,0.007,9,static,cut
+160,592.47,597.87,5.4,Byzantine legacy,SCENE,Literal scene,scholars studying,clause,0.133,14,static,cut
+161,597.87,600.77,2.9,Byzantine legacy,BUBBLE,Concept & explainer,speech bubbles in Latin letters,sentence,0.193,9,static,cut
+162,600.77,603.27,2.5,Byzantine legacy,BUBBLE,Concept & explainer,speech bubbles in Greek letters,mid,0.273,5,static,cut
+163,603.27,607.33,4.07,Byzantine legacy,METAPHOR,Concept & explainer,fortress rock battered by waves of enemies,sentence,0.273,11,static,cut
+164,607.33,609.97,2.63,Byzantine legacy,METAPHOR,Concept & explainer,shield blocking arrows from all sides,sentence,0.147,8,static,cut
+165,609.97,613.3,3.33,Byzantine legacy,TIMELINE,Text & orientation,'1453' target on dark timeline,sentence,0.233,8,static,cut
+166,613.3,615.5,2.2,Byzantine legacy,CHARACTER_INTRO,Text & orientation,'SULTAN MEHMET' title + cannons,sentence,0.14,7,static,cut
+167,615.5,618.47,2.97,Byzantine legacy,SCENE,Literal scene,giant cannons hauled up,clause,0.12,8,static,cut
+168,618.47,621.0,2.53,Byzantine legacy,SCENE,Literal scene,cannon blast,sentence,0.013,8,static,cut
+169,621.0,625.03,4.03,Byzantine legacy,SCENE,Literal scene,walls crumbling,clause,0.2,14,static,cut
+170,625.03,627.5,2.47,Byzantine legacy,SCENE,Literal scene,army pours through breach,mid,0.427,6,static,cut
+171,627.5,631.9,4.4,Byzantine legacy,TIMELINE,Text & orientation,'753 BC -> 1453 AD' full-span timeline,sentence,0.18,15,static,cut
+172,631.9,634.03,2.13,Byzantine legacy,TITLE,Text & orientation,'FINALLY FINISHED' red text on dark,clause,0.08,6,static,cut
+173,634.03,636.1,2.07,Enduring influence + CTA,MODERN,Concept & explainer,"modern person puzzled, question marks",sentence,0.187,8,static,cut
+174,636.1,638.77,2.67,Enduring influence + CTA,METAPHOR,Concept & explainer,map of Europe with legacy icons rising,sentence,0.2,6,static,cut
+175,638.77,642.97,4.2,Enduring influence + CTA,METAPHOR,Concept & explainer,ancient arena morphing into modern buildings,sentence,0.233,13,static,cut
+176,642.97,646.8,3.83,Enduring influence + CTA,INFOGRAPHIC,Concept & explainer,modern people sharing one alphabet letter,sentence,0.193,9,static,cut
+177,646.8,650.67,3.87,Enduring influence + CTA,INFOGRAPHIC,Concept & explainer,languages branching from a legionary,clause,0.1,14,static,cut
+178,650.67,653.3,2.63,Enduring influence + CTA,INFOGRAPHIC,Concept & explainer,grid of modern senates/republics,mid,0.313,12,static,cut
+179,653.3,657.87,4.57,Enduring influence + CTA,MODERN,Concept & explainer,modern courtroom,mid,0.22,16,static,cut
+180,657.87,663.33,5.47,Enduring influence + CTA,INFOGRAPHIC,Concept & explainer,modern objects paired with ancient originals,sentence,0.273,16,static,cut
+181,663.33,667.57,4.23,Enduring influence + CTA,MODERN,Concept & explainer,"coins, banknotes, classical bank",sentence,0.227,14,static,cut
+182,667.57,669.77,2.2,Enduring influence + CTA,SPLIT,Concept & explainer,"bright city above, dark pit below",sentence,0.273,6,static,cut
+183,669.77,673.77,4.0,Enduring influence + CTA,SCENE,Literal scene,chained captives (dark side),sentence,0.033,12,static,cut
+184,673.77,676.8,3.03,Enduring influence + CTA,SCENE,Literal scene,citizens debating/voting,clause,0.293,8,static,cut
+185,676.8,679.87,3.07,Enduring influence + CTA,SCENE,Literal scene,arena crowd,sentence,0.02,14,static,cut
+186,679.87,683.97,4.1,Enduring influence + CTA,SCENE,Literal scene,philosophers in a garden,clause,0.233,15,static,cut
+187,683.97,687.97,4.0,Enduring influence + CTA,TIMELINE,Text & orientation,"'2,000 YEARS' timeline of eras with characters",sentence,0.213,12,static,cut
+188,687.97,690.87,2.9,Enduring influence + CTA,METAPHOR,Concept & explainer,arrow from village to flag-topped city,sentence,0.193,10,static,cut
+189,690.87,693.53,2.67,Enduring influence + CTA,INFOGRAPHIC,Concept & explainer,era-to-era transformation chain,clause,0.013,8,static,cut
+190,693.53,698.1,4.57,Enduring influence + CTA,METAPHOR,Concept & explainer,crossed-out walls vs light bulb labelled ROME,sentence,0.347,16,static,cut
+191,698.1,701.53,3.43,Enduring influence + CTA,METAPHOR,Concept & explainer,"light bulb surrounded by laws, words, roads",sentence,0.1,12,static,cut
+192,701.53,706.53,5.0,Enduring influence + CTA,METAPHOR,Concept & explainer,glowing ancient city inside a modern skyline,sentence,0.187,16,static,cut
+193,706.53,710.03,3.5,Enduring influence + CTA,LINEUP,Literal scene,cheerful cast of characters,sentence,0.207,12,static,cut
+194,710.03,713.1,3.07,Enduring influence + CTA,METAPHOR,Concept & explainer,magnifying glass over a history tapestry,sentence,0.307,12,static,cut
+195,713.1,716.6,3.5,Enduring influence + CTA,LINEUP,Literal scene,"soldier, statesman, citizen trio",clause,0.18,13,static,cut
+196,716.6,720.9,4.3,Enduring influence + CTA,LINEUP,Literal scene,emperors and legion lineup,sentence,0.18,18,static,cut
+197,720.9,725.6,4.7,Enduring influence + CTA,CTA,Text & orientation,"'LIKE & SUBSCRIBE' card, thumb + bell",clause,0.22,16,static,cut
+198,725.6,728.97,3.37,Enduring influence + CTA,INFOGRAPHIC,Concept & explainer,two rulers: 'ROME' span vs 'HISTORY' span,sentence,0.24,11,static,cut
+199,728.97,732.83,3.87,Enduring influence + CTA,LINEUP,Literal scene,whole cast in front of the arena,sentence,0.333,8,static,cut
