@@ -1,0 +1,26 @@
+topic: Ancient Egypt
+title: The ENTIRE History of Ancient Egypt in 60 Seconds
+format: short_9x16_from_16x9
+duration_s: 60.0
+style: ink_cartoon
+audience: curious general audience, 16-45, watching on a phone or TV
+angle: 'the mind-bending age of Egypt: 3,000 years of pharaohs, from Narmer to Cleopatra'
+language: en
+notes: 'Demo project for the Chronicle system. Images: 16:9, house style ink_cartoon. Voice cast with `chronicle
+  cast`.'
+providers:
+  llm:
+    provider: manual
+  tts:
+    provider: kokoro
+    kokoro:
+      voice: am_adam
+      speed: 1.2
+  images:
+    provider: folder
+format_overrides:
+  short_9x16_from_16x9:
+    split_words: 16
+style_overrides: {}
+characters: {}
+header_text: ANCIENT EGYPT IN 60 SECONDS

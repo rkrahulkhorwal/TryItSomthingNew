@@ -1,0 +1,66 @@
+name: ink_cartoon
+label: "Inked history cartoon (house style)"
+description: >-
+  The genre of the reference video (hand-inked cartoon, detailed worlds, very simple expressive people)
+  with an original character design ("pebble-heads"), so a channel built on it has its own identity.
+
+# Prepended to every image prompt.
+style_prompt: >-
+  Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper
+  grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and
+  sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal
+  subject, readable at phone size, generous contrast between subject and background. 2D illustration.
+
+# Recipe for every human figure. Keep it word-for-word in every prompt for consistency.
+character_recipe: >-
+  Every person in the picture, including the ones doing the main action, is a "pebble-head" cartoon figure:
+  a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry
+  the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are
+  simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black
+  outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes.
+  No realistic or anatomically drawn people anywhere.
+
+# Appended to every prompt.
+suffix: >-
+  No lettering, no captions, no watermark, no signature, no frame border, no UI.
+
+negative: >-
+  photorealistic, 3D render, CGI, anime, manga, realistic faces, noses, detailed hands, gradient-heavy airbrush,
+  watermark, signature, logo, text, letters, misspelled words, blurry, cropped heads, extra limbs
+
+palette: ["#1a1512", "#fff4dc", "#e2d0a7", "#857858", "#655746", "#b5452f", "#deac50", "#78c3e7", "#4e7da0"]
+
+# Per shot type: how to frame `{visual}` (the beat's description). Space for engine-drawn cards is
+# requested automatically by chronicle/style.py when a beat has an overlay, so it is not repeated here.
+shot_templates:
+  SCENE:           "{visual}. The characters act this out clearly; medium-wide shot at eye level."
+  ESTABLISHING:    "Wide establishing panorama: {visual}. Tiny figures for scale, detailed landscape and architecture."
+  CROWD:           "A huge crowd of small pebble-head figures: {visual}. Repetition shows scale; the faces in front show the emotion."
+  LINEUP:          "A row of characters standing side by side, facing the viewer: {visual}."
+  CONFRONT:        "Two rivals face off from opposite sides of the frame: {visual}. Tension in the eyebrows."
+  LANDMARK:        "Iconic landmark, centred, slightly low angle, clear sky: {visual}."
+  REACTION:        "Close-up of one pebble-head face reacting: {visual}. Exaggerated eyebrows, simple background."
+  MAP:             "Stylised hand-drawn map: {visual}. Sea in soft blue, land in parchment, the highlighted territory in brick red, small simple icons, no labels."
+  TIMELINE:        "A long horizontal parchment timeline strip with small era icons drawn along it and one bold red arrow marker pointing at a point on the strip: {visual}."
+  TITLE:           "{visual}. Dramatic, iconic composition."
+  NUMBER:          "{visual}. Emphasise quantity and scale."
+  CHARACTER_INTRO: "Hero shot: {visual}. The character is centred in a confident pose against a simple backdrop with a soft spotlight."
+  CALLOUT:         "{visual}."
+  CTA:             "Friendly end card scene: {visual}. Warm light, cheerful characters waving."
+  METAPHOR:        "A literal, slightly funny visual metaphor: {visual}. Simple, iconic and instantly readable."
+  SYMBOL:          "A single symbolic image on a plain parchment background: {visual}."
+  INFOGRAPHIC:     "Explainer infographic drawn in the same cartoon style: {visual}. Big simple shapes, arrows and icons, no words."
+  SPLIT:           "Two-panel split comparison divided by a thick vertical ink line: {visual}. Both halves equally readable."
+  BUBBLE:          "{visual}, with cartoon thought or speech bubbles that contain simple pictures, not words."
+  MODERN:          "Present-day setting in the same cartoon style: {visual}."
+
+# Engine-drawn text (overlays / captions). Fonts live in assets/fonts (python -m chronicle setup --fonts).
+typography:
+  title:   {font: LuckiestGuy-Regular.ttf, fill: "#fff4dc", stroke: "#1a1512", stroke_ratio: 0.075, shadow: "#00000088"}
+  name:    {font: LuckiestGuy-Regular.ttf, fill: "#ffcf3f", stroke: "#1a1512", stroke_ratio: 0.075, shadow: "#00000088"}
+  number:  {font: Anton-Regular.ttf,       fill: "#fff4dc", stroke: "#1a1512", stroke_ratio: 0.06,  shadow: "#00000088"}
+  date:    {font: Cinzel-ExtraBold.ttf,    fill: "#1a1512", plate: "#f3e3bd", plate_stroke: "#1a1512", accent: "#b5452f"}
+  label:   {font: Montserrat-ExtraBold.ttf, fill: "#1a1512", plate: "#fff4dc", plate_stroke: "#1a1512"}
+  caption: {font: Montserrat-ExtraBold.ttf, fill: "#ffffff", stroke: "#111111", stroke_ratio: 0.12, active: "#ffcf3f"}
+  header:  {font: LuckiestGuy-Regular.ttf, fill: "#ffffff", stroke: "#111111", stroke_ratio: 0.09}
+  placeholder: {font: Montserrat-SemiBold.ttf}

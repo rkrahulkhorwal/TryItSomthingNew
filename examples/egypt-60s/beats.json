@@ -1,0 +1,382 @@
+{
+  "version": 1,
+  "title": "The ENTIRE History of Ancient Egypt in 60 Seconds",
+  "planner": "llm",
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Hook",
+      "card": null
+    },
+    {
+      "index": 1,
+      "title": "Two Lands, One King",
+      "card": "3100 BC"
+    },
+    {
+      "index": 2,
+      "title": "The Pyramid Age",
+      "card": "2560 BC"
+    },
+    {
+      "index": 3,
+      "title": "Empire",
+      "card": "1550 BC"
+    },
+    {
+      "index": 4,
+      "title": "The Long Goodbye",
+      "card": "30 BC"
+    },
+    {
+      "index": 5,
+      "title": "Lost and Found",
+      "card": null
+    }
+  ],
+  "beats": [
+    {
+      "id": 1,
+      "chapter": 0,
+      "text": "Cleopatra lived closer to the Moon landing than to the building of the Great Pyramid.",
+      "break": "start",
+      "shot_type": "INFOGRAPHIC",
+      "visual": "A long horizontal measuring ruler stretches across a desert. At the far left end tiny workers start building the Great Pyramid; at the far right end an astronaut plants a flag on the Moon. Cleopatra stands on the ruler much closer to the astronaut, looking back over her shoulder at the distant pyramid with shocked eyebrows.",
+      "overlay": null,
+      "characters": [
+        "cleopatra",
+        "astronaut"
+      ],
+      "motion": "auto",
+      "focus": [
+        0.62,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Explainer infographic drawn in the same cartoon style: A long horizontal measuring ruler stretches across a desert. At the far left end tiny workers start building the Great Pyramid; at the far right end an astronaut plants a flag on the Moon. Cleopatra stands on the ruler much closer to the astronaut, looking back over her shoulder at the distant pyramid with shocked eyebrows. Big simple shapes, arrows and icons, no words. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Cleopatra: young queen with a short black bob of hair sitting on top of her egg head, a thin gold cobra crown band, a broad gold collar necklace, a white linen dress with a royal-blue sash, clever confident eyebrows. Astronaut: modern astronaut in a white spacesuit with the gold visor pushed up so his pebble-head face shows. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 2,
+      "chapter": 0,
+      "text": "That is how old Egypt is.",
+      "break": "sentence",
+      "shot_type": "LANDMARK",
+      "visual": "The three pyramids of Giza and the Great Sphinx at golden sunset, enormous and weathered, sand drifting; one tiny traveller with a walking stick looks up at them in awe.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.45
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Iconic landmark, centred, slightly low angle, clear sky: The three pyramids of Giza and the Great Sphinx at golden sunset, enormous and weathered, sand drifting; one tiny traveller with a walking stick looks up at them in awe. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 3,
+      "chapter": 1,
+      "text": "Around 3100 BC, a king named Narmer united Upper and Lower Egypt into one kingdom.",
+      "break": "chapter",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "Narmer stands on a riverbank holding the white crown of the south in one hand and the red crown of the north in the other, pushing them together into one double crown, while cheering crowds on both banks of the river wave flags.",
+      "overlay": {
+        "kind": "name",
+        "text": "NARMER"
+      },
+      "characters": [
+        "narmer"
+      ],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: Narmer stands on a riverbank holding the white crown of the south in one hand and the red crown of the north in the other, pushing them together into one double crown, while cheering crowds on both banks of the river wave flags. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Narmer: early king wearing the tall combined white-and-red double crown of Egypt, a short white kilt, holding a stone ceremonial mace. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 4,
+      "chapter": 1,
+      "text": "Every summer the Nile flooded, and the black mud it left behind fed a whole civilization.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "The Nile overflows its banks across a wide green valley between desert cliffs; happy farmers wade through the shallow flood carrying baskets as thick black mud spreads over the fields and wheat sprouts behind them.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.55
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. The Nile overflows its banks across a wide green valley between desert cliffs; happy farmers wade through the shallow flood carrying baskets as thick black mud spreads over the fields and wheat sprouts behind them. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 5,
+      "chapter": 2,
+      "text": "Pharaohs were treated as living gods, and gods need very big tombs.",
+      "break": "chapter",
+      "shot_type": "METAPHOR",
+      "visual": "A pharaoh wearing a golden sun-disk halo like a god proudly unrolls a giant blueprint of an absurdly huge pyramid in front of three sweating architects whose eyebrows shoot up in panic.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.45,
+        0.5
+      ],
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A literal, slightly funny visual metaphor: A pharaoh wearing a golden sun-disk halo like a god proudly unrolls a giant blueprint of an absurdly huge pyramid in front of three sweating architects whose eyebrows shoot up in panic. Simple, iconic and instantly readable. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 6,
+      "chapter": 2,
+      "text": "The Great Pyramid used about 2.3 million stone blocks.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "High aerial view of the Great Pyramid half-built in the desert, with an endless winding line of stone blocks on wooden sledges stretching to the horizon, pulled by thousands of tiny workers.",
+      "overlay": {
+        "kind": "number",
+        "text": "2.3 MILLION BLOCKS"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.6
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. High aerial view of the Great Pyramid half-built in the desert, with an endless winding line of stone blocks on wooden sledges stretching to the horizon, pulled by thousands of tiny workers. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 7,
+      "chapter": 2,
+      "text": "And archaeologists think it was built by paid workers, not slaves.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Pyramid workers line up at a wooden table where a scribe with a papyrus ledger hands out bread loaves and jugs of beer as their daily pay; the workers grin and flex their arms; a half-built pyramid stands behind them.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Pyramid workers line up at a wooden table where a scribe with a papyrus ledger hands out bread loaves and jugs of beer as their daily pay; the workers grin and flex their arms; a half-built pyramid stands behind them. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 8,
+      "chapter": 3,
+      "text": "Then foreign kings seized the north, riding a terrifying new weapon: the horse-drawn chariot.",
+      "break": "chapter",
+      "shot_type": "SCENE",
+      "visual": "Foreign warriors in fast war chariots pulled by galloping horses thunder across the desert toward an Egyptian town, kicking up dust, while Egyptian foot soldiers stare in shock with their spears drooping.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.55,
+        0.5
+      ],
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Foreign warriors in fast war chariots pulled by galloping horses thunder across the desert toward an Egyptian town, kicking up dust, while Egyptian foot soldiers stare in shock with their spears drooping. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 9,
+      "chapter": 3,
+      "text": "So Egypt copied the chariots, kicked the invaders out, and built an empire.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Egyptian soldiers now driving their own war chariots chase the fleeing invaders across the desert, banners flying, a grinning Egyptian charioteer pointing forward.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Egyptian soldiers now driving their own war chariots chase the fleeing invaders across the desert, banners flying, a grinning Egyptian charioteer pointing forward. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 10,
+      "chapter": 3,
+      "text": "Ramesses the Great ruled for 66 years.",
+      "break": "sentence",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "Ramesses sits on a giant golden throne in front of four colossal stone statues of himself, looking extremely pleased with himself while two servants fan him with palm leaves.",
+      "overlay": {
+        "kind": "name",
+        "text": "RAMESSES II"
+      },
+      "characters": [
+        "ramesses"
+      ],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: Ramesses sits on a giant golden throne in front of four colossal stone statues of himself, looking extremely pleased with himself while two servants fan him with palm leaves. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Ramesses: proud pharaoh with a tall blue war crown, gold armbands, a red-and-white striped kilt and a gold crook, very smug eyebrows. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 11,
+      "chapter": 4,
+      "text": "But empires get tired.",
+      "break": "chapter",
+      "shot_type": "METAPHOR",
+      "visual": "An elderly, exhausted pharaoh slumps asleep on a dusty throne with a drooping crown and cobwebs on his staff, a candle melted almost to nothing and an hourglass running out beside him.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A literal, slightly funny visual metaphor: An elderly, exhausted pharaoh slumps asleep on a dusty throne with a drooping crown and cobwebs on his staff, a candle melted almost to nothing and an hourglass running out beside him. Simple, iconic and instantly readable. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 12,
+      "chapter": 4,
+      "text": "Libyans, Nubians, Persians and Greeks took turns on the throne.",
+      "break": "sentence",
+      "shot_type": "LINEUP",
+      "visual": "Four foreign kings stand in a queue beside a single Egyptian throne: a Libyan chief, a Nubian king, a Persian king and a Greek king in their distinct costumes, each glaring impatiently at the one in front of him.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A row of characters standing side by side, facing the viewer: Four foreign kings stand in a queue beside a single Egyptian throne: a Libyan chief, a Nubian king, a Persian king and a Greek king in their distinct costumes, each glaring impatiently at the one in front of him. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 13,
+      "chapter": 4,
+      "text": "The last ruling pharaoh was Cleopatra,",
+      "break": "sentence",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "Cleopatra on her throne in a palace overlooking the harbour of Alexandria and its great lighthouse, confident and clever, holding a scroll.",
+      "overlay": {
+        "kind": "name",
+        "text": "CLEOPATRA"
+      },
+      "characters": [
+        "cleopatra"
+      ],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: Cleopatra on her throne in a palace overlooking the harbour of Alexandria and its great lighthouse, confident and clever, holding a scroll. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Cleopatra: young queen with a short black bob of hair sitting on top of her egg head, a thin gold cobra crown band, a broad gold collar necklace, a white linen dress with a royal-blue sash, clever confident eyebrows. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 14,
+      "chapter": 4,
+      "text": "and when she died, Rome took Egypt.",
+      "break": "clause",
+      "shot_type": "CROWD",
+      "visual": "Roman legionaries in red tunics and plumed helmets march in tight rows past the pyramids carrying an eagle standard, while Egyptian locals watch sadly from the roadside.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A huge crowd of small pebble-head figures: Roman legionaries in red tunics and plumed helmets march in tight rows past the pyramids carrying an eagle standard, while Egyptian locals watch sadly from the roadside. Repetition shows scale; the faces in front show the emotion. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 15,
+      "chapter": 5,
+      "text": "Within a few centuries, nobody on Earth could read hieroglyphs.",
+      "break": "chapter",
+      "shot_type": "SCENE",
+      "visual": "A confused scholar in a robe scratches his head in front of a huge temple wall covered in hieroglyph carvings, big question marks floating above him.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A confused scholar in a robe scratches his head in front of a huge temple wall covered in hieroglyph carvings, big question marks floating above him. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 16,
+      "chapter": 5,
+      "text": "For fourteen centuries, Egypt's writing was a total mystery.",
+      "break": "sentence",
+      "shot_type": "METAPHOR",
+      "visual": "A giant stone wall of hieroglyph carvings wrapped in heavy iron chains with a huge padlock, half buried by sand dunes under a starry night sky.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A literal, slightly funny visual metaphor: A giant stone wall of hieroglyph carvings wrapped in heavy iron chains with a huge padlock, half buried by sand dunes under a starry night sky. Simple, iconic and instantly readable. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 17,
+      "chapter": 5,
+      "text": "Until one stone with three scripts cracked the code,",
+      "break": "sentence",
+      "shot_type": "CALLOUT",
+      "visual": "A young scholar holds a magnifying glass up to a tall dark stone slab carved with three bands of different scripts, his eyebrows shooting up in excitement and a glowing light bulb above his head.",
+      "overlay": {
+        "kind": "label",
+        "text": "ROSETTA STONE"
+      },
+      "characters": [
+        "scholar"
+      ],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A young scholar holds a magnifying glass up to a tall dark stone slab carved with three bands of different scripts, his eyebrows shooting up in excitement and a glowing light bulb above his head. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Scholar: young scholar from the 1820s with messy dark hair on top of his egg head and a dark blue tailcoat, holding a magnifying glass. Make the key object large and clear so a label can sit next to it. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    },
+    {
+      "id": 18,
+      "chapter": 5,
+      "text": "and we finally learned how old Egypt really is.",
+      "break": "clause",
+      "shot_type": "LANDMARK",
+      "visual": "The Great Pyramid at night under a giant full moon; on the moon a tiny astronaut waves down at the pyramid.",
+      "overlay": null,
+      "characters": [
+        "astronaut"
+      ],
+      "motion": "auto",
+      "focus": [
+        0.5,
+        0.4
+      ],
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Iconic landmark, centred, slightly low angle, clear sky: The Great Pyramid at night under a giant full moon; on the moon a tiny astronaut waves down at the pyramid. Astronaut: modern astronaut in a white spacesuit with the gold visor pushed up so his pebble-head face shows. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI."
+    }
+  ],
+  "characters": {
+    "cleopatra": "young queen with a short black bob of hair sitting on top of her egg head, a thin gold cobra crown band, a broad gold collar necklace, a white linen dress with a royal-blue sash, clever confident eyebrows",
+    "narmer": "early king wearing the tall combined white-and-red double crown of Egypt, a short white kilt, holding a stone ceremonial mace",
+    "ramesses": "proud pharaoh with a tall blue war crown, gold armbands, a red-and-white striped kilt and a gold crook, very smug eyebrows",
+    "astronaut": "modern astronaut in a white spacesuit with the gold visor pushed up so his pebble-head face shows",
+    "scholar": "young scholar from the 1820s with messy dark hair on top of his egg head and a dark blue tailcoat, holding a magnifying glass"
+  },
+  "negative_prompt": "photorealistic, 3D render, CGI, anime, manga, realistic faces, noses, detailed hands, gradient-heavy airbrush, watermark, signature, logo, text, letters, misspelled words, blurry, cropped heads, extra limbs",
+  "image_aspect": "16:9"
+}

@@ -1,0 +1,10 @@
+name: storybook_gouache
+extends: ink_cartoon
+label: "Storybook gouache (softer, painterly)"
+description: Softer painted look for calmer topics (mythology, ancient life, bedtime-history long-forms).
+style_prompt: >-
+  Storybook gouache illustration with visible brush texture and soft dry-brush edges, gentle ink linework,
+  muted earthy palette with glowing warm highlights, atmospheric depth, detailed environments, simple
+  charming cartoon people, one clear focal subject readable at phone size. 2D painting.
+negative: >-
+  photorealistic, 3D render, CGI, anime, harsh outlines, neon colours, watermark, signature, text, letters, blurry

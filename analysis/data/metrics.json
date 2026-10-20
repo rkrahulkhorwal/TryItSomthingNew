@@ -1,0 +1,170 @@
+{
+  "source": {
+    "title": "The ENTIRE History of ROME in 12 Minutes",
+    "channel": "Genius History",
+    "url": "https://youtu.be/kHCamT4zfH4",
+    "duration_s": 733,
+    "upload_date": "2026-08-26",
+    "views_at_analysis": 262725,
+    "likes": 4258,
+    "comments": 291,
+    "channel_subscribers": 21500,
+    "views_per_subscriber": 12.2,
+    "upload_resolution": "2560x1440@60"
+  },
+  "edit": {
+    "shots": 200,
+    "asl_s": 3.66,
+    "median_shot_s": 3.58,
+    "p10_shot_s": 2.3,
+    "p90_shot_s": 5.07,
+    "min_shot_s": 1.13,
+    "max_shot_s": 6.5,
+    "camera_motion": "none (all 200 shots are static stills)",
+    "hard_cuts": 198,
+    "stylised_transitions": 1,
+    "cuts_on_sentence_boundary": 145,
+    "cuts_on_clause_boundary": 40,
+    "cuts_mid_phrase": 14,
+    "cuts_inside_pause": 175,
+    "picture_lead_median_s": 0.193,
+    "picture_lead_p25_p75_s": [
+      0.127,
+      0.247
+    ],
+    "shots_per_minute": 16.4,
+    "hook_shots_first_35s": 11,
+    "hook_asl_s": 3.2
+  },
+  "shot_types": {
+    "SCENE": 76,
+    "METAPHOR": 21,
+    "ESTABLISHING": 12,
+    "CROWD": 11,
+    "MAP": 10,
+    "TITLE": 10,
+    "INFOGRAPHIC": 10,
+    "TIMELINE": 8,
+    "SPLIT": 8,
+    "CHARACTER_INTRO": 6,
+    "LINEUP": 5,
+    "CONFRONT": 4,
+    "BUBBLE": 4,
+    "CALLOUT": 3,
+    "NUMBER": 3,
+    "MODERN": 3,
+    "LANDMARK": 2,
+    "SYMBOL": 2,
+    "REACTION": 1,
+    "CTA": 1
+  },
+  "shot_families": {
+    "Literal scene": 111,
+    "Concept & explainer": 48,
+    "Text & orientation": 41
+  },
+  "script": {
+    "words": 2358,
+    "wpm": 193.0,
+    "sentences": 175,
+    "words_per_sentence_mean": 13.5,
+    "words_per_sentence_median": 12,
+    "words_per_sentence_p90": 22.6,
+    "short_sentences_le6_pct": 13.7,
+    "sentence_duration_median_s": 3.62,
+    "questions": 3,
+    "but_total": 19,
+    "sentences_starting_with_but": 8,
+    "you_your": 12,
+    "we_our": 12,
+    "numerals": 33,
+    "numerals_per_min": 2.7,
+    "proper_nouns_per_min": 12.3,
+    "flesch_reading_ease": 68.9,
+    "fk_grade": 7.0,
+    "three_plus_syllable_word_pct": 10.9,
+    "words_per_shot_median": 12,
+    "sentences_with_internal_cut": 44
+  },
+  "audio": {
+    "integrated_lufs": -17.7,
+    "lra_lu": 2.9,
+    "true_peak_dbfs": 0.5,
+    "channels": "dual-mono",
+    "music_bed": false,
+    "sfx": false,
+    "voiced_share_pct": 85.6,
+    "pauses_ge_80ms": 313,
+    "pause_median_s": 0.25,
+    "pause_p90_s": 0.43,
+    "digital_silence_s_approx": 22.5,
+    "f0_median_hz": 116.6,
+    "f0_p5_hz": 85.8,
+    "f0_p95_hz": 188.3,
+    "pitch_range_p5_p95_semitones": 13.6,
+    "pitch_sd_semitones": 4.14
+  },
+  "visual": {
+    "palette_top": [
+      [
+        "#857858",
+        11.8
+      ],
+      [
+        "#655746",
+        11.3
+      ],
+      [
+        "#403735",
+        10.5
+      ],
+      [
+        "#9d9273",
+        10.5
+      ],
+      [
+        "#b7ad99",
+        9.1
+      ],
+      [
+        "#e2d0a7",
+        8.5
+      ],
+      [
+        "#1a181a",
+        6.2
+      ],
+      [
+        "#deac50",
+        6.1
+      ],
+      [
+        "#78c3e7",
+        5.0
+      ],
+      [
+        "#fafaf8",
+        4.9
+      ],
+      [
+        "#5f90ac",
+        4.6
+      ],
+      [
+        "#485e7d",
+        4.2
+      ],
+      [
+        "#ceddd9",
+        4.0
+      ],
+      [
+        "#ac412d",
+        3.4
+      ]
+    ],
+    "median_luma_0_255": 138.6,
+    "median_saturation_0_255": 81.4,
+    "ink_outline_pixel_share_median": 0.083
+  }
+}
