@@ -1,0 +1,4848 @@
+{
+  "format": "mid_16x9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 184.33,
+  "shots": [
+    {
+      "beat": 1,
+      "start": 0.0,
+      "end": 1.68,
+      "shot_type": "TIMELINE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.48656,
+          0.45
+        ],
+        "c1": [
+          0.51344,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "date",
+        "text": "476",
+        "start": 0.1
+      }
+    },
+    {
+      "beat": 2,
+      "start": 1.68,
+      "end": 2.6,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 3,
+      "start": 2.6,
+      "end": 5.78,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.03816,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "1,000 MORE YEARS",
+        "start": 2.7
+      }
+    },
+    {
+      "beat": 4,
+      "start": 5.78,
+      "end": 9.87,
+      "shot_type": "TITLE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.04908,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "title",
+        "text": "THE BYZANTINE EMPIRE",
+        "start": 5.88
+      }
+    },
+    {
+      "beat": 5,
+      "start": 9.87,
+      "end": 13.47,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.0432,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "1453",
+        "start": 9.97
+      }
+    },
+    {
+      "beat": 6,
+      "start": 13.47,
+      "end": 18.6,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.06,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "flash",
+      "overlay": {
+        "kind": "name",
+        "text": "CONSTANTINE I",
+        "start": 13.57
+      },
+      "stamp": {
+        "text": "330 AD",
+        "start": 13.52
+      }
+    },
+    {
+      "beat": 7,
+      "start": 18.6,
+      "end": 22.15,
+      "shot_type": "MAP",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0426,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 8,
+      "start": 22.15,
+      "end": 27.13,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.05976,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "5.7 KM · 96 TOWERS",
+        "start": 22.25
+      }
+    },
+    {
+      "beat": 9,
+      "start": 27.13,
+      "end": 30.4133,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.47373333333333334,
+          0.45
+        ],
+        "c1": [
+          0.5262666666666667,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 10,
+      "start": 30.4133,
+      "end": 32.72,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.02768,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 11,
+      "start": 32.72,
+      "end": 33.98,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.5100800000000001,
+          0.45
+        ],
+        "c1": [
+          0.48991999999999997,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 12,
+      "start": 33.98,
+      "end": 35.39,
+      "shot_type": "SPLIT",
+      "motion": {
+        "move": "static",
+        "z0": 1.0,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 13,
+      "start": 35.39,
+      "end": 36.8,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 14,
+      "start": 36.8,
+      "end": 38.88,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.4833599999999999,
+          0.45
+        ],
+        "c1": [
+          0.5166400000000001,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 15,
+      "start": 38.88,
+      "end": 43.31,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0531599999999999,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "flash",
+      "overlay": {
+        "kind": "name",
+        "text": "JUSTINIAN",
+        "start": 38.98
+      },
+      "stamp": {
+        "text": "532 AD",
+        "start": 38.93
+      }
+    },
+    {
+      "beat": 16,
+      "start": 43.31,
+      "end": 47.37,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.04872,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 17,
+      "start": 47.37,
+      "end": 48.64,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.5101600000000001,
+          0.45
+        ],
+        "c1": [
+          0.48984,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 18,
+      "start": 48.64,
+      "end": 50.4033,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02116,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "name",
+        "text": "THEODORA",
+        "start": 48.74
+      }
+    },
+    {
+      "beat": 19,
+      "start": 50.4033,
+      "end": 53.38,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.47618666666666665,
+          0.45
+        ],
+        "c1": [
+          0.5238133333333334,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 20,
+      "start": 53.38,
+      "end": 55.67,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0274800000000002,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "name",
+        "text": "BELISARIUS",
+        "start": 53.48
+      }
+    },
+    {
+      "beat": 21,
+      "start": 55.67,
+      "end": 58.51,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.03408,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "~30,000",
+        "start": 55.77
+      }
+    },
+    {
+      "beat": 22,
+      "start": 58.51,
+      "end": 60.9,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.51912,
+          0.45
+        ],
+        "c1": [
+          0.48088,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 23,
+      "start": 60.9,
+      "end": 64.31,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.04092,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "31 M DOME",
+        "start": 61.0
+      }
+    },
+    {
+      "beat": 24,
+      "start": 64.31,
+      "end": 67.1,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0334800000000002,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 25,
+      "start": 67.1,
+      "end": 69.62,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.47984000000000004,
+          0.45
+        ],
+        "c1": [
+          0.52016,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 26,
+      "start": 69.62,
+      "end": 71.96,
+      "shot_type": "MAP",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02808,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 27,
+      "start": 71.96,
+      "end": 76.01,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.0486,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 28,
+      "start": 76.01,
+      "end": 77.5533,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.5123466666666667,
+          0.45
+        ],
+        "c1": [
+          0.4876533333333333,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 29,
+      "start": 77.5533,
+      "end": 79.41,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0222799999999999,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 30,
+      "start": 79.41,
+      "end": 83.5,
+      "shot_type": "MAP",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0490799999999998,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "flash",
+      "stamp": {
+        "text": "636 AD",
+        "start": 79.46
+      }
+    },
+    {
+      "beat": 31,
+      "start": 83.5,
+      "end": 88.15,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.46499999999999997,
+          0.45
+        ],
+        "c1": [
+          0.535,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 32,
+      "start": 88.15,
+      "end": 91.43,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.03936,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 33,
+      "start": 91.43,
+      "end": 95.22,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.53032,
+          0.45
+        ],
+        "c1": [
+          0.46967999999999993,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 34,
+      "start": 95.22,
+      "end": 98.11,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.03468,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "name",
+        "text": "BASIL II",
+        "start": 95.32
+      }
+    },
+    {
+      "beat": 35,
+      "start": 98.11,
+      "end": 101.59,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.04176,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "15,000 BULGARIAN",
+        "start": 98.21
+      }
+    },
+    {
+      "beat": 36,
+      "start": 101.59,
+      "end": 105.05,
+      "shot_type": "METAPHOR",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.04152,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 37,
+      "start": 105.05,
+      "end": 107.1,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.48360000000000003,
+          0.45
+        ],
+        "c1": [
+          0.5164,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 38,
+      "start": 107.1,
+      "end": 110.41,
+      "shot_type": "MAP",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.03972,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 39,
+      "start": 110.41,
+      "end": 114.1833,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.04528,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "name",
+        "text": "ENRICO DANDOLO",
+        "start": 110.51
+      }
+    },
+    {
+      "beat": 40,
+      "start": 114.1833,
+      "end": 115.64,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.02,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 41,
+      "start": 115.64,
+      "end": 117.7233,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.5166666666666667,
+          0.45
+        ],
+        "c1": [
+          0.4833333333333333,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 42,
+      "start": 117.7233,
+      "end": 119.12,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 43,
+      "start": 119.12,
+      "end": 122.52,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0408,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "flash",
+      "overlay": {
+        "kind": "name",
+        "text": "MEHMED II",
+        "start": 119.22
+      },
+      "stamp": {
+        "text": "1453",
+        "start": 119.17
+      }
+    },
+    {
+      "beat": 44,
+      "start": 122.52,
+      "end": 124.98,
+      "shot_type": "CALLOUT",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02952,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "label",
+        "text": "ORBAN",
+        "start": 122.62
+      }
+    },
+    {
+      "beat": 45,
+      "start": 124.98,
+      "end": 127.77,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.47767999999999994,
+          0.45
+        ],
+        "c1": [
+          0.52232,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 46,
+      "start": 127.77,
+      "end": 130.46,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.03228,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 47,
+      "start": 130.46,
+      "end": 134.34,
+      "shot_type": "MAP",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.04656,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 48,
+      "start": 134.34,
+      "end": 137.5,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.03792,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "7,000 DEFENDERS",
+        "start": 134.44
+      }
+    },
+    {
+      "beat": 49,
+      "start": 137.5,
+      "end": 139.11,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.5128799999999999,
+          0.45
+        ],
+        "c1": [
+          0.4871200000000001,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 50,
+      "start": 139.11,
+      "end": 141.49,
+      "shot_type": "CHARACTER_INTRO",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02856,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "name",
+        "text": "CONSTANTINE XI",
+        "start": 139.21
+      }
+    },
+    {
+      "beat": 51,
+      "start": 141.49,
+      "end": 144.99,
+      "shot_type": "SPLIT",
+      "motion": {
+        "move": "static",
+        "z0": 1.0,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 52,
+      "start": 144.99,
+      "end": 148.31,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.0398399999999999,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "1453",
+        "start": 145.09
+      }
+    },
+    {
+      "beat": 53,
+      "start": 148.31,
+      "end": 152.11,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0455999999999999,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 54,
+      "start": 152.11,
+      "end": 153.01,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.4928000000000002,
+          0.45
+        ],
+        "c1": [
+          0.5071999999999999,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 55,
+      "start": 153.01,
+      "end": 154.33,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.02,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 56,
+      "start": 154.33,
+      "end": 156.41,
+      "shot_type": "TIMELINE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.4833599999999999,
+          0.45
+        ],
+        "c1": [
+          0.5166400000000001,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "flash",
+      "overlay": {
+        "kind": "date",
+        "text": "1557",
+        "start": 154.43
+      }
+    },
+    {
+      "beat": 57,
+      "start": 156.41,
+      "end": 161.4,
+      "shot_type": "NUMBER",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.0598799999999997,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut",
+      "overlay": {
+        "kind": "number",
+        "text": "1557",
+        "start": 156.51
+      }
+    },
+    {
+      "beat": 58,
+      "start": 161.4,
+      "end": 162.8,
+      "shot_type": "SYMBOL",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.02,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 59,
+      "start": 162.8,
+      "end": 166.23,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.5274399999999998,
+          0.45
+        ],
+        "c1": [
+          0.47256000000000015,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 60,
+      "start": 166.23,
+      "end": 169.91,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0441599999999998,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 61,
+      "start": 169.91,
+      "end": 173.25,
+      "shot_type": "MAP",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0400799999999997,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 62,
+      "start": 173.25,
+      "end": 176.74,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_right",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.47208000000000017,
+          0.45
+        ],
+        "c1": [
+          0.5279199999999998,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 63,
+      "start": 176.74,
+      "end": 179.31,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pull_out",
+        "z0": 1.03084,
+        "z1": 1.0,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 64,
+      "start": 179.31,
+      "end": 181.32,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "pan_left",
+        "z0": 1.08,
+        "z1": 1.08,
+        "c0": [
+          0.5160799999999999,
+          0.45
+        ],
+        "c1": [
+          0.4839200000000001,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    },
+    {
+      "beat": 65,
+      "start": 181.32,
+      "end": 184.33,
+      "shot_type": "SCENE",
+      "motion": {
+        "move": "push_in",
+        "z0": 1.0,
+        "z1": 1.0361200000000024,
+        "c0": [
+          0.5,
+          0.45
+        ],
+        "c1": [
+          0.5,
+          0.45
+        ]
+      },
+      "punch": false,
+      "transition": "cut"
+    }
+  ],
+  "captions": [],
+  "sfx": [
+    {
+      "type": "pop",
+      "t": 0.1
+    },
+    {
+      "type": "pop",
+      "t": 2.7
+    },
+    {
+      "type": "pop",
+      "t": 5.88
+    },
+    {
+      "type": "pop",
+      "t": 9.97
+    },
+    {
+      "type": "whoosh",
+      "t": 13.190000000000001
+    },
+    {
+      "type": "pop",
+      "t": 13.57
+    },
+    {
+      "type": "pop",
+      "t": 22.25
+    },
+    {
+      "type": "whoosh",
+      "t": 38.6
+    },
+    {
+      "type": "pop",
+      "t": 38.98
+    },
+    {
+      "type": "pop",
+      "t": 48.74
+    },
+    {
+      "type": "pop",
+      "t": 53.48
+    },
+    {
+      "type": "pop",
+      "t": 55.77
+    },
+    {
+      "type": "pop",
+      "t": 61.0
+    },
+    {
+      "type": "whoosh",
+      "t": 79.13
+    },
+    {
+      "type": "pop",
+      "t": 95.32
+    },
+    {
+      "type": "pop",
+      "t": 98.21
+    },
+    {
+      "type": "pop",
+      "t": 110.51
+    },
+    {
+      "type": "whoosh",
+      "t": 118.84
+    },
+    {
+      "type": "pop",
+      "t": 119.22
+    },
+    {
+      "type": "pop",
+      "t": 122.62
+    },
+    {
+      "type": "pop",
+      "t": 134.44
+    },
+    {
+      "type": "pop",
+      "t": 139.21
+    },
+    {
+      "type": "pop",
+      "t": 145.09
+    },
+    {
+      "type": "whoosh",
+      "t": 154.05
+    },
+    {
+      "type": "pop",
+      "t": 154.43
+    },
+    {
+      "type": "pop",
+      "t": 156.51
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Rome Never Fell",
+      "start": 0.0
+    },
+    {
+      "title": "New Rome",
+      "start": 13.47
+    },
+    {
+      "title": "Riot, Dome and Plague",
+      "start": 38.88
+    },
+    {
+      "title": "Greek Fire and Betrayal",
+      "start": 79.41
+    },
+    {
+      "title": "The Last Constantine",
+      "start": 119.12
+    },
+    {
+      "title": "Never Byzantine",
+      "start": 154.33
+    }
+  ],
+  "spans": [
+    {
+      "beat": 1,
+      "start": 0.08,
+      "end": 1.6300000000000001
+    },
+    {
+      "beat": 2,
+      "start": 1.83,
+      "end": 2.55
+    },
+    {
+      "beat": 3,
+      "start": 2.75,
+      "end": 5.73
+    },
+    {
+      "beat": 4,
+      "start": 5.930000000000001,
+      "end": 9.82
+    },
+    {
+      "beat": 5,
+      "start": 10.02,
+      "end": 13.309999999999999
+    },
+    {
+      "beat": 6,
+      "start": 13.659999999999998,
+      "end": 18.549999999999997
+    },
+    {
+      "beat": 7,
+      "start": 18.749999999999996,
+      "end": 22.099999999999998
+    },
+    {
+      "beat": 8,
+      "start": 22.299999999999997,
+      "end": 27.08
+    },
+    {
+      "beat": 9,
+      "start": 27.279999999999998,
+      "end": 30.38
+    },
+    {
+      "beat": 10,
+      "start": 30.48,
+      "end": 32.67
+    },
+    {
+      "beat": 11,
+      "start": 32.870000000000005,
+      "end": 33.93000000000001
+    },
+    {
+      "beat": 12,
+      "start": 34.13000000000001,
+      "end": 35.34000000000001
+    },
+    {
+      "beat": 13,
+      "start": 35.54000000000001,
+      "end": 36.750000000000014
+    },
+    {
+      "beat": 14,
+      "start": 36.95000000000002,
+      "end": 38.72000000000002
+    },
+    {
+      "beat": 15,
+      "start": 39.07000000000002,
+      "end": 43.26000000000002
+    },
+    {
+      "beat": 16,
+      "start": 43.46000000000002,
+      "end": 47.32000000000002
+    },
+    {
+      "beat": 17,
+      "start": 47.520000000000024,
+      "end": 48.590000000000025
+    },
+    {
+      "beat": 18,
+      "start": 48.79000000000003,
+      "end": 50.370000000000026
+    },
+    {
+      "beat": 19,
+      "start": 50.47000000000003,
+      "end": 53.33000000000003
+    },
+    {
+      "beat": 20,
+      "start": 53.53000000000003,
+      "end": 55.62000000000003
+    },
+    {
+      "beat": 21,
+      "start": 55.820000000000036,
+      "end": 58.460000000000036
+    },
+    {
+      "beat": 22,
+      "start": 58.66000000000004,
+      "end": 60.85000000000004
+    },
+    {
+      "beat": 23,
+      "start": 61.05000000000004,
+      "end": 64.26000000000003
+    },
+    {
+      "beat": 24,
+      "start": 64.46000000000004,
+      "end": 67.05000000000004
+    },
+    {
+      "beat": 25,
+      "start": 67.25000000000004,
+      "end": 69.57000000000004
+    },
+    {
+      "beat": 26,
+      "start": 69.77000000000004,
+      "end": 71.91000000000004
+    },
+    {
+      "beat": 27,
+      "start": 72.11000000000004,
+      "end": 75.96000000000004
+    },
+    {
+      "beat": 28,
+      "start": 76.16000000000004,
+      "end": 77.52000000000004
+    },
+    {
+      "beat": 29,
+      "start": 77.62000000000003,
+      "end": 79.25000000000003
+    },
+    {
+      "beat": 30,
+      "start": 79.60000000000002,
+      "end": 83.45000000000002
+    },
+    {
+      "beat": 31,
+      "start": 83.65000000000002,
+      "end": 88.10000000000002
+    },
+    {
+      "beat": 32,
+      "start": 88.30000000000003,
+      "end": 91.38000000000002
+    },
+    {
+      "beat": 33,
+      "start": 91.58000000000003,
+      "end": 95.17000000000003
+    },
+    {
+      "beat": 34,
+      "start": 95.37000000000003,
+      "end": 98.06000000000003
+    },
+    {
+      "beat": 35,
+      "start": 98.26000000000003,
+      "end": 101.54000000000003
+    },
+    {
+      "beat": 36,
+      "start": 101.74000000000004,
+      "end": 105.00000000000004
+    },
+    {
+      "beat": 37,
+      "start": 105.20000000000005,
+      "end": 107.05000000000004
+    },
+    {
+      "beat": 38,
+      "start": 107.25000000000004,
+      "end": 110.36000000000004
+    },
+    {
+      "beat": 39,
+      "start": 110.56000000000004,
+      "end": 114.15000000000005
+    },
+    {
+      "beat": 40,
+      "start": 114.25000000000004,
+      "end": 115.59000000000005
+    },
+    {
+      "beat": 41,
+      "start": 115.79000000000005,
+      "end": 117.69000000000005
+    },
+    {
+      "beat": 42,
+      "start": 117.79000000000005,
+      "end": 118.96000000000005
+    },
+    {
+      "beat": 43,
+      "start": 119.31000000000004,
+      "end": 122.47000000000004
+    },
+    {
+      "beat": 44,
+      "start": 122.67000000000004,
+      "end": 124.93000000000005
+    },
+    {
+      "beat": 45,
+      "start": 125.13000000000005,
+      "end": 127.72000000000006
+    },
+    {
+      "beat": 46,
+      "start": 127.92000000000006,
+      "end": 130.41000000000005
+    },
+    {
+      "beat": 47,
+      "start": 130.61000000000004,
+      "end": 134.29000000000005
+    },
+    {
+      "beat": 48,
+      "start": 134.49000000000004,
+      "end": 137.45000000000005
+    },
+    {
+      "beat": 49,
+      "start": 137.65000000000003,
+      "end": 139.06000000000003
+    },
+    {
+      "beat": 50,
+      "start": 139.26000000000002,
+      "end": 141.44000000000003
+    },
+    {
+      "beat": 51,
+      "start": 141.64000000000001,
+      "end": 144.94000000000003
+    },
+    {
+      "beat": 52,
+      "start": 145.14000000000001,
+      "end": 148.26000000000002
+    },
+    {
+      "beat": 53,
+      "start": 148.46,
+      "end": 152.06
+    },
+    {
+      "beat": 54,
+      "start": 152.26,
+      "end": 152.95999999999998
+    },
+    {
+      "beat": 55,
+      "start": 153.15999999999997,
+      "end": 154.16999999999996
+    },
+    {
+      "beat": 56,
+      "start": 154.51999999999995,
+      "end": 156.35999999999996
+    },
+    {
+      "beat": 57,
+      "start": 156.55999999999995,
+      "end": 161.34999999999994
+    },
+    {
+      "beat": 58,
+      "start": 161.54999999999993,
+      "end": 162.74999999999991
+    },
+    {
+      "beat": 59,
+      "start": 162.9499999999999,
+      "end": 166.1799999999999
+    },
+    {
+      "beat": 60,
+      "start": 166.37999999999988,
+      "end": 169.85999999999987
+    },
+    {
+      "beat": 61,
+      "start": 170.05999999999986,
+      "end": 173.19999999999985
+    },
+    {
+      "beat": 62,
+      "start": 173.39999999999984,
+      "end": 176.68999999999983
+    },
+    {
+      "beat": 63,
+      "start": 176.88999999999982,
+      "end": 179.25999999999982
+    },
+    {
+      "beat": 64,
+      "start": 179.4599999999998,
+      "end": 181.2699999999998
+    },
+    {
+      "beat": 65,
+      "start": 181.4699999999998,
+      "end": 183.5299999999998
+    }
+  ],
+  "words": [
+    {
+      "w": "In",
+      "s": 0.08,
+      "e": 0.13
+    },
+    {
+      "w": "476,",
+      "s": 0.08,
+      "e": 0.74
+    },
+    {
+      "w": "Rome",
+      "s": 0.74,
+      "e": 1.2000000000000002
+    },
+    {
+      "w": "fell.",
+      "s": 1.2000000000000002,
+      "e": 1.48
+    },
+    {
+      "w": "Except",
+      "s": 1.83,
+      "e": 2.0100000000000002
+    },
+    {
+      "w": "it",
+      "s": 2.0100000000000002,
+      "e": 2.15
+    },
+    {
+      "w": "didn't.",
+      "s": 2.15,
+      "e": 2.45
+    },
+    {
+      "w": "From",
+      "s": 2.75,
+      "e": 2.9779999999999998
+    },
+    {
+      "w": "a",
+      "s": 2.9779999999999998,
+      "e": 3.206
+    },
+    {
+      "w": "Greek",
+      "s": 3.206,
+      "e": 3.434
+    },
+    {
+      "w": "harbour",
+      "s": 3.434,
+      "e": 3.662
+    },
+    {
+      "w": "town,",
+      "s": 3.662,
+      "e": 3.8899999999999997
+    },
+    {
+      "w": "Rome",
+      "s": 3.8899999999999997,
+      "e": 3.99
+    },
+    {
+      "w": "ruled",
+      "s": 3.99,
+      "e": 4.23
+    },
+    {
+      "w": "for",
+      "s": 4.23,
+      "e": 4.47
+    },
+    {
+      "w": "nearly",
+      "s": 4.47,
+      "e": 4.61
+    },
+    {
+      "w": "a",
+      "s": 4.61,
+      "e": 4.77
+    },
+    {
+      "w": "thousand",
+      "s": 4.77,
+      "e": 5.01
+    },
+    {
+      "w": "more",
+      "s": 5.01,
+      "e": 5.29
+    },
+    {
+      "w": "years.",
+      "s": 5.29,
+      "e": 5.51
+    },
+    {
+      "w": "This",
+      "s": 5.930000000000001,
+      "e": 6.010000000000001
+    },
+    {
+      "w": "is",
+      "s": 6.010000000000001,
+      "e": 6.11
+    },
+    {
+      "w": "the",
+      "s": 6.11,
+      "e": 6.210000000000001
+    },
+    {
+      "w": "Byzantine",
+      "s": 6.210000000000001,
+      "e": 6.470000000000001
+    },
+    {
+      "w": "Empire:",
+      "s": 6.470000000000001,
+      "e": 6.970000000000001
+    },
+    {
+      "w": "riots,",
+      "s": 7.370000000000001,
+      "e": 7.57
+    },
+    {
+      "w": "plague,",
+      "s": 7.57,
+      "e": 7.870000000000001
+    },
+    {
+      "w": "secret",
+      "s": 7.870000000000001,
+      "e": 8.370000000000001
+    },
+    {
+      "w": "fire",
+      "s": 8.370000000000001,
+      "e": 8.59
+    },
+    {
+      "w": "and",
+      "s": 8.59,
+      "e": 8.790000000000001
+    },
+    {
+      "w": "betrayal",
+      "s": 8.790000000000001,
+      "e": 9.05
+    },
+    {
+      "w": "by",
+      "s": 9.05,
+      "e": 9.350000000000001
+    },
+    {
+      "w": "friends.",
+      "s": 9.350000000000001,
+      "e": 9.610000000000001
+    },
+    {
+      "w": "So",
+      "s": 10.02,
+      "e": 10.11
+    },
+    {
+      "w": "why",
+      "s": 10.11,
+      "e": 10.2
+    },
+    {
+      "w": "was",
+      "s": 10.2,
+      "e": 10.34
+    },
+    {
+      "w": "a",
+      "s": 10.34,
+      "e": 10.42
+    },
+    {
+      "w": "Roman",
+      "s": 10.42,
+      "e": 10.58
+    },
+    {
+      "w": "emperor",
+      "s": 10.58,
+      "e": 10.94
+    },
+    {
+      "w": "still",
+      "s": 10.94,
+      "e": 11.219999999999999
+    },
+    {
+      "w": "fighting",
+      "s": 11.219999999999999,
+      "e": 11.6
+    },
+    {
+      "w": "in",
+      "s": 11.6,
+      "e": 11.799999999999999
+    },
+    {
+      "w": "1453?",
+      "s": 11.799999999999999,
+      "e": 13.18
+    },
+    {
+      "w": "Our",
+      "s": 13.659999999999998,
+      "e": 13.719999999999999
+    },
+    {
+      "w": "story",
+      "s": 13.719999999999999,
+      "e": 13.919999999999998
+    },
+    {
+      "w": "starts",
+      "s": 13.919999999999998,
+      "e": 14.179999999999998
+    },
+    {
+      "w": "in",
+      "s": 14.179999999999998,
+      "e": 14.339999999999998
+    },
+    {
+      "w": "330,",
+      "s": 14.339999999999998,
+      "e": 14.579999999999998
+    },
+    {
+      "w": "when",
+      "s": 15.379999999999999,
+      "e": 15.519999999999998
+    },
+    {
+      "w": "Constantine",
+      "s": 15.519999999999998,
+      "e": 15.899999999999999
+    },
+    {
+      "w": "rebuilt",
+      "s": 15.899999999999999,
+      "e": 16.32
+    },
+    {
+      "w": "Byzantion,",
+      "s": 16.32,
+      "e": 16.919999999999998
+    },
+    {
+      "w": "on",
+      "s": 16.919999999999998,
+      "e": 17.08
+    },
+    {
+      "w": "the",
+      "s": 17.08,
+      "e": 17.159999999999997
+    },
+    {
+      "w": "Bosphorus,",
+      "s": 17.159999999999997,
+      "e": 17.759999999999998
+    },
+    {
+      "w": "as",
+      "s": 17.759999999999998,
+      "e": 17.959999999999997
+    },
+    {
+      "w": "\"New",
+      "s": 17.959999999999997,
+      "e": 18.159999999999997
+    },
+    {
+      "w": "Rome.\"",
+      "s": 18.159999999999997,
+      "e": 18.38
+    },
+    {
+      "w": "In",
+      "s": 18.749999999999996,
+      "e": 18.809999999999995
+    },
+    {
+      "w": "395,",
+      "s": 18.809999999999995,
+      "e": 19.269999999999996
+    },
+    {
+      "w": "the",
+      "s": 19.83,
+      "e": 19.929999999999996
+    },
+    {
+      "w": "empire",
+      "s": 19.929999999999996,
+      "e": 20.089999999999996
+    },
+    {
+      "w": "split",
+      "s": 20.089999999999996,
+      "e": 20.389999999999997
+    },
+    {
+      "w": "between",
+      "s": 20.389999999999997,
+      "e": 20.649999999999995
+    },
+    {
+      "w": "two",
+      "s": 20.649999999999995,
+      "e": 20.849999999999998
+    },
+    {
+      "w": "brothers,",
+      "s": 20.849999999999998,
+      "e": 21.089999999999996
+    },
+    {
+      "w": "East",
+      "s": 21.089999999999996,
+      "e": 21.469999999999995
+    },
+    {
+      "w": "and",
+      "s": 21.469999999999995,
+      "e": 21.709999999999997
+    },
+    {
+      "w": "West.",
+      "s": 21.709999999999997,
+      "e": 21.889999999999997
+    },
+    {
+      "w": "Around",
+      "s": 22.299999999999997,
+      "e": 22.439999999999998
+    },
+    {
+      "w": "413,",
+      "s": 22.439999999999998,
+      "e": 22.72
+    },
+    {
+      "w": "giant",
+      "s": 23.4,
+      "e": 23.619999999999997
+    },
+    {
+      "w": "walls",
+      "s": 23.619999999999997,
+      "e": 23.919999999999998
+    },
+    {
+      "w": "went",
+      "s": 23.919999999999998,
+      "e": 24.119999999999997
+    },
+    {
+      "w": "up:",
+      "s": 24.119999999999997,
+      "e": 24.24
+    },
+    {
+      "w": "5.7",
+      "s": 24.24,
+      "e": 24.819999999999997
+    },
+    {
+      "w": "kilometres",
+      "s": 24.819999999999997,
+      "e": 25.4
+    },
+    {
+      "w": "long,",
+      "s": 25.4,
+      "e": 25.859999999999996
+    },
+    {
+      "w": "with",
+      "s": 25.859999999999996,
+      "e": 26.08
+    },
+    {
+      "w": "96",
+      "s": 26.08,
+      "e": 26.359999999999996
+    },
+    {
+      "w": "towers.",
+      "s": 26.359999999999996,
+      "e": 26.819999999999997
+    },
+    {
+      "w": "In",
+      "s": 27.279999999999998,
+      "e": 27.339999999999996
+    },
+    {
+      "w": "476,",
+      "s": 27.339999999999996,
+      "e": 27.999999999999996
+    },
+    {
+      "w": "a",
+      "s": 28.479999999999997,
+      "e": 28.58
+    },
+    {
+      "w": "warlord",
+      "s": 28.58,
+      "e": 28.86
+    },
+    {
+      "w": "kicked",
+      "s": 28.86,
+      "e": 29.08
+    },
+    {
+      "w": "out",
+      "s": 29.08,
+      "e": 29.259999999999998
+    },
+    {
+      "w": "the",
+      "s": 29.259999999999998,
+      "e": 29.38
+    },
+    {
+      "w": "last",
+      "s": 29.38,
+      "e": 29.54
+    },
+    {
+      "w": "western",
+      "s": 29.54,
+      "e": 29.979999999999997
+    },
+    {
+      "w": "emperor",
+      "s": 29.979999999999997,
+      "e": 30.139999999999997
+    },
+    {
+      "w": "and",
+      "s": 30.48,
+      "e": 30.53
+    },
+    {
+      "w": "posted",
+      "s": 30.48,
+      "e": 30.72
+    },
+    {
+      "w": "his",
+      "s": 30.72,
+      "e": 30.900000000000002
+    },
+    {
+      "w": "crown",
+      "s": 30.900000000000002,
+      "e": 31.12
+    },
+    {
+      "w": "and",
+      "s": 31.12,
+      "e": 31.36
+    },
+    {
+      "w": "robes",
+      "s": 31.36,
+      "e": 31.6
+    },
+    {
+      "w": "to",
+      "s": 31.6,
+      "e": 31.88
+    },
+    {
+      "w": "Constantinople.",
+      "s": 31.88,
+      "e": 32.08
+    },
+    {
+      "w": "The",
+      "s": 32.870000000000005,
+      "e": 32.93000000000001
+    },
+    {
+      "w": "western",
+      "s": 32.93000000000001,
+      "e": 33.09
+    },
+    {
+      "w": "half",
+      "s": 33.09,
+      "e": 33.330000000000005
+    },
+    {
+      "w": "collapsed.",
+      "s": 33.330000000000005,
+      "e": 33.57000000000001
+    },
+    {
+      "w": "The",
+      "s": 34.13000000000001,
+      "e": 34.19000000000001
+    },
+    {
+      "w": "Roman",
+      "s": 34.19000000000001,
+      "e": 34.33000000000001
+    },
+    {
+      "w": "Empire",
+      "s": 34.33000000000001,
+      "e": 34.71000000000001
+    },
+    {
+      "w": "did",
+      "s": 34.71000000000001,
+      "e": 34.95000000000001
+    },
+    {
+      "w": "not.",
+      "s": 34.95000000000001,
+      "e": 35.11000000000001
+    },
+    {
+      "w": "The",
+      "s": 35.54000000000001,
+      "e": 35.600000000000016
+    },
+    {
+      "w": "walls",
+      "s": 35.600000000000016,
+      "e": 35.740000000000016
+    },
+    {
+      "w": "could",
+      "s": 35.740000000000016,
+      "e": 35.94000000000001
+    },
+    {
+      "w": "stop",
+      "s": 35.94000000000001,
+      "e": 36.16000000000001
+    },
+    {
+      "w": "any",
+      "s": 36.16000000000001,
+      "e": 36.30000000000001
+    },
+    {
+      "w": "army.",
+      "s": 36.30000000000001,
+      "e": 36.58000000000001
+    },
+    {
+      "w": "But",
+      "s": 36.95000000000002,
+      "e": 37.01000000000002
+    },
+    {
+      "w": "the",
+      "s": 37.01000000000002,
+      "e": 37.070000000000014
+    },
+    {
+      "w": "danger",
+      "s": 37.070000000000014,
+      "e": 37.27000000000002
+    },
+    {
+      "w": "was",
+      "s": 37.27000000000002,
+      "e": 37.55000000000002
+    },
+    {
+      "w": "inside,",
+      "s": 37.55000000000002,
+      "e": 37.850000000000016
+    },
+    {
+      "w": "at",
+      "s": 37.850000000000016,
+      "e": 38.13000000000002
+    },
+    {
+      "w": "the",
+      "s": 38.13000000000002,
+      "e": 38.210000000000015
+    },
+    {
+      "w": "racetrack.",
+      "s": 38.210000000000015,
+      "e": 38.69000000000002
+    },
+    {
+      "w": "Under",
+      "s": 39.07000000000002,
+      "e": 39.17000000000002
+    },
+    {
+      "w": "Justinian,",
+      "s": 39.17000000000002,
+      "e": 39.590000000000025
+    },
+    {
+      "w": "chariot-racing",
+      "s": 39.75000000000002,
+      "e": 40.310000000000024
+    },
+    {
+      "w": "fans",
+      "s": 40.310000000000024,
+      "e": 40.590000000000025
+    },
+    {
+      "w": "belonged",
+      "s": 40.590000000000025,
+      "e": 40.97000000000002
+    },
+    {
+      "w": "to",
+      "s": 40.97000000000002,
+      "e": 41.15000000000002
+    },
+    {
+      "w": "rival",
+      "s": 41.15000000000002,
+      "e": 41.33000000000002
+    },
+    {
+      "w": "gangs:",
+      "s": 41.33000000000002,
+      "e": 41.65000000000002
+    },
+    {
+      "w": "the",
+      "s": 42.130000000000024,
+      "e": 42.23000000000002
+    },
+    {
+      "w": "Blues",
+      "s": 42.23000000000002,
+      "e": 42.39000000000002
+    },
+    {
+      "w": "and",
+      "s": 42.39000000000002,
+      "e": 42.65000000000002
+    },
+    {
+      "w": "the",
+      "s": 42.65000000000002,
+      "e": 42.75000000000002
+    },
+    {
+      "w": "Greens.",
+      "s": 42.75000000000002,
+      "e": 42.89000000000002
+    },
+    {
+      "w": "In",
+      "s": 43.46000000000002,
+      "e": 43.51000000000002
+    },
+    {
+      "w": "532,",
+      "s": 43.46000000000002,
+      "e": 44.060000000000024
+    },
+    {
+      "w": "both",
+      "s": 44.060000000000024,
+      "e": 44.50000000000002
+    },
+    {
+      "w": "gangs",
+      "s": 44.50000000000002,
+      "e": 44.74000000000002
+    },
+    {
+      "w": "rioted,",
+      "s": 44.74000000000002,
+      "e": 45.300000000000026
+    },
+    {
+      "w": "chanting",
+      "s": 45.300000000000026,
+      "e": 45.50000000000002
+    },
+    {
+      "w": "\"Nika!\",",
+      "s": 45.50000000000002,
+      "e": 45.94000000000002
+    },
+    {
+      "w": "and",
+      "s": 45.94000000000002,
+      "e": 46.40000000000002
+    },
+    {
+      "w": "burned",
+      "s": 46.40000000000002,
+      "e": 46.54000000000002
+    },
+    {
+      "w": "the",
+      "s": 46.54000000000002,
+      "e": 46.74000000000002
+    },
+    {
+      "w": "city",
+      "s": 46.74000000000002,
+      "e": 46.90000000000002
+    },
+    {
+      "w": "centre.",
+      "s": 46.90000000000002,
+      "e": 47.32000000000002
+    },
+    {
+      "w": "Justinian",
+      "s": 47.520000000000024,
+      "e": 47.78750000000002
+    },
+    {
+      "w": "packed",
+      "s": 47.78750000000002,
+      "e": 48.05500000000002
+    },
+    {
+      "w": "to",
+      "s": 48.05500000000002,
+      "e": 48.322500000000026
+    },
+    {
+      "w": "flee.",
+      "s": 48.322500000000026,
+      "e": 48.590000000000025
+    },
+    {
+      "w": "According",
+      "s": 48.79000000000003,
+      "e": 48.99000000000003
+    },
+    {
+      "w": "to",
+      "s": 48.99000000000003,
+      "e": 49.15000000000003
+    },
+    {
+      "w": "the",
+      "s": 49.15000000000003,
+      "e": 49.25000000000003
+    },
+    {
+      "w": "historian",
+      "s": 49.25000000000003,
+      "e": 49.510000000000026
+    },
+    {
+      "w": "Procopius,",
+      "s": 49.510000000000026,
+      "e": 50.190000000000026
+    },
+    {
+      "w": "Empress",
+      "s": 50.47000000000003,
+      "e": 50.763333333333364
+    },
+    {
+      "w": "Theodora",
+      "s": 50.763333333333364,
+      "e": 51.05666666666669
+    },
+    {
+      "w": "said",
+      "s": 51.05666666666669,
+      "e": 51.35000000000003
+    },
+    {
+      "w": "she'd",
+      "s": 51.35000000000003,
+      "e": 51.53000000000003
+    },
+    {
+      "w": "rather",
+      "s": 51.53000000000003,
+      "e": 51.61000000000003
+    },
+    {
+      "w": "die",
+      "s": 51.61000000000003,
+      "e": 51.870000000000026
+    },
+    {
+      "w": "in",
+      "s": 51.870000000000026,
+      "e": 52.090000000000025
+    },
+    {
+      "w": "imperial",
+      "s": 52.090000000000025,
+      "e": 52.35000000000003
+    },
+    {
+      "w": "purple",
+      "s": 52.35000000000003,
+      "e": 52.71000000000003
+    },
+    {
+      "w": "than",
+      "s": 52.71000000000003,
+      "e": 53.010000000000026
+    },
+    {
+      "w": "run.",
+      "s": 53.010000000000026,
+      "e": 53.190000000000026
+    },
+    {
+      "w": "So",
+      "s": 53.53000000000003,
+      "e": 53.59000000000003
+    },
+    {
+      "w": "General",
+      "s": 53.59000000000003,
+      "e": 53.75000000000003
+    },
+    {
+      "w": "Belisarius",
+      "s": 53.75000000000003,
+      "e": 54.25000000000003
+    },
+    {
+      "w": "sealed",
+      "s": 54.25000000000003,
+      "e": 54.53000000000003
+    },
+    {
+      "w": "the",
+      "s": 54.53000000000003,
+      "e": 54.77000000000003
+    },
+    {
+      "w": "Hippodrome",
+      "s": 54.77000000000003,
+      "e": 55.15000000000003
+    },
+    {
+      "w": "gates.",
+      "s": 55.15000000000003,
+      "e": 55.37000000000003
+    },
+    {
+      "w": "Procopius",
+      "s": 55.820000000000036,
+      "e": 56.26000000000003
+    },
+    {
+      "w": "claims",
+      "s": 56.26000000000003,
+      "e": 56.400000000000034
+    },
+    {
+      "w": "about",
+      "s": 56.400000000000034,
+      "e": 56.680000000000035
+    },
+    {
+      "w": "30,000",
+      "s": 56.680000000000035,
+      "e": 57.320000000000036
+    },
+    {
+      "w": "people",
+      "s": 57.320000000000036,
+      "e": 57.640000000000036
+    },
+    {
+      "w": "died",
+      "s": 57.640000000000036,
+      "e": 57.860000000000035
+    },
+    {
+      "w": "inside.",
+      "s": 57.860000000000035,
+      "e": 58.10000000000004
+    },
+    {
+      "w": "Weeks",
+      "s": 58.66000000000004,
+      "e": 58.78000000000004
+    },
+    {
+      "w": "later,",
+      "s": 58.78000000000004,
+      "e": 58.94000000000004
+    },
+    {
+      "w": "work",
+      "s": 59.12000000000004,
+      "e": 59.26000000000004
+    },
+    {
+      "w": "began",
+      "s": 59.26000000000004,
+      "e": 59.56000000000004
+    },
+    {
+      "w": "on",
+      "s": 59.56000000000004,
+      "e": 59.820000000000036
+    },
+    {
+      "w": "a",
+      "s": 59.820000000000036,
+      "e": 59.90000000000004
+    },
+    {
+      "w": "new",
+      "s": 59.90000000000004,
+      "e": 60.02000000000004
+    },
+    {
+      "w": "Hagia",
+      "s": 60.02000000000004,
+      "e": 60.20000000000004
+    },
+    {
+      "w": "Sophia.",
+      "s": 60.20000000000004,
+      "e": 60.54000000000004
+    },
+    {
+      "w": "It",
+      "s": 61.05000000000004,
+      "e": 61.11000000000004
+    },
+    {
+      "w": "opened",
+      "s": 61.11000000000004,
+      "e": 61.25000000000004
+    },
+    {
+      "w": "in",
+      "s": 61.25000000000004,
+      "e": 61.41000000000004
+    },
+    {
+      "w": "537,",
+      "s": 61.41000000000004,
+      "e": 62.11000000000004
+    },
+    {
+      "w": "with",
+      "s": 62.11000000000004,
+      "e": 62.81000000000004
+    },
+    {
+      "w": "a",
+      "s": 62.81000000000004,
+      "e": 62.85000000000004
+    },
+    {
+      "w": "dome",
+      "s": 62.85000000000004,
+      "e": 63.03000000000004
+    },
+    {
+      "w": "31",
+      "s": 63.03000000000004,
+      "e": 63.43000000000004
+    },
+    {
+      "w": "metres",
+      "s": 63.43000000000004,
+      "e": 63.79000000000004
+    },
+    {
+      "w": "wide.",
+      "s": 63.79000000000004,
+      "e": 64.07000000000004
+    },
+    {
+      "w": "For",
+      "s": 64.46000000000004,
+      "e": 64.52000000000004
+    },
+    {
+      "w": "nearly",
+      "s": 64.52000000000004,
+      "e": 64.62000000000003
+    },
+    {
+      "w": "a",
+      "s": 64.62000000000003,
+      "e": 64.80000000000004
+    },
+    {
+      "w": "thousand",
+      "s": 64.80000000000004,
+      "e": 65.02000000000004
+    },
+    {
+      "w": "years,",
+      "s": 65.02000000000004,
+      "e": 65.38000000000004
+    },
+    {
+      "w": "no",
+      "s": 65.68000000000004,
+      "e": 65.78000000000003
+    },
+    {
+      "w": "cathedral",
+      "s": 65.78000000000003,
+      "e": 66.08000000000004
+    },
+    {
+      "w": "on",
+      "s": 66.08000000000004,
+      "e": 66.32000000000004
+    },
+    {
+      "w": "Earth",
+      "s": 66.32000000000004,
+      "e": 66.50000000000004
+    },
+    {
+      "w": "was",
+      "s": 66.50000000000004,
+      "e": 66.66000000000004
+    },
+    {
+      "w": "bigger.",
+      "s": 66.66000000000004,
+      "e": 66.86000000000004
+    },
+    {
+      "w": "Justinian",
+      "s": 67.25000000000004,
+      "e": 67.59000000000005
+    },
+    {
+      "w": "also",
+      "s": 67.59000000000005,
+      "e": 67.77000000000004
+    },
+    {
+      "w": "squeezed",
+      "s": 67.77000000000004,
+      "e": 68.13000000000004
+    },
+    {
+      "w": "Roman",
+      "s": 68.13000000000004,
+      "e": 68.47000000000004
+    },
+    {
+      "w": "law",
+      "s": 68.47000000000004,
+      "e": 68.77000000000004
+    },
+    {
+      "w": "into",
+      "s": 68.77000000000004,
+      "e": 68.95000000000005
+    },
+    {
+      "w": "one",
+      "s": 68.95000000000005,
+      "e": 69.15000000000005
+    },
+    {
+      "w": "code.",
+      "s": 69.15000000000005,
+      "e": 69.37000000000005
+    },
+    {
+      "w": "Then",
+      "s": 69.77000000000004,
+      "e": 69.85000000000004
+    },
+    {
+      "w": "his",
+      "s": 69.85000000000004,
+      "e": 69.95000000000005
+    },
+    {
+      "w": "generals",
+      "s": 69.95000000000005,
+      "e": 70.21000000000004
+    },
+    {
+      "w": "retook",
+      "s": 70.21000000000004,
+      "e": 70.57000000000004
+    },
+    {
+      "w": "North",
+      "s": 70.57000000000004,
+      "e": 70.79000000000003
+    },
+    {
+      "w": "Africa",
+      "s": 70.79000000000003,
+      "e": 71.15000000000003
+    },
+    {
+      "w": "and",
+      "s": 71.15000000000003,
+      "e": 71.57000000000004
+    },
+    {
+      "w": "Italy.",
+      "s": 71.57000000000004,
+      "e": 71.71000000000004
+    },
+    {
+      "w": "But",
+      "s": 72.11000000000004,
+      "e": 72.19000000000004
+    },
+    {
+      "w": "in",
+      "s": 72.19000000000004,
+      "e": 72.21000000000004
+    },
+    {
+      "w": "541,",
+      "s": 72.21000000000004,
+      "e": 72.83000000000004
+    },
+    {
+      "w": "plague",
+      "s": 73.29000000000005,
+      "e": 73.41000000000004
+    },
+    {
+      "w": "struck,",
+      "s": 73.41000000000004,
+      "e": 73.75000000000004
+    },
+    {
+      "w": "probably",
+      "s": 74.09000000000005,
+      "e": 74.31000000000004
+    },
+    {
+      "w": "carried",
+      "s": 74.31000000000004,
+      "e": 74.61000000000004
+    },
+    {
+      "w": "by",
+      "s": 74.61000000000004,
+      "e": 74.83000000000004
+    },
+    {
+      "w": "rats",
+      "s": 74.83000000000004,
+      "e": 75.07000000000004
+    },
+    {
+      "w": "on",
+      "s": 75.07000000000004,
+      "e": 75.27000000000004
+    },
+    {
+      "w": "grain",
+      "s": 75.27000000000004,
+      "e": 75.45000000000005
+    },
+    {
+      "w": "ships.",
+      "s": 75.45000000000005,
+      "e": 75.75000000000004
+    },
+    {
+      "w": "The",
+      "s": 76.16000000000004,
+      "e": 76.22000000000004
+    },
+    {
+      "w": "wars",
+      "s": 76.22000000000004,
+      "e": 76.36000000000004
+    },
+    {
+      "w": "and",
+      "s": 76.36000000000004,
+      "e": 76.54000000000003
+    },
+    {
+      "w": "plague",
+      "s": 76.54000000000003,
+      "e": 76.72000000000004
+    },
+    {
+      "w": "drained",
+      "s": 76.72000000000004,
+      "e": 77.00000000000004
+    },
+    {
+      "w": "Rome,",
+      "s": 77.00000000000004,
+      "e": 77.34000000000005
+    },
+    {
+      "w": "just",
+      "s": 77.62000000000003,
+      "e": 77.72000000000003
+    },
+    {
+      "w": "as",
+      "s": 77.72000000000003,
+      "e": 77.82000000000004
+    },
+    {
+      "w": "a",
+      "s": 77.82000000000004,
+      "e": 77.90000000000003
+    },
+    {
+      "w": "new",
+      "s": 77.90000000000003,
+      "e": 78.02000000000004
+    },
+    {
+      "w": "power",
+      "s": 78.02000000000004,
+      "e": 78.26000000000003
+    },
+    {
+      "w": "rose",
+      "s": 78.26000000000003,
+      "e": 78.58000000000003
+    },
+    {
+      "w": "from",
+      "s": 78.58000000000003,
+      "e": 78.78000000000003
+    },
+    {
+      "w": "the",
+      "s": 78.78000000000003,
+      "e": 78.88000000000004
+    },
+    {
+      "w": "desert.",
+      "s": 78.88000000000004,
+      "e": 79.04000000000003
+    },
+    {
+      "w": "Arab",
+      "s": 79.60000000000002,
+      "e": 79.66000000000003
+    },
+    {
+      "w": "armies",
+      "s": 79.66000000000003,
+      "e": 79.90000000000002
+    },
+    {
+      "w": "took",
+      "s": 79.90000000000002,
+      "e": 80.10000000000002
+    },
+    {
+      "w": "Syria",
+      "s": 80.10000000000002,
+      "e": 80.34000000000002
+    },
+    {
+      "w": "in",
+      "s": 80.34000000000002,
+      "e": 80.52000000000002
+    },
+    {
+      "w": "636,",
+      "s": 80.52000000000002,
+      "e": 81.24000000000002
+    },
+    {
+      "w": "then",
+      "s": 81.66000000000003,
+      "e": 81.84000000000002
+    },
+    {
+      "w": "Egypt,",
+      "s": 81.84000000000002,
+      "e": 82.12000000000002
+    },
+    {
+      "w": "the",
+      "s": 82.12000000000002,
+      "e": 82.40000000000002
+    },
+    {
+      "w": "empire's",
+      "s": 82.40000000000002,
+      "e": 82.86000000000003
+    },
+    {
+      "w": "breadbasket.",
+      "s": 82.86000000000003,
+      "e": 83.28000000000003
+    },
+    {
+      "w": "Twice,",
+      "s": 83.65000000000002,
+      "e": 83.79000000000002
+    },
+    {
+      "w": "in",
+      "s": 83.79000000000002,
+      "e": 83.97000000000001
+    },
+    {
+      "w": "674",
+      "s": 83.97000000000001,
+      "e": 84.61000000000001
+    },
+    {
+      "w": "and",
+      "s": 84.61000000000001,
+      "e": 85.05000000000003
+    },
+    {
+      "w": "717,",
+      "s": 85.05000000000003,
+      "e": 85.79000000000002
+    },
+    {
+      "w": "Arab",
+      "s": 86.27000000000002,
+      "e": 86.45000000000002
+    },
+    {
+      "w": "forces",
+      "s": 86.45000000000002,
+      "e": 86.75000000000001
+    },
+    {
+      "w": "besieged",
+      "s": 86.75000000000001,
+      "e": 87.17000000000002
+    },
+    {
+      "w": "Constantinople.",
+      "s": 87.17000000000002,
+      "e": 87.49000000000002
+    },
+    {
+      "w": "The",
+      "s": 88.30000000000003,
+      "e": 88.36000000000003
+    },
+    {
+      "w": "Romans",
+      "s": 88.36000000000003,
+      "e": 88.50000000000003
+    },
+    {
+      "w": "answered",
+      "s": 88.50000000000003,
+      "e": 88.84000000000003
+    },
+    {
+      "w": "with",
+      "s": 88.84000000000003,
+      "e": 89.08000000000003
+    },
+    {
+      "w": "Greek",
+      "s": 89.08000000000003,
+      "e": 89.20000000000003
+    },
+    {
+      "w": "fire:",
+      "s": 89.20000000000003,
+      "e": 89.56000000000003
+    },
+    {
+      "w": "liquid",
+      "s": 89.92000000000003,
+      "e": 90.06000000000003
+    },
+    {
+      "w": "flame",
+      "s": 90.06000000000003,
+      "e": 90.40000000000002
+    },
+    {
+      "w": "that",
+      "s": 90.40000000000002,
+      "e": 90.62000000000002
+    },
+    {
+      "w": "burned",
+      "s": 90.62000000000002,
+      "e": 90.80000000000003
+    },
+    {
+      "w": "on",
+      "s": 90.80000000000003,
+      "e": 91.00000000000003
+    },
+    {
+      "w": "water.",
+      "s": 91.00000000000003,
+      "e": 91.26000000000002
+    },
+    {
+      "w": "By",
+      "s": 91.58000000000003,
+      "e": 91.66000000000003
+    },
+    {
+      "w": "718,",
+      "s": 91.66000000000003,
+      "e": 92.08000000000003
+    },
+    {
+      "w": "fire,",
+      "s": 92.60000000000002,
+      "e": 92.78000000000003
+    },
+    {
+      "w": "frost",
+      "s": 93.32000000000002,
+      "e": 93.32000000000002
+    },
+    {
+      "w": "and",
+      "s": 93.32000000000002,
+      "e": 93.52000000000002
+    },
+    {
+      "w": "Bulgar",
+      "s": 93.52000000000002,
+      "e": 93.80000000000003
+    },
+    {
+      "w": "raiders",
+      "s": 93.80000000000003,
+      "e": 94.18000000000002
+    },
+    {
+      "w": "had",
+      "s": 94.18000000000002,
+      "e": 94.26000000000003
+    },
+    {
+      "w": "shattered",
+      "s": 94.26000000000003,
+      "e": 94.48000000000003
+    },
+    {
+      "w": "the",
+      "s": 94.48000000000003,
+      "e": 94.66000000000003
+    },
+    {
+      "w": "attackers.",
+      "s": 94.66000000000003,
+      "e": 94.86000000000003
+    },
+    {
+      "w": "Later,",
+      "s": 95.37000000000003,
+      "e": 95.67000000000003
+    },
+    {
+      "w": "Basil",
+      "s": 95.67000000000003,
+      "e": 95.97000000000003
+    },
+    {
+      "w": "II,",
+      "s": 95.97000000000003,
+      "e": 96.23000000000003
+    },
+    {
+      "w": "the",
+      "s": 96.49000000000004,
+      "e": 96.59000000000003
+    },
+    {
+      "w": "Bulgar-Slayer,",
+      "s": 96.59000000000003,
+      "e": 97.01000000000003
+    },
+    {
+      "w": "conquered",
+      "s": 97.01000000000003,
+      "e": 97.37000000000003
+    },
+    {
+      "w": "Bulgaria.",
+      "s": 97.37000000000003,
+      "e": 97.67000000000003
+    },
+    {
+      "w": "A",
+      "s": 98.26000000000003,
+      "e": 98.31000000000003
+    },
+    {
+      "w": "later",
+      "s": 98.26000000000003,
+      "e": 98.40000000000003
+    },
+    {
+      "w": "chronicler",
+      "s": 98.40000000000003,
+      "e": 98.90000000000003
+    },
+    {
+      "w": "claims",
+      "s": 98.90000000000003,
+      "e": 99.08000000000003
+    },
+    {
+      "w": "he",
+      "s": 99.08000000000003,
+      "e": 99.26000000000003
+    },
+    {
+      "w": "blinded",
+      "s": 99.26000000000003,
+      "e": 99.50000000000003
+    },
+    {
+      "w": "15,000",
+      "s": 99.50000000000003,
+      "e": 100.48000000000003
+    },
+    {
+      "w": "Bulgarian",
+      "s": 100.48000000000003,
+      "e": 100.78000000000003
+    },
+    {
+      "w": "prisoners.",
+      "s": 100.78000000000003,
+      "e": 101.16000000000004
+    },
+    {
+      "w": "The",
+      "s": 101.74000000000004,
+      "e": 101.80000000000004
+    },
+    {
+      "w": "empire's",
+      "s": 101.80000000000004,
+      "e": 102.20000000000003
+    },
+    {
+      "w": "gold",
+      "s": 102.20000000000003,
+      "e": 102.38000000000004
+    },
+    {
+      "w": "coin,",
+      "s": 102.38000000000004,
+      "e": 102.68000000000004
+    },
+    {
+      "w": "the",
+      "s": 102.88000000000004,
+      "e": 102.96000000000004
+    },
+    {
+      "w": "solidus,",
+      "s": 102.96000000000004,
+      "e": 103.56000000000003
+    },
+    {
+      "w": "was",
+      "s": 103.56000000000003,
+      "e": 103.74000000000004
+    },
+    {
+      "w": "the",
+      "s": 103.74000000000004,
+      "e": 103.84000000000003
+    },
+    {
+      "w": "dollar",
+      "s": 103.84000000000003,
+      "e": 104.08000000000004
+    },
+    {
+      "w": "of",
+      "s": 104.08000000000004,
+      "e": 104.24000000000004
+    },
+    {
+      "w": "the",
+      "s": 104.24000000000004,
+      "e": 104.28000000000004
+    },
+    {
+      "w": "Middle",
+      "s": 104.28000000000004,
+      "e": 104.40000000000003
+    },
+    {
+      "w": "Ages.",
+      "s": 104.40000000000003,
+      "e": 104.72000000000004
+    },
+    {
+      "w": "But",
+      "s": 105.20000000000005,
+      "e": 105.26000000000005
+    },
+    {
+      "w": "after",
+      "s": 105.26000000000005,
+      "e": 105.42000000000004
+    },
+    {
+      "w": "Basil,",
+      "s": 105.42000000000004,
+      "e": 105.66000000000004
+    },
+    {
+      "w": "the",
+      "s": 106.00000000000004,
+      "e": 106.02000000000004
+    },
+    {
+      "w": "gold",
+      "s": 106.02000000000004,
+      "e": 106.16000000000004
+    },
+    {
+      "w": "got",
+      "s": 106.16000000000004,
+      "e": 106.36000000000004
+    },
+    {
+      "w": "watered",
+      "s": 106.36000000000004,
+      "e": 106.62000000000005
+    },
+    {
+      "w": "down.",
+      "s": 106.62000000000005,
+      "e": 106.88000000000005
+    },
+    {
+      "w": "In",
+      "s": 107.25000000000004,
+      "e": 107.31000000000004
+    },
+    {
+      "w": "1071,",
+      "s": 107.31000000000004,
+      "e": 107.93000000000005
+    },
+    {
+      "w": "at",
+      "s": 107.93000000000005,
+      "e": 108.41000000000004
+    },
+    {
+      "w": "Manzikert,",
+      "s": 108.41000000000004,
+      "e": 109.11000000000004
+    },
+    {
+      "w": "the",
+      "s": 109.11000000000004,
+      "e": 109.19000000000004
+    },
+    {
+      "w": "Turks",
+      "s": 109.19000000000004,
+      "e": 109.35000000000004
+    },
+    {
+      "w": "captured",
+      "s": 109.35000000000004,
+      "e": 109.77000000000004
+    },
+    {
+      "w": "an",
+      "s": 109.77000000000004,
+      "e": 109.99000000000004
+    },
+    {
+      "w": "emperor.",
+      "s": 109.99000000000004,
+      "e": 110.13000000000004
+    },
+    {
+      "w": "In",
+      "s": 110.56000000000004,
+      "e": 111.23000000000005
+    },
+    {
+      "w": "1204,",
+      "s": 111.23000000000005,
+      "e": 111.90000000000005
+    },
+    {
+      "w": "a",
+      "s": 111.90000000000005,
+      "e": 112.00000000000004
+    },
+    {
+      "w": "crusade",
+      "s": 112.00000000000004,
+      "e": 112.18000000000005
+    },
+    {
+      "w": "steered",
+      "s": 112.18000000000005,
+      "e": 112.56000000000004
+    },
+    {
+      "w": "by",
+      "s": 112.56000000000004,
+      "e": 112.78000000000004
+    },
+    {
+      "w": "Venice's",
+      "s": 112.78000000000004,
+      "e": 113.16000000000004
+    },
+    {
+      "w": "blind",
+      "s": 113.16000000000004,
+      "e": 113.34000000000005
+    },
+    {
+      "w": "old",
+      "s": 113.34000000000005,
+      "e": 113.70000000000005
+    },
+    {
+      "w": "leader",
+      "s": 113.70000000000005,
+      "e": 113.94000000000004
+    },
+    {
+      "w": "looted",
+      "s": 114.25000000000004,
+      "e": 114.43000000000005
+    },
+    {
+      "w": "the",
+      "s": 114.43000000000005,
+      "e": 114.51000000000005
+    },
+    {
+      "w": "greatest",
+      "s": 114.51000000000005,
+      "e": 114.71000000000004
+    },
+    {
+      "w": "Christian",
+      "s": 114.71000000000004,
+      "e": 115.03000000000004
+    },
+    {
+      "w": "city.",
+      "s": 115.03000000000004,
+      "e": 115.41000000000004
+    },
+    {
+      "w": "The",
+      "s": 115.79000000000005,
+      "e": 115.85000000000005
+    },
+    {
+      "w": "Romans",
+      "s": 115.85000000000005,
+      "e": 115.95000000000005
+    },
+    {
+      "w": "won",
+      "s": 115.95000000000005,
+      "e": 116.29000000000005
+    },
+    {
+      "w": "it",
+      "s": 116.29000000000005,
+      "e": 116.39000000000004
+    },
+    {
+      "w": "back",
+      "s": 116.39000000000004,
+      "e": 116.55000000000005
+    },
+    {
+      "w": "57",
+      "s": 116.55000000000005,
+      "e": 116.95000000000005
+    },
+    {
+      "w": "years",
+      "s": 116.95000000000005,
+      "e": 117.31000000000004
+    },
+    {
+      "w": "later,",
+      "s": 117.31000000000004,
+      "e": 117.57000000000005
+    },
+    {
+      "w": "but",
+      "s": 117.79000000000005,
+      "e": 117.87000000000005
+    },
+    {
+      "w": "a",
+      "s": 117.87000000000005,
+      "e": 117.91000000000005
+    },
+    {
+      "w": "new",
+      "s": 117.91000000000005,
+      "e": 118.03000000000004
+    },
+    {
+      "w": "enemy",
+      "s": 118.03000000000004,
+      "e": 118.27000000000005
+    },
+    {
+      "w": "was",
+      "s": 118.27000000000005,
+      "e": 118.53000000000004
+    },
+    {
+      "w": "waiting.",
+      "s": 118.53000000000004,
+      "e": 118.79000000000005
+    },
+    {
+      "w": "Then",
+      "s": 119.31000000000004,
+      "e": 119.39000000000004
+    },
+    {
+      "w": "the",
+      "s": 119.39000000000004,
+      "e": 119.45000000000005
+    },
+    {
+      "w": "final",
+      "s": 119.45000000000005,
+      "e": 119.61000000000004
+    },
+    {
+      "w": "boss",
+      "s": 119.61000000000004,
+      "e": 119.81000000000004
+    },
+    {
+      "w": "arrived:",
+      "s": 119.81000000000004,
+      "e": 120.21000000000005
+    },
+    {
+      "w": "Sultan",
+      "s": 120.57000000000005,
+      "e": 120.75000000000004
+    },
+    {
+      "w": "Mehmed",
+      "s": 120.75000000000004,
+      "e": 121.21000000000005
+    },
+    {
+      "w": "II,",
+      "s": 121.21000000000005,
+      "e": 121.47000000000004
+    },
+    {
+      "w": "aged",
+      "s": 121.47000000000004,
+      "e": 121.79000000000005
+    },
+    {
+      "w": "21.",
+      "s": 121.79000000000005,
+      "e": 122.17000000000004
+    },
+    {
+      "w": "He",
+      "s": 122.67000000000004,
+      "e": 122.69000000000004
+    },
+    {
+      "w": "brought",
+      "s": 122.69000000000004,
+      "e": 122.81000000000004
+    },
+    {
+      "w": "giant",
+      "s": 122.81000000000004,
+      "e": 123.05000000000004
+    },
+    {
+      "w": "cannons",
+      "s": 123.05000000000004,
+      "e": 123.43000000000005
+    },
+    {
+      "w": "built",
+      "s": 123.43000000000005,
+      "e": 123.73000000000005
+    },
+    {
+      "w": "by",
+      "s": 123.73000000000005,
+      "e": 123.93000000000005
+    },
+    {
+      "w": "a",
+      "s": 123.93000000000005,
+      "e": 124.01000000000005
+    },
+    {
+      "w": "gunsmith",
+      "s": 124.01000000000005,
+      "e": 124.33000000000004
+    },
+    {
+      "w": "named",
+      "s": 124.33000000000004,
+      "e": 124.57000000000005
+    },
+    {
+      "w": "Orban.",
+      "s": 124.57000000000005,
+      "e": 124.93000000000005
+    },
+    {
+      "w": "He'd",
+      "s": 125.13000000000005,
+      "e": 125.18000000000005
+    },
+    {
+      "w": "reportedly",
+      "s": 125.17000000000006,
+      "e": 125.39000000000006
+    },
+    {
+      "w": "offered",
+      "s": 125.39000000000006,
+      "e": 125.81000000000006
+    },
+    {
+      "w": "them",
+      "s": 125.81000000000006,
+      "e": 126.01000000000005
+    },
+    {
+      "w": "to",
+      "s": 126.01000000000005,
+      "e": 126.13000000000005
+    },
+    {
+      "w": "the",
+      "s": 126.13000000000005,
+      "e": 126.21000000000005
+    },
+    {
+      "w": "Romans",
+      "s": 126.21000000000005,
+      "e": 126.39000000000006
+    },
+    {
+      "w": "first,",
+      "s": 126.39000000000006,
+      "e": 126.77000000000005
+    },
+    {
+      "w": "who",
+      "s": 127.11000000000006,
+      "e": 127.17000000000006
+    },
+    {
+      "w": "couldn't",
+      "s": 127.17000000000006,
+      "e": 127.41000000000005
+    },
+    {
+      "w": "pay.",
+      "s": 127.41000000000005,
+      "e": 127.57000000000005
+    },
+    {
+      "w": "Stone",
+      "s": 127.92000000000006,
+      "e": 128.06000000000006
+    },
+    {
+      "w": "balls",
+      "s": 128.06000000000006,
+      "e": 128.24000000000007
+    },
+    {
+      "w": "smashed",
+      "s": 128.24000000000007,
+      "e": 128.56000000000006
+    },
+    {
+      "w": "walls",
+      "s": 128.56000000000006,
+      "e": 128.94000000000005
+    },
+    {
+      "w": "that",
+      "s": 128.94000000000005,
+      "e": 129.16000000000005
+    },
+    {
+      "w": "had",
+      "s": 129.16000000000005,
+      "e": 129.24000000000007
+    },
+    {
+      "w": "held",
+      "s": 129.24000000000007,
+      "e": 129.42000000000007
+    },
+    {
+      "w": "for",
+      "s": 129.42000000000007,
+      "e": 129.62000000000006
+    },
+    {
+      "w": "a",
+      "s": 129.62000000000006,
+      "e": 129.74000000000007
+    },
+    {
+      "w": "thousand",
+      "s": 129.74000000000007,
+      "e": 129.90000000000006
+    },
+    {
+      "w": "years.",
+      "s": 129.90000000000006,
+      "e": 130.22000000000006
+    },
+    {
+      "w": "Mehmed",
+      "s": 130.61000000000004,
+      "e": 130.73000000000005
+    },
+    {
+      "w": "dragged",
+      "s": 130.73000000000005,
+      "e": 130.93000000000004
+    },
+    {
+      "w": "about",
+      "s": 130.93000000000004,
+      "e": 131.23000000000005
+    },
+    {
+      "w": "70",
+      "s": 131.23000000000005,
+      "e": 131.47000000000006
+    },
+    {
+      "w": "ships",
+      "s": 131.47000000000006,
+      "e": 131.73000000000005
+    },
+    {
+      "w": "overland",
+      "s": 131.73000000000005,
+      "e": 132.21000000000004
+    },
+    {
+      "w": "on",
+      "s": 132.21000000000004,
+      "e": 132.37000000000003
+    },
+    {
+      "w": "greased",
+      "s": 132.37000000000003,
+      "e": 132.69000000000005
+    },
+    {
+      "w": "logs,",
+      "s": 132.69000000000005,
+      "e": 132.93000000000004
+    },
+    {
+      "w": "past",
+      "s": 132.93000000000004,
+      "e": 133.43000000000004
+    },
+    {
+      "w": "the",
+      "s": 133.43000000000004,
+      "e": 133.67000000000004
+    },
+    {
+      "w": "harbour",
+      "s": 133.67000000000004,
+      "e": 133.81000000000003
+    },
+    {
+      "w": "chain.",
+      "s": 133.81000000000003,
+      "e": 134.15000000000003
+    },
+    {
+      "w": "About",
+      "s": 134.49000000000004,
+      "e": 134.59000000000003
+    },
+    {
+      "w": "7,000",
+      "s": 134.59000000000003,
+      "e": 135.11000000000004
+    },
+    {
+      "w": "defenders",
+      "s": 135.11000000000004,
+      "e": 135.53000000000003
+    },
+    {
+      "w": "faced",
+      "s": 135.53000000000003,
+      "e": 135.91000000000003
+    },
+    {
+      "w": "up",
+      "s": 135.91000000000003,
+      "e": 136.17000000000004
+    },
+    {
+      "w": "to",
+      "s": 136.17000000000004,
+      "e": 136.27000000000004
+    },
+    {
+      "w": "80,000",
+      "s": 136.27000000000004,
+      "e": 136.89000000000004
+    },
+    {
+      "w": "attackers.",
+      "s": 136.89000000000004,
+      "e": 137.23000000000005
+    },
+    {
+      "w": "But",
+      "s": 137.65000000000003,
+      "e": 137.73000000000005
+    },
+    {
+      "w": "here's",
+      "s": 137.73000000000005,
+      "e": 137.91000000000003
+    },
+    {
+      "w": "the",
+      "s": 137.91000000000003,
+      "e": 137.99000000000004
+    },
+    {
+      "w": "twist",
+      "s": 137.99000000000004,
+      "e": 138.13000000000002
+    },
+    {
+      "w": "most",
+      "s": 138.13000000000002,
+      "e": 138.43000000000004
+    },
+    {
+      "w": "people",
+      "s": 138.43000000000004,
+      "e": 138.61000000000004
+    },
+    {
+      "w": "forget.",
+      "s": 138.61000000000004,
+      "e": 138.89000000000004
+    },
+    {
+      "w": "The",
+      "s": 139.26000000000002,
+      "e": 139.32000000000002
+    },
+    {
+      "w": "last",
+      "s": 139.32000000000002,
+      "e": 139.46
+    },
+    {
+      "w": "emperor",
+      "s": 139.46,
+      "e": 139.68
+    },
+    {
+      "w": "was",
+      "s": 139.68,
+      "e": 139.92000000000002
+    },
+    {
+      "w": "Constantine,",
+      "s": 139.92000000000002,
+      "e": 140.3
+    },
+    {
+      "w": "son",
+      "s": 140.8,
+      "e": 140.96
+    },
+    {
+      "w": "of",
+      "s": 140.96,
+      "e": 141.04000000000002
+    },
+    {
+      "w": "Helena.",
+      "s": 141.04000000000002,
+      "e": 141.44000000000003
+    },
+    {
+      "w": "So",
+      "s": 141.64000000000001,
+      "e": 141.69000000000003
+    },
+    {
+      "w": "was",
+      "s": 141.68,
+      "e": 141.78
+    },
+    {
+      "w": "the",
+      "s": 141.78,
+      "e": 141.86
+    },
+    {
+      "w": "city's",
+      "s": 141.86,
+      "e": 142.12
+    },
+    {
+      "w": "first",
+      "s": 142.12,
+      "e": 142.3
+    },
+    {
+      "w": "emperor,",
+      "s": 142.3,
+      "e": 142.66000000000003
+    },
+    {
+      "w": "1,123",
+      "s": 142.66000000000003,
+      "e": 143.98000000000002
+    },
+    {
+      "w": "years",
+      "s": 143.98000000000002,
+      "e": 144.50000000000003
+    },
+    {
+      "w": "earlier.",
+      "s": 144.50000000000003,
+      "e": 144.72000000000003
+    },
+    {
+      "w": "On",
+      "s": 145.14000000000001,
+      "e": 145.20000000000002
+    },
+    {
+      "w": "29",
+      "s": 145.20000000000002,
+      "e": 145.46
+    },
+    {
+      "w": "May",
+      "s": 145.46,
+      "e": 145.74
+    },
+    {
+      "w": "1453,",
+      "s": 145.74,
+      "e": 147.10000000000002
+    },
+    {
+      "w": "the",
+      "s": 147.48000000000002,
+      "e": 147.58
+    },
+    {
+      "w": "walls",
+      "s": 147.58,
+      "e": 147.74
+    },
+    {
+      "w": "broke.",
+      "s": 147.74,
+      "e": 148.06
+    },
+    {
+      "w": "Constantine",
+      "s": 148.46,
+      "e": 148.76000000000002
+    },
+    {
+      "w": "XI",
+      "s": 148.76000000000002,
+      "e": 149.48000000000002
+    },
+    {
+      "w": "died",
+      "s": 149.48000000000002,
+      "e": 149.74
+    },
+    {
+      "w": "fighting,",
+      "s": 149.74,
+      "e": 150.24
+    },
+    {
+      "w": "and",
+      "s": 150.62,
+      "e": 150.70000000000002
+    },
+    {
+      "w": "his",
+      "s": 150.70000000000002,
+      "e": 150.78
+    },
+    {
+      "w": "body",
+      "s": 150.78,
+      "e": 150.98000000000002
+    },
+    {
+      "w": "was",
+      "s": 150.98000000000002,
+      "e": 151.18
+    },
+    {
+      "w": "never",
+      "s": 151.18,
+      "e": 151.38
+    },
+    {
+      "w": "identified.",
+      "s": 151.38,
+      "e": 151.62
+    },
+    {
+      "w": "Rome",
+      "s": 152.26,
+      "e": 152.39999999999998
+    },
+    {
+      "w": "was",
+      "s": 152.39999999999998,
+      "e": 152.56
+    },
+    {
+      "w": "dead.",
+      "s": 152.56,
+      "e": 152.78
+    },
+    {
+      "w": "Then",
+      "s": 153.15999999999997,
+      "e": 153.25999999999996
+    },
+    {
+      "w": "someone",
+      "s": 153.25999999999996,
+      "e": 153.49999999999997
+    },
+    {
+      "w": "renamed",
+      "s": 153.49999999999997,
+      "e": 153.75999999999996
+    },
+    {
+      "w": "it.",
+      "s": 153.75999999999996,
+      "e": 154.07999999999996
+    },
+    {
+      "w": "Even",
+      "s": 154.51999999999995,
+      "e": 154.65999999999994
+    },
+    {
+      "w": "Mehmed",
+      "s": 154.65999999999994,
+      "e": 154.85999999999996
+    },
+    {
+      "w": "called",
+      "s": 154.85999999999996,
+      "e": 155.11999999999995
+    },
+    {
+      "w": "himself",
+      "s": 155.11999999999995,
+      "e": 155.31999999999996
+    },
+    {
+      "w": "\"Caesar",
+      "s": 155.31999999999996,
+      "e": 155.77999999999994
+    },
+    {
+      "w": "of",
+      "s": 155.77999999999994,
+      "e": 155.97999999999996
+    },
+    {
+      "w": "Rome.\"",
+      "s": 155.97999999999996,
+      "e": 156.15999999999994
+    },
+    {
+      "w": "But",
+      "s": 156.55999999999995,
+      "e": 156.61999999999995
+    },
+    {
+      "w": "in",
+      "s": 156.61999999999995,
+      "e": 156.67999999999995
+    },
+    {
+      "w": "1557,",
+      "s": 156.67999999999995,
+      "e": 158.07999999999996
+    },
+    {
+      "w": "a",
+      "s": 158.39999999999995,
+      "e": 158.53999999999994
+    },
+    {
+      "w": "German",
+      "s": 158.53999999999994,
+      "e": 158.73999999999995
+    },
+    {
+      "w": "scholar",
+      "s": 158.73999999999995,
+      "e": 159.07999999999996
+    },
+    {
+      "w": "popularised",
+      "s": 159.07999999999996,
+      "e": 159.89999999999995
+    },
+    {
+      "w": "a",
+      "s": 159.89999999999995,
+      "e": 160.01999999999995
+    },
+    {
+      "w": "new",
+      "s": 160.01999999999995,
+      "e": 160.11999999999995
+    },
+    {
+      "w": "label:",
+      "s": 160.11999999999995,
+      "e": 160.41999999999996
+    },
+    {
+      "w": "Byzantine.",
+      "s": 160.75999999999993,
+      "e": 160.89999999999995
+    },
+    {
+      "w": "So",
+      "s": 161.54999999999993,
+      "e": 161.62999999999994
+    },
+    {
+      "w": "why",
+      "s": 161.62999999999994,
+      "e": 161.78999999999994
+    },
+    {
+      "w": "does",
+      "s": 161.78999999999994,
+      "e": 161.92999999999992
+    },
+    {
+      "w": "this",
+      "s": 161.92999999999992,
+      "e": 162.06999999999994
+    },
+    {
+      "w": "matter",
+      "s": 162.06999999999994,
+      "e": 162.28999999999994
+    },
+    {
+      "w": "today?",
+      "s": 162.28999999999994,
+      "e": 162.56999999999994
+    },
+    {
+      "w": "Fleeing",
+      "s": 162.9499999999999,
+      "e": 163.1699999999999
+    },
+    {
+      "w": "Greek",
+      "s": 163.1699999999999,
+      "e": 163.2899999999999
+    },
+    {
+      "w": "scholars",
+      "s": 163.2899999999999,
+      "e": 163.6099999999999
+    },
+    {
+      "w": "carried",
+      "s": 163.6099999999999,
+      "e": 163.9499999999999
+    },
+    {
+      "w": "ancient",
+      "s": 163.9499999999999,
+      "e": 164.2099999999999
+    },
+    {
+      "w": "books",
+      "s": 164.2099999999999,
+      "e": 164.4699999999999
+    },
+    {
+      "w": "to",
+      "s": 164.4699999999999,
+      "e": 164.6699999999999
+    },
+    {
+      "w": "Italy,",
+      "s": 164.6699999999999,
+      "e": 164.8299999999999
+    },
+    {
+      "w": "fuelling",
+      "s": 164.8299999999999,
+      "e": 165.3699999999999
+    },
+    {
+      "w": "the",
+      "s": 165.3699999999999,
+      "e": 165.6099999999999
+    },
+    {
+      "w": "Renaissance.",
+      "s": 165.6099999999999,
+      "e": 165.74999999999991
+    },
+    {
+      "w": "Orthodox",
+      "s": 166.37999999999988,
+      "e": 166.6799999999999
+    },
+    {
+      "w": "Christianity",
+      "s": 166.6799999999999,
+      "e": 167.07999999999987
+    },
+    {
+      "w": "and",
+      "s": 167.07999999999987,
+      "e": 167.6799999999999
+    },
+    {
+      "w": "the",
+      "s": 167.6799999999999,
+      "e": 167.7399999999999
+    },
+    {
+      "w": "Cyrillic",
+      "s": 167.7399999999999,
+      "e": 168.09999999999988
+    },
+    {
+      "w": "alphabet",
+      "s": 168.09999999999988,
+      "e": 168.2799999999999
+    },
+    {
+      "w": "spread",
+      "s": 168.2799999999999,
+      "e": 168.7799999999999
+    },
+    {
+      "w": "north",
+      "s": 168.7799999999999,
+      "e": 169.09999999999988
+    },
+    {
+      "w": "from",
+      "s": 169.09999999999988,
+      "e": 169.3399999999999
+    },
+    {
+      "w": "Byzantium.",
+      "s": 169.3399999999999,
+      "e": 169.75999999999988
+    },
+    {
+      "w": "Russia",
+      "s": 170.05999999999986,
+      "e": 170.19999999999985
+    },
+    {
+      "w": "adopted",
+      "s": 170.19999999999985,
+      "e": 170.53999999999985
+    },
+    {
+      "w": "the",
+      "s": 170.53999999999985,
+      "e": 170.75999999999985
+    },
+    {
+      "w": "double-headed",
+      "s": 170.75999999999985,
+      "e": 171.15999999999985
+    },
+    {
+      "w": "eagle",
+      "s": 171.15999999999985,
+      "e": 171.41999999999987
+    },
+    {
+      "w": "and",
+      "s": 171.41999999999987,
+      "e": 171.87999999999985
+    },
+    {
+      "w": "called",
+      "s": 171.87999999999985,
+      "e": 172.03999999999985
+    },
+    {
+      "w": "Moscow",
+      "s": 172.03999999999985,
+      "e": 172.31999999999985
+    },
+    {
+      "w": "the",
+      "s": 172.31999999999985,
+      "e": 172.53999999999985
+    },
+    {
+      "w": "\"Third",
+      "s": 172.53999999999985,
+      "e": 172.79999999999987
+    },
+    {
+      "w": "Rome.\"",
+      "s": 172.79999999999987,
+      "e": 172.99999999999986
+    },
+    {
+      "w": "Justinian's",
+      "s": 173.39999999999984,
+      "e": 173.85999999999984
+    },
+    {
+      "w": "code",
+      "s": 173.85999999999984,
+      "e": 174.03999999999982
+    },
+    {
+      "w": "still",
+      "s": 174.03999999999982,
+      "e": 174.37999999999982
+    },
+    {
+      "w": "shapes",
+      "s": 174.37999999999982,
+      "e": 174.61999999999983
+    },
+    {
+      "w": "civil",
+      "s": 174.61999999999983,
+      "e": 174.81999999999982
+    },
+    {
+      "w": "law",
+      "s": 174.81999999999982,
+      "e": 175.05999999999983
+    },
+    {
+      "w": "across",
+      "s": 175.05999999999983,
+      "e": 175.29999999999984
+    },
+    {
+      "w": "Europe",
+      "s": 175.29999999999984,
+      "e": 175.63999999999984
+    },
+    {
+      "w": "and",
+      "s": 175.63999999999984,
+      "e": 175.93999999999983
+    },
+    {
+      "w": "Latin",
+      "s": 175.93999999999983,
+      "e": 176.11999999999983
+    },
+    {
+      "w": "America.",
+      "s": 176.11999999999983,
+      "e": 176.37999999999982
+    },
+    {
+      "w": "Nobody",
+      "s": 176.88999999999982,
+      "e": 177.06999999999982
+    },
+    {
+      "w": "who",
+      "s": 177.06999999999982,
+      "e": 177.2699999999998
+    },
+    {
+      "w": "lived",
+      "s": 177.2699999999998,
+      "e": 177.4299999999998
+    },
+    {
+      "w": "there",
+      "s": 177.4299999999998,
+      "e": 177.66999999999982
+    },
+    {
+      "w": "ever",
+      "s": 177.66999999999982,
+      "e": 177.9299999999998
+    },
+    {
+      "w": "called",
+      "s": 177.9299999999998,
+      "e": 178.16999999999982
+    },
+    {
+      "w": "themselves",
+      "s": 178.16999999999982,
+      "e": 178.44999999999982
+    },
+    {
+      "w": "Byzantine.",
+      "s": 178.44999999999982,
+      "e": 178.90999999999983
+    },
+    {
+      "w": "To",
+      "s": 179.4599999999998,
+      "e": 179.50999999999982
+    },
+    {
+      "w": "the",
+      "s": 179.4599999999998,
+      "e": 179.5599999999998
+    },
+    {
+      "w": "last",
+      "s": 179.5599999999998,
+      "e": 179.7199999999998
+    },
+    {
+      "w": "man",
+      "s": 179.7199999999998,
+      "e": 179.9399999999998
+    },
+    {
+      "w": "on",
+      "s": 179.9399999999998,
+      "e": 180.0799999999998
+    },
+    {
+      "w": "the",
+      "s": 180.0799999999998,
+      "e": 180.1599999999998
+    },
+    {
+      "w": "walls,",
+      "s": 180.1599999999998,
+      "e": 180.35999999999981
+    },
+    {
+      "w": "they",
+      "s": 180.5999999999998,
+      "e": 180.6799999999998
+    },
+    {
+      "w": "were",
+      "s": 180.6799999999998,
+      "e": 180.7999999999998
+    },
+    {
+      "w": "Romans.",
+      "s": 180.7999999999998,
+      "e": 181.0199999999998
+    },
+    {
+      "w": "For",
+      "s": 181.4699999999998,
+      "e": 181.5299999999998
+    },
+    {
+      "w": "more",
+      "s": 181.5299999999998,
+      "e": 181.6099999999998
+    },
+    {
+      "w": "empires",
+      "s": 181.6099999999998,
+      "e": 181.9299999999998
+    },
+    {
+      "w": "that",
+      "s": 181.9299999999998,
+      "e": 182.1499999999998
+    },
+    {
+      "w": "refused",
+      "s": 182.1499999999998,
+      "e": 182.3499999999998
+    },
+    {
+      "w": "to",
+      "s": 182.3499999999998,
+      "e": 182.5499999999998
+    },
+    {
+      "w": "die,",
+      "s": 182.5499999999998,
+      "e": 182.7299999999998
+    },
+    {
+      "w": "subscribe.",
+      "s": 182.9499999999998,
+      "e": 183.1099999999998
+    }
+  ],
+  "header": null,
+  "stats": {
+    "shots": 65,
+    "median_shot_s": 2.89,
+    "mean_shot_s": 2.84,
+    "max_shot_s": 5.13,
+    "min_shot_s": 0.9,
+    "words": 576,
+    "wpm": 187.5,
+    "duration_s": 184.33
+  }
+}

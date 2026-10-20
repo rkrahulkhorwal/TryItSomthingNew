@@ -1,0 +1,2196 @@
+{
+  "version": 1,
+  "title": "The ENTIRE History of the Byzantine Empire in 3 Minutes",
+  "planner": "rules",
+  "chapters": [
+    {
+      "index": 0,
+      "title": "Rome Never Fell",
+      "card": null
+    },
+    {
+      "index": 1,
+      "title": "New Rome",
+      "card": "330 AD"
+    },
+    {
+      "index": 2,
+      "title": "Riot, Dome and Plague",
+      "card": "532 AD"
+    },
+    {
+      "index": 3,
+      "title": "Greek Fire and Betrayal",
+      "card": "636 AD"
+    },
+    {
+      "index": 4,
+      "title": "The Last Constantine",
+      "card": "1453"
+    },
+    {
+      "index": 5,
+      "title": "Never Byzantine",
+      "card": "1557"
+    }
+  ],
+  "beats": [
+    {
+      "id": 1,
+      "chapter": 0,
+      "text": "In 476, Rome fell.",
+      "break": "start",
+      "shot_type": "TIMELINE",
+      "visual": "In 476, Rome fell.",
+      "overlay": {
+        "kind": "date",
+        "text": "476"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A long horizontal parchment timeline strip with small era icons drawn along it and one bold red arrow marker pointing at a point on the strip: In 476, Rome fell. Keep the area just below the marker empty for a date. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "collapse",
+        "label": "ROME",
+        "date": "476 AD"
+      }
+    },
+    {
+      "id": 2,
+      "chapter": 0,
+      "text": "Except it didn't.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Except it didn't.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Except it didn't. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "ruins",
+        "cast": [
+          {
+            "who": "emperor",
+            "pose": "point_up",
+            "expr": "smug",
+            "enter": "rise",
+            "say": "NOT SO FAST!",
+            "sayAt": 0.2
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "chapter": 0,
+      "text": "From a Greek harbour town, Rome ruled for nearly a thousand more years.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "From a Greek harbour town, Rome ruled for nearly a thousand more years.",
+      "overlay": {
+        "kind": "number",
+        "text": "1,000 MORE YEARS"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. From a Greek harbour town, Rome ruled for nearly a thousand more years. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "timeline",
+        "from": 300,
+        "to": 1500,
+        "marks": [
+          {
+            "year": 330,
+            "label": "NEW ROME"
+          },
+          {
+            "year": 476,
+            "label": "WEST FALLS"
+          },
+          {
+            "year": 1453,
+            "label": "EAST FALLS"
+          }
+        ],
+        "current": 1453,
+        "label": "NEARLY 1,000 MORE YEARS"
+      }
+    },
+    {
+      "id": 4,
+      "chapter": 0,
+      "text": "This is the Byzantine Empire: riots, plague, secret fire and betrayal by friends.",
+      "break": "sentence",
+      "shot_type": "TITLE",
+      "visual": "This is the Byzantine Empire: riots, plague, secret fire and betrayal by friends.",
+      "overlay": {
+        "kind": "title",
+        "text": "THE BYZANTINE EMPIRE"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. This is the Byzantine Empire: riots, plague, secret fire and betrayal by friends. Dramatic, iconic composition. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm, uncluttered band across the top third for a large title. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "title",
+        "text": "THE BYZANTINE EMPIRE",
+        "sub": "330 - 1453",
+        "icons": [
+          "torch",
+          "rat",
+          "flask",
+          "swords"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "chapter": 0,
+      "text": "So why was a Roman emperor still fighting in 1453?",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "So why was a Roman emperor still fighting in 1453?",
+      "overlay": {
+        "kind": "number",
+        "text": "1453"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. So why was a Roman emperor still fighting in 1453?. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "question",
+        "text": "STILL FIGHTING IN 1453?",
+        "cast": [
+          {
+            "who": "constantine11",
+            "pose": "shrug",
+            "expr": "worried",
+            "prop": "none"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "chapter": 1,
+      "text": "Our story starts in 330, when Constantine rebuilt Byzantion, on the Bosphorus, as \"New Rome.\"",
+      "break": "chapter",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "Our story starts in 330, when Constantine rebuilt Byzantion, on the Bosphorus, as \"New Rome.\"",
+      "overlay": {
+        "kind": "name",
+        "text": "CONSTANTINE I"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: Our story starts in 330, when Constantine rebuilt Byzantion, on the Bosphorus, as \"New Rome.\". The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "harbour",
+        "cast": [
+          {
+            "who": "constantine",
+            "pose": "point",
+            "expr": "proud",
+            "x": 0.4,
+            "say": "NEW ROME!",
+            "sayAt": 0.55
+          }
+        ],
+        "extras": [
+          {
+            "kind": "ship",
+            "x": 0.8,
+            "y": 0.82,
+            "s": 0.7,
+            "behind": true
+          }
+        ],
+        "label": "CONSTANTINE I",
+        "sub": "ROMAN EMPEROR, 306-337"
+      }
+    },
+    {
+      "id": 7,
+      "chapter": 1,
+      "text": "In 395, the empire split between two brothers, East and West.",
+      "break": "sentence",
+      "shot_type": "MAP",
+      "visual": "In 395, the empire split between two brothers, East and West.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Stylised hand-drawn map: In 395, the empire split between two brothers, East and West. Sea in soft blue, land in parchment, the highlighted territory in brick red, small simple icons, no labels. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "map",
+        "view": "empire",
+        "regions": [
+          {
+            "id": "west_395",
+            "color": "red",
+            "anim": "fade",
+            "at": 0.15,
+            "label": "WEST"
+          },
+          {
+            "id": "east_395",
+            "color": "purple",
+            "anim": "fade",
+            "at": 0.3,
+            "label": "EAST"
+          }
+        ],
+        "crack": {
+          "from": [
+            19.6,
+            47.5
+          ],
+          "to": [
+            19.0,
+            30.5
+          ],
+          "at": 0.05
+        },
+        "cities": [
+          {
+            "name": "Rome",
+            "at": 0.2
+          },
+          {
+            "name": "Constantinople",
+            "at": 0.35
+          }
+        ],
+        "title": "395 AD: THE SPLIT"
+      }
+    },
+    {
+      "id": 8,
+      "chapter": 1,
+      "text": "Around 413, giant walls went up: 5.7 kilometres long, with 96 towers.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "Around 413, giant walls went up: 5.7 kilometres long, with 96 towers.",
+      "overlay": {
+        "kind": "number",
+        "text": "5.7 KM · 96 TOWERS"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Around 413, giant walls went up: 5.7 kilometres long, with 96 towers. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "walls",
+        "mode": "build",
+        "numbers": [
+          {
+            "value": "5.7 KM",
+            "label": "LONG",
+            "at": 0.45
+          },
+          {
+            "value": "96",
+            "label": "TOWERS",
+            "at": 0.7
+          }
+        ],
+        "title": "THE LAND WALLS, 413"
+      }
+    },
+    {
+      "id": 9,
+      "chapter": 1,
+      "text": "In 476, a warlord kicked out the last western emperor",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "In 476, a warlord kicked out the last western emperor",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. In 476, a warlord kicked out the last western emperor. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "throne",
+        "cast": [
+          {
+            "who": "romulus",
+            "pose": "run",
+            "expr": "scared",
+            "x": 0.28,
+            "f": -1
+          },
+          {
+            "who": "odoacer",
+            "pose": "point",
+            "expr": "smug",
+            "x": 0.64,
+            "f": -1
+          }
+        ],
+        "label": "ODOACER",
+        "sub": "GERMANIC WARLORD"
+      }
+    },
+    {
+      "id": 10,
+      "chapter": 1,
+      "text": "and posted his crown and robes to Constantinople.",
+      "break": "clause",
+      "shot_type": "SCENE",
+      "visual": "and posted his crown and robes to Constantinople.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. and posted his crown and robes to Constantinople. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "map",
+        "view": "mediterranean",
+        "arrows": [
+          {
+            "from": "Ravenna",
+            "to": "Constantinople",
+            "mover": "crown",
+            "at": 0.05,
+            "dur": 1.6,
+            "bend": 0.25,
+            "label": "CROWN BY POST"
+          }
+        ],
+        "cities": [
+          {
+            "name": "Ravenna",
+            "at": 0.0
+          },
+          {
+            "name": "Constantinople",
+            "at": 0.3
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "chapter": 1,
+      "text": "The western half collapsed.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "The western half collapsed.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. The western half collapsed. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "map",
+        "view": "empire",
+        "regions": [
+          {
+            "id": "west_395",
+            "color": "red",
+            "anim": "crumble",
+            "at": 0.0,
+            "dur": 1.0,
+            "label": "WEST"
+          },
+          {
+            "id": "east_395",
+            "color": "purple",
+            "anim": "static",
+            "label": "EAST"
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "chapter": 1,
+      "text": "The Roman Empire did not.",
+      "break": "sentence",
+      "shot_type": "SPLIT",
+      "visual": "The Roman Empire did not.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Two-panel split comparison divided by a thick vertical ink line: The Roman Empire did not. Both halves equally readable. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "city",
+        "cast": [
+          {
+            "who": "emperor",
+            "pose": "fist",
+            "expr": "proud"
+          }
+        ],
+        "fx": "sparkle"
+      }
+    },
+    {
+      "id": 13,
+      "chapter": 1,
+      "text": "The walls could stop any army.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "The walls could stop any army.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. The walls could stop any army. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "walls",
+        "mode": "defend",
+        "attacker": "odoacer"
+      }
+    },
+    {
+      "id": 14,
+      "chapter": 1,
+      "text": "But the danger was inside, at the racetrack.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "But the danger was inside, at the racetrack.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. But the danger was inside, at the racetrack. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "crowd",
+        "teams": [
+          {
+            "color": "bluesTeam",
+            "hat": "band"
+          },
+          {
+            "color": "greensTeam",
+            "hat": "band"
+          }
+        ],
+        "mood": "cheer",
+        "setting": "hippodrome",
+        "chariots": 2
+      }
+    },
+    {
+      "id": 15,
+      "chapter": 2,
+      "text": "Under Justinian, chariot-racing fans belonged to rival gangs: the Blues and the Greens.",
+      "break": "chapter",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "Under Justinian, chariot-racing fans belonged to rival gangs: the Blues and the Greens.",
+      "overlay": {
+        "kind": "name",
+        "text": "JUSTINIAN"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: Under Justinian, chariot-racing fans belonged to rival gangs: the Blues and the Greens. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "hippodrome",
+        "cast": [
+          {
+            "who": "blues",
+            "pose": "cheer",
+            "expr": "laugh",
+            "prop": "flag",
+            "propColor": "bluesTeam"
+          },
+          {
+            "who": "justinian",
+            "pose": "present",
+            "expr": "determined"
+          },
+          {
+            "who": "greens",
+            "pose": "cheer",
+            "expr": "laugh",
+            "prop": "flag",
+            "propColor": "greensTeam"
+          }
+        ],
+        "label": "JUSTINIAN",
+        "sub": "EMPEROR, 527-565"
+      }
+    },
+    {
+      "id": 16,
+      "chapter": 2,
+      "text": "In 532, both gangs rioted, chanting \"Nika!\", and burned the city centre.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "In 532, both gangs rioted, chanting \"Nika!\", and burned the city centre.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. In 532, both gangs rioted, chanting \"Nika!\", and burned the city centre. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "crowd",
+        "teams": [
+          {
+            "color": "bluesTeam",
+            "hat": "band",
+            "label": "BLUES"
+          },
+          {
+            "color": "greensTeam",
+            "hat": "band",
+            "label": "GREENS"
+          }
+        ],
+        "mood": "riot",
+        "chant": "NIKA!",
+        "setting": "fire"
+      }
+    },
+    {
+      "id": 17,
+      "chapter": 2,
+      "text": "Justinian packed to flee.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Justinian packed to flee.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Justinian packed to flee. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "harbour",
+        "cast": [
+          {
+            "who": "justinian",
+            "pose": "run",
+            "expr": "scared",
+            "prop": "bundle",
+            "x": 0.42
+          }
+        ],
+        "extras": [
+          {
+            "kind": "ship",
+            "x": 0.82,
+            "y": 0.82,
+            "s": 0.8,
+            "behind": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "chapter": 2,
+      "text": "According to the historian Procopius,",
+      "break": "sentence",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "According to the historian Procopius,",
+      "overlay": {
+        "kind": "name",
+        "text": "THEODORA"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: According to the historian Procopius,. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "study",
+        "cast": [
+          {
+            "who": "procopius",
+            "pose": "hold",
+            "expr": "sly",
+            "prop": "scroll"
+          }
+        ],
+        "label": "PROCOPIUS",
+        "sub": "COURT HISTORIAN"
+      }
+    },
+    {
+      "id": 19,
+      "chapter": 2,
+      "text": "Empress Theodora said she'd rather die in imperial purple than run.",
+      "break": "clause",
+      "shot_type": "SCENE",
+      "visual": "Empress Theodora said she'd rather die in imperial purple than run.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Empress Theodora said she'd rather die in imperial purple than run. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "palace",
+        "cast": [
+          {
+            "who": "justinian",
+            "pose": "scared",
+            "expr": "shock",
+            "prop": "bundle",
+            "x": 0.3,
+            "f": 1
+          },
+          {
+            "who": "theodora",
+            "pose": "fist",
+            "expr": "determined",
+            "x": 0.68,
+            "f": -1,
+            "say": "I'D RATHER DIE IN PURPLE!",
+            "sayAt": 0.15
+          }
+        ],
+        "label": "THEODORA",
+        "sub": "EMPRESS"
+      }
+    },
+    {
+      "id": 20,
+      "chapter": 2,
+      "text": "So General Belisarius sealed the Hippodrome gates.",
+      "break": "sentence",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "So General Belisarius sealed the Hippodrome gates.",
+      "overlay": {
+        "kind": "name",
+        "text": "BELISARIUS"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: So General Belisarius sealed the Hippodrome gates. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "hippodrome",
+        "cast": [
+          {
+            "who": "belisarius",
+            "pose": "point",
+            "expr": "determined",
+            "x": 0.3
+          },
+          {
+            "who": "soldier",
+            "pose": "hold",
+            "x": 0.6,
+            "f": -1
+          },
+          {
+            "who": "soldier",
+            "pose": "hold",
+            "x": 0.8,
+            "f": -1
+          }
+        ],
+        "label": "BELISARIUS",
+        "sub": "GENERAL"
+      }
+    },
+    {
+      "id": 21,
+      "chapter": 2,
+      "text": "Procopius claims about 30,000 people died inside.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "Procopius claims about 30,000 people died inside.",
+      "overlay": {
+        "kind": "number",
+        "text": "~30,000"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Procopius claims about 30,000 people died inside. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "number",
+        "value": 30000,
+        "prefix": "~",
+        "label": "DIED IN THE HIPPODROME",
+        "sub": "according to Procopius",
+        "people": 120,
+        "fade": true,
+        "dark": true
+      }
+    },
+    {
+      "id": 22,
+      "chapter": 2,
+      "text": "Weeks later, work began on a new Hagia Sophia.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Weeks later, work began on a new Hagia Sophia.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Weeks later, work began on a new Hagia Sophia. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "construction",
+        "label": "HAGIA SOPHIA",
+        "sub": "WORK BEGINS, 532",
+        "max": 0.62
+      }
+    },
+    {
+      "id": 23,
+      "chapter": 2,
+      "text": "It opened in 537, with a dome 31 metres wide.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "It opened in 537, with a dome 31 metres wide.",
+      "overlay": {
+        "kind": "number",
+        "text": "31 M DOME"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. It opened in 537, with a dome 31 metres wide. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "construction",
+        "start": 0.62,
+        "label": "OPENED 537",
+        "measure": "31 M",
+        "noScaffold": true
+      }
+    },
+    {
+      "id": 24,
+      "chapter": 2,
+      "text": "For nearly a thousand years, no cathedral on Earth was bigger.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "The vast interior of the Hagia Sophia as it looked when new in 537: a gigantic dome ringed with arched windows, shafts of sunlight beaming down, golden mosaics with simple crosses, marble columns and galleries; tiny pebble-head worshippers in Byzantine robes stand on the floor looking up in awe, showing the enormous scale. Historically accurate for 537: no Islamic calligraphy medallions, no minbar, no mihrab, no minarets",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. The vast interior of the Hagia Sophia as it looked when new in 537: a gigantic dome ringed with arched windows, shafts of sunlight beaming down, golden mosaics with simple crosses, marble columns and galleries; tiny pebble-head worshippers in Byzantine robes stand on the floor looking up in awe, showing the enormous scale. Historically accurate for 537: no Islamic calligraphy medallions, no minbar, no mihrab, no minarets. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "image",
+        "visual": "The vast interior of the Hagia Sophia as it looked when new in 537: a gigantic dome ringed with arched windows, shafts of sunlight beaming down, golden mosaics with simple crosses, marble columns and galleries; tiny pebble-head worshippers in Byzantine robes stand on the floor looking up in awe, showing the enormous scale. Historically accurate for 537: no Islamic calligraphy medallions, no minbar, no mihrab, no minarets",
+        "kb": "in",
+        "fx": [
+          "rays",
+          "dust"
+        ],
+        "sub": "BIGGEST FOR ~1,000 YEARS",
+        "subAt": 0.3
+      }
+    },
+    {
+      "id": 25,
+      "chapter": 2,
+      "text": "Justinian also squeezed Roman law into one code.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Justinian also squeezed Roman law into one code.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Justinian also squeezed Roman law into one code. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "symbol",
+        "icon": "book",
+        "anim": "squeeze",
+        "label": "JUSTINIAN'S CODE",
+        "gather": [
+          "scroll",
+          "scroll",
+          "scroll",
+          "scroll",
+          "scroll"
+        ],
+        "bg": "rays"
+      }
+    },
+    {
+      "id": 26,
+      "chapter": 2,
+      "text": "Then his generals retook North Africa and Italy.",
+      "break": "sentence",
+      "shot_type": "MAP",
+      "visual": "Then his generals retook North Africa and Italy.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Stylised hand-drawn map: Then his generals retook North Africa and Italy. Sea in soft blue, land in parchment, the highlighted territory in brick red, small simple icons, no labels. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "map",
+        "view": "mediterranean",
+        "regions": [
+          {
+            "id": "byz_565",
+            "color": "purple",
+            "anim": "grow",
+            "from": "Constantinople",
+            "at": 0.05,
+            "dur": 2.0,
+            "label": "JUSTINIAN'S EMPIRE"
+          }
+        ],
+        "arrows": [
+          {
+            "from": "Constantinople",
+            "to": "Carthage",
+            "mover": "ship",
+            "at": 0.05
+          },
+          {
+            "from": "Constantinople",
+            "to": "Rome",
+            "mover": "army",
+            "at": 0.25
+          }
+        ],
+        "cities": [
+          {
+            "name": "Constantinople"
+          },
+          {
+            "name": "Carthage",
+            "at": 0.4
+          },
+          {
+            "name": "Rome",
+            "at": 0.55
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "chapter": 2,
+      "text": "But in 541, plague struck, probably carried by rats on grain ships.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "But in 541, plague struck, probably carried by rats on grain ships.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. But in 541, plague struck, probably carried by rats on grain ships. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "harbour",
+        "cast": [
+          {
+            "who": "citizen",
+            "pose": "scared",
+            "expr": "scared",
+            "x": 0.66,
+            "f": -1
+          },
+          {
+            "who": "citizen",
+            "robe": "#857858",
+            "hat": "cap",
+            "pose": "scared",
+            "expr": "shock",
+            "x": 0.84,
+            "f": -1
+          }
+        ],
+        "extras": [
+          {
+            "kind": "ship",
+            "x": 0.18,
+            "y": 0.82,
+            "s": 0.8,
+            "behind": true
+          },
+          {
+            "kind": "icon",
+            "name": "rat",
+            "x": 0.3,
+            "y": 0.86,
+            "s": 0.95,
+            "move": [
+              0.2,
+              0
+            ],
+            "at": 0.1
+          },
+          {
+            "kind": "icon",
+            "name": "rat",
+            "x": 0.2,
+            "y": 0.9,
+            "s": 0.95,
+            "move": [
+              0.24,
+              0
+            ],
+            "at": 0.25
+          }
+        ],
+        "title": "541: THE PLAGUE"
+      }
+    },
+    {
+      "id": 28,
+      "chapter": 2,
+      "text": "The wars and plague drained Rome,",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "The wars and plague drained Rome,",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. The wars and plague drained Rome,. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "symbol",
+        "icon": "bucket",
+        "anim": "float",
+        "label": "DRAINED",
+        "bg": "plain"
+      }
+    },
+    {
+      "id": 29,
+      "chapter": 2,
+      "text": "just as a new power rose from the desert.",
+      "break": "clause",
+      "shot_type": "SCENE",
+      "visual": "just as a new power rose from the desert.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. just as a new power rose from the desert. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "desert",
+        "cast": [
+          {
+            "who": "arab",
+            "enter": "rise",
+            "pose": "raise",
+            "prop": "banner",
+            "propColor": "#2f6f4f"
+          },
+          {
+            "who": "caliph",
+            "enter": "rise",
+            "delay": 0.15,
+            "pose": "point"
+          },
+          {
+            "who": "arab",
+            "enter": "rise",
+            "delay": 0.3,
+            "pose": "fist",
+            "prop": "sword"
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "chapter": 3,
+      "text": "Arab armies took Syria in 636, then Egypt, the empire's breadbasket.",
+      "break": "chapter",
+      "shot_type": "MAP",
+      "visual": "Arab armies took Syria in 636, then Egypt, the empire's breadbasket.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Stylised hand-drawn map: Arab armies took Syria in 636, then Egypt, the empire's breadbasket. Sea in soft blue, land in parchment, the highlighted territory in brick red, small simple icons, no labels. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "map",
+        "view": "east",
+        "regions": [
+          {
+            "id": "byz_565",
+            "color": "purple",
+            "anim": "static"
+          },
+          {
+            "id": "arab_642",
+            "color": "green",
+            "anim": "conquer",
+            "from": "Medina",
+            "at": 0.05,
+            "dur": 2.2,
+            "label": "ARAB CALIPHATE"
+          }
+        ],
+        "cities": [
+          {
+            "name": "Damascus",
+            "at": 0.15,
+            "label": "SYRIA, 636"
+          },
+          {
+            "name": "Alexandria",
+            "icon": "wheat",
+            "label": "EGYPT: THE BREADBASKET",
+            "at": 0.55
+          }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "chapter": 3,
+      "text": "Twice, in 674 and 717, Arab forces besieged Constantinople.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Twice, in 674 and 717, Arab forces besieged Constantinople.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Twice, in 674 and 717, Arab forces besieged Constantinople. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "cityplan",
+        "show": [
+          "walls",
+          "seawalls",
+          "city",
+          "siege",
+          "fleet",
+          "labels"
+        ],
+        "fleetColor": "#2f6f4f",
+        "besieger": "arab",
+        "title": "674 & 717"
+      }
+    },
+    {
+      "id": 32,
+      "chapter": 3,
+      "text": "The Romans answered with Greek fire: liquid flame that burned on water.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "A Byzantine war galley at sea at dusk sprays a roaring jet of Greek fire from a bronze lion-headed siphon at its bow; the liquid flame spreads across the water and engulfs enemy Arab ships; pebble-head sailors in helmets work the siphon pump",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A Byzantine war galley at sea at dusk sprays a roaring jet of Greek fire from a bronze lion-headed siphon at its bow; the liquid flame spreads across the water and engulfs enemy Arab ships; pebble-head sailors in helmets work the siphon pump. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "image",
+        "visual": "A Byzantine war galley at sea at dusk sprays a roaring jet of Greek fire from a bronze lion-headed siphon at its bow; the liquid flame spreads across the water and engulfs enemy Arab ships; pebble-head sailors in helmets work the siphon pump",
+        "kb": "right",
+        "fx": [
+          "embers"
+        ],
+        "label": "GREEK FIRE",
+        "labelAt": 0.25
+      }
+    },
+    {
+      "id": 33,
+      "chapter": 3,
+      "text": "By 718, fire, frost and Bulgar raiders had shattered the attackers.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "By 718, fire, frost and Bulgar raiders had shattered the attackers.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. By 718, fire, frost and Bulgar raiders had shattered the attackers. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "icons",
+        "items": [
+          {
+            "icon": "fire",
+            "label": "FIRE"
+          },
+          {
+            "icon": "snowflake",
+            "label": "FROST"
+          },
+          {
+            "icon": "horseman",
+            "label": "BULGARS"
+          }
+        ],
+        "title": "718: SIEGE BROKEN"
+      }
+    },
+    {
+      "id": 34,
+      "chapter": 3,
+      "text": "Later, Basil II, the Bulgar-Slayer, conquered Bulgaria.",
+      "break": "sentence",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "Later, Basil II, the Bulgar-Slayer, conquered Bulgaria.",
+      "overlay": {
+        "kind": "name",
+        "text": "BASIL II"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: Later, Basil II, the Bulgar-Slayer, conquered Bulgaria. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "field",
+        "cast": [
+          {
+            "who": "basil",
+            "pose": "raise",
+            "expr": "angry",
+            "prop": "sword",
+            "x": 0.4
+          },
+          {
+            "who": "bulgar",
+            "pose": "scared",
+            "expr": "scared",
+            "x": 0.76,
+            "f": -1
+          }
+        ],
+        "label": "BASIL II",
+        "sub": "THE BULGAR-SLAYER, 976-1025"
+      }
+    },
+    {
+      "id": 35,
+      "chapter": 3,
+      "text": "A later chronicler claims he blinded 15,000 Bulgarian prisoners.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "A later chronicler claims he blinded 15,000 Bulgarian prisoners.",
+      "overlay": {
+        "kind": "number",
+        "text": "15,000 BULGARIAN"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A later chronicler claims he blinded 15,000 Bulgarian prisoners. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "number",
+        "value": 15000,
+        "label": "PRISONERS BLINDED",
+        "sub": "according to a later chronicler",
+        "people": 100,
+        "fade": true,
+        "dark": true
+      }
+    },
+    {
+      "id": 36,
+      "chapter": 3,
+      "text": "The empire's gold coin, the solidus, was the dollar of the Middle Ages.",
+      "break": "sentence",
+      "shot_type": "METAPHOR",
+      "visual": "The empire's gold coin, the solidus, was the dollar of the Middle Ages.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A literal, slightly funny visual metaphor: The empire's gold coin, the solidus, was the dollar of the Middle Ages. Simple, iconic and instantly readable. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "split",
+        "left": {
+          "icon": "coin",
+          "label": "SOLIDUS",
+          "sub": "MIDDLE AGES"
+        },
+        "right": {
+          "icon": "dollar",
+          "label": "DOLLAR",
+          "sub": "TODAY"
+        },
+        "divider": "line"
+      }
+    },
+    {
+      "id": 37,
+      "chapter": 3,
+      "text": "But after Basil, the gold got watered down.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "But after Basil, the gold got watered down.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. But after Basil, the gold got watered down. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "symbol",
+        "icon": "coin",
+        "anim": "dip",
+        "label": "WATERED DOWN",
+        "bg": "plain"
+      }
+    },
+    {
+      "id": 38,
+      "chapter": 3,
+      "text": "In 1071, at Manzikert, the Turks captured an emperor.",
+      "break": "sentence",
+      "shot_type": "MAP",
+      "visual": "In 1071, at Manzikert, the Turks captured an emperor.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Stylised hand-drawn map: In 1071, at Manzikert, the Turks captured an emperor. Sea in soft blue, land in parchment, the highlighted territory in brick red, small simple icons, no labels. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "battle",
+        "left": {
+          "who": "soldier",
+          "label": "ROMANS",
+          "color": "purple",
+          "emblem": "chirho"
+        },
+        "right": {
+          "who": "seljuk",
+          "label": "SELJUK TURKS",
+          "color": "#4f6a3a",
+          "emblem": "none"
+        },
+        "mode": "clash",
+        "captured": "romanos",
+        "title": "MANZIKERT, 1071"
+      }
+    },
+    {
+      "id": 39,
+      "chapter": 3,
+      "text": "In 1204, a crusade steered by Venice's blind old leader",
+      "break": "sentence",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "In 1204, a crusade steered by Venice's blind old leader",
+      "overlay": {
+        "kind": "name",
+        "text": "ENRICO DANDOLO"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: In 1204, a crusade steered by Venice's blind old leader. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "harbour",
+        "cast": [
+          {
+            "who": "dandolo",
+            "pose": "point",
+            "prop": "staff",
+            "x": 0.34
+          },
+          {
+            "who": "crusader",
+            "pose": "hold",
+            "prop": "sword",
+            "x": 0.64,
+            "f": -1
+          }
+        ],
+        "extras": [
+          {
+            "kind": "ship",
+            "x": 0.86,
+            "y": 0.82,
+            "s": 0.75,
+            "flag": "#b5452f",
+            "behind": true
+          }
+        ],
+        "label": "ENRICO DANDOLO",
+        "sub": "DOGE OF VENICE, BLIND"
+      }
+    },
+    {
+      "id": 40,
+      "chapter": 3,
+      "text": "looted the greatest Christian city.",
+      "break": "clause",
+      "shot_type": "SCENE",
+      "visual": "Crusader knights loot Constantinople in 1204: they wear chain-mail hoods and flat-topped steel great helms (no horned helmets) with long white surcoats bearing red crosses, and carry off golden crosses, chests of treasure and a bronze horse statue; a great domed church and burning buildings behind them, frightened pebble-head citizens watching",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Crusader knights loot Constantinople in 1204: they wear chain-mail hoods and flat-topped steel great helms (no horned helmets) with long white surcoats bearing red crosses, and carry off golden crosses, chests of treasure and a bronze horse statue; a great domed church and burning buildings behind them, frightened pebble-head citizens watching. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "image",
+        "visual": "Crusader knights loot Constantinople in 1204: they wear chain-mail hoods and flat-topped steel great helms (no horned helmets) with long white surcoats bearing red crosses, and carry off golden crosses, chests of treasure and a bronze horse statue; a great domed church and burning buildings behind them, frightened pebble-head citizens watching",
+        "kb": "in",
+        "fx": [
+          "embers",
+          "smoke"
+        ],
+        "label": "1204: THE SACK",
+        "labelAt": 0.15
+      }
+    },
+    {
+      "id": 41,
+      "chapter": 3,
+      "text": "The Romans won it back 57 years later,",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "The Romans won it back 57 years later,",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. The Romans won it back 57 years later,. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "city",
+        "cast": [
+          {
+            "who": "citizen",
+            "pose": "cheer",
+            "expr": "laugh"
+          },
+          {
+            "who": "michael8",
+            "pose": "raise",
+            "expr": "happy"
+          },
+          {
+            "who": "citizen",
+            "robe": "#b5452f",
+            "pose": "cheer",
+            "expr": "laugh"
+          }
+        ],
+        "title": "1261: BACK HOME"
+      }
+    },
+    {
+      "id": 42,
+      "chapter": 3,
+      "text": "but a new enemy was waiting.",
+      "break": "clause",
+      "shot_type": "SCENE",
+      "visual": "but a new enemy was waiting.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. but a new enemy was waiting. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "night",
+        "cast": [
+          {
+            "who": "janissary",
+            "pose": "arms_crossed",
+            "expr": "evil",
+            "x": 0.36
+          },
+          {
+            "who": "ottoman",
+            "pose": "hold",
+            "prop": "sword",
+            "expr": "evil",
+            "x": 0.64,
+            "f": -1
+          }
+        ],
+        "title": "THE OTTOMANS"
+      }
+    },
+    {
+      "id": 43,
+      "chapter": 4,
+      "text": "Then the final boss arrived: Sultan Mehmed II, aged 21.",
+      "break": "chapter",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "Then the final boss arrived: Sultan Mehmed II, aged 21.",
+      "overlay": {
+        "kind": "name",
+        "text": "MEHMED II"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: Then the final boss arrived: Sultan Mehmed II, aged 21. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "camp",
+        "cast": [
+          {
+            "who": "mehmed",
+            "pose": "arms_crossed",
+            "expr": "evil",
+            "enter": "drop"
+          }
+        ],
+        "fx": "rays",
+        "label": "MEHMED II",
+        "sub": "SULTAN, AGED 21"
+      }
+    },
+    {
+      "id": 44,
+      "chapter": 4,
+      "text": "He brought giant cannons built by a gunsmith named Orban.",
+      "break": "sentence",
+      "shot_type": "CALLOUT",
+      "visual": "He brought giant cannons built by a gunsmith named Orban.",
+      "overlay": {
+        "kind": "label",
+        "text": "ORBAN"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. He brought giant cannons built by a gunsmith named Orban. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Make the key object large and clear so a label can sit next to it. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "workshop",
+        "cast": [
+          {
+            "who": "orban",
+            "pose": "present",
+            "expr": "smug",
+            "x": 0.24
+          }
+        ],
+        "extras": [
+          {
+            "kind": "cannon",
+            "x": 0.66,
+            "s": 1.45
+          }
+        ],
+        "label": "ORBAN",
+        "sub": "GUNSMITH"
+      }
+    },
+    {
+      "id": 45,
+      "chapter": 4,
+      "text": "He'd reportedly offered them to the Romans first, who couldn't pay.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "He'd reportedly offered them to the Romans first, who couldn't pay.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. He'd reportedly offered them to the Romans first, who couldn't pay. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "split",
+        "left": {
+          "cast": [
+            {
+              "who": "orban",
+              "pose": "present",
+              "expr": "happy",
+              "say": "GIANT CANNON?"
+            }
+          ],
+          "label": "ORBAN",
+          "sub": "REPORTEDLY"
+        },
+        "right": {
+          "cast": [
+            {
+              "who": "constantine11",
+              "pose": "shrug",
+              "expr": "worried",
+              "say": "WE'RE BROKE!",
+              "prop": "none"
+            }
+          ],
+          "label": "THE ROMANS"
+        },
+        "divider": "line"
+      }
+    },
+    {
+      "id": 46,
+      "chapter": 4,
+      "text": "Stone balls smashed walls that had held for a thousand years.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Stone balls smashed walls that had held for a thousand years.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Stone balls smashed walls that had held for a thousand years. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "walls",
+        "mode": "bombard",
+        "title": "1453: THE BOMBARDMENT"
+      }
+    },
+    {
+      "id": 47,
+      "chapter": 4,
+      "text": "Mehmed dragged about 70 ships overland on greased logs, past the harbour chain.",
+      "break": "sentence",
+      "shot_type": "MAP",
+      "visual": "Mehmed dragged about 70 ships overland on greased logs, past the harbour chain.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Stylised hand-drawn map: Mehmed dragged about 70 ships overland on greased logs, past the harbour chain. Sea in soft blue, land in parchment, the highlighted territory in brick red, small simple icons, no labels. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "cityplan",
+        "show": [
+          "walls",
+          "seawalls",
+          "city",
+          "chain",
+          "camp",
+          "overland",
+          "labels"
+        ],
+        "overlandLabel": "~70 SHIPS OVER LAND",
+        "title": "APRIL 1453"
+      }
+    },
+    {
+      "id": 48,
+      "chapter": 4,
+      "text": "About 7,000 defenders faced up to 80,000 attackers.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "About 7,000 defenders faced up to 80,000 attackers.",
+      "overlay": {
+        "kind": "number",
+        "text": "7,000 DEFENDERS"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. About 7,000 defenders faced up to 80,000 attackers. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "versus",
+        "left": {
+          "value": 7000,
+          "label": "DEFENDERS",
+          "color": "purple",
+          "who": "defender"
+        },
+        "right": {
+          "value": 80000,
+          "label": "ATTACKERS",
+          "color": "red",
+          "who": "janissary"
+        },
+        "unit": 1000
+      }
+    },
+    {
+      "id": 49,
+      "chapter": 4,
+      "text": "But here's the twist most people forget.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "But here's the twist most people forget.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. But here's the twist most people forget. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "symbol",
+        "icon": "question",
+        "anim": "shake",
+        "label": "THE TWIST",
+        "bg": "rays"
+      }
+    },
+    {
+      "id": 50,
+      "chapter": 4,
+      "text": "The last emperor was Constantine, son of Helena.",
+      "break": "sentence",
+      "shot_type": "CHARACTER_INTRO",
+      "visual": "The last emperor was Constantine, son of Helena.",
+      "overlay": {
+        "kind": "name",
+        "text": "CONSTANTINE XI"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Hero shot: The last emperor was Constantine, son of Helena. The character is centred in a confident pose against a simple backdrop with a soft spotlight. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave calm empty space above the character's head for a name. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "walls",
+        "cast": [
+          {
+            "who": "constantine11",
+            "pose": "idle",
+            "expr": "determined",
+            "x": 0.38
+          },
+          {
+            "who": "helena",
+            "x": 0.68,
+            "f": -1,
+            "expr": "happy",
+            "enter": "pop",
+            "delay": 0.45
+          }
+        ],
+        "label": "CONSTANTINE XI",
+        "sub": "SON OF HELENA"
+      }
+    },
+    {
+      "id": 51,
+      "chapter": 4,
+      "text": "So was the city's first emperor, 1,123 years earlier.",
+      "break": "sentence",
+      "shot_type": "SPLIT",
+      "visual": "So was the city's first emperor, 1,123 years earlier.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Two-panel split comparison divided by a thick vertical ink line: So was the city's first emperor, 1,123 years earlier. Both halves equally readable. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "split",
+        "left": {
+          "cast": [
+            {
+              "who": "constantine1"
+            },
+            {
+              "who": "helena"
+            }
+          ],
+          "label": "CONSTANTINE I",
+          "sub": "SON OF HELENA, 330"
+        },
+        "right": {
+          "cast": [
+            {
+              "who": "constantine11"
+            },
+            {
+              "who": "helena"
+            }
+          ],
+          "label": "CONSTANTINE XI",
+          "sub": "SON OF HELENA, 1453"
+        },
+        "divider": "line"
+      }
+    },
+    {
+      "id": 52,
+      "chapter": 4,
+      "text": "On 29 May 1453, the walls broke.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "On 29 May 1453, the walls broke.",
+      "overlay": {
+        "kind": "number",
+        "text": "1453"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. On 29 May 1453, the walls broke. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "walls",
+        "mode": "breach",
+        "title": "29 MAY 1453"
+      }
+    },
+    {
+      "id": 53,
+      "chapter": 4,
+      "text": "Constantine XI died fighting, and his body was never identified.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "The last Byzantine emperor Constantine XI, a pebble-head with a short dark beard, a gold crown and a purple cloak over steel armour, charges with his sword raised into the smoke of battle at a breach in the great land walls of Constantinople, Ottoman janissaries in tall white hats ahead, fiery sunset light",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. The last Byzantine emperor Constantine XI, a pebble-head with a short dark beard, a gold crown and a purple cloak over steel armour, charges with his sword raised into the smoke of battle at a breach in the great land walls of Constantinople, Ottoman janissaries in tall white hats ahead, fiery sunset light. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "image",
+        "visual": "The last Byzantine emperor Constantine XI, a pebble-head with a short dark beard, a gold crown and a purple cloak over steel armour, charges with his sword raised into the smoke of battle at a breach in the great land walls of Constantinople, Ottoman janissaries in tall white hats ahead, fiery sunset light",
+        "kb": "out",
+        "fx": [
+          "smoke",
+          "embers"
+        ],
+        "sub": "BODY NEVER IDENTIFIED",
+        "subAt": 0.4
+      }
+    },
+    {
+      "id": 54,
+      "chapter": 4,
+      "text": "Rome was dead.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Rome was dead.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Rome was dead. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "symbol",
+        "icon": "crown",
+        "anim": "fall",
+        "bg": "dark",
+        "label": "ROME WAS DEAD",
+        "sparkle": false
+      }
+    },
+    {
+      "id": 55,
+      "chapter": 4,
+      "text": "Then someone renamed it.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Then someone renamed it.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Then someone renamed it. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "timeline",
+        "from": 1400,
+        "to": 1600,
+        "marks": [
+          {
+            "year": 1453,
+            "label": "ROME FALLS"
+          },
+          {
+            "year": 1557,
+            "label": "RENAMED"
+          }
+        ],
+        "current": 1557
+      }
+    },
+    {
+      "id": 56,
+      "chapter": 5,
+      "text": "Even Mehmed called himself \"Caesar of Rome.\"",
+      "break": "chapter",
+      "shot_type": "TIMELINE",
+      "visual": "Even Mehmed called himself \"Caesar of Rome.\"",
+      "overlay": {
+        "kind": "date",
+        "text": "1557"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "chapter",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A long horizontal parchment timeline strip with small era icons drawn along it and one bold red arrow marker pointing at a point on the strip: Even Mehmed called himself \"Caesar of Rome.\". Keep the area just below the marker empty for a date. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "throne",
+        "cast": [
+          {
+            "who": "mehmed",
+            "pose": "fist",
+            "expr": "proud",
+            "say": "CAESAR OF ROME!",
+            "sayAt": 0.1
+          }
+        ],
+        "title": "KAYSER-I RUM"
+      }
+    },
+    {
+      "id": 57,
+      "chapter": 5,
+      "text": "But in 1557, a German scholar popularised a new label: Byzantine.",
+      "break": "sentence",
+      "shot_type": "NUMBER",
+      "visual": "But in 1557, a German scholar popularised a new label: Byzantine.",
+      "overlay": {
+        "kind": "number",
+        "text": "1557"
+      },
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. But in 1557, a German scholar popularised a new label: Byzantine. Emphasise quantity and scale. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Leave a calm empty band across the top third for a big number. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "stamp",
+        "who": "wolf",
+        "word": "BYZANTINE",
+        "old": "ROMANS",
+        "label": "HIERONYMUS WOLF",
+        "sub": "1557"
+      }
+    },
+    {
+      "id": 58,
+      "chapter": 5,
+      "text": "So why does this matter today?",
+      "break": "sentence",
+      "shot_type": "SYMBOL",
+      "visual": "So why does this matter today?",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A single symbolic image on a plain parchment background: So why does this matter today?. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "question",
+        "text": "WHY DOES IT MATTER?",
+        "cast": [
+          {
+            "who": "citizen",
+            "pose": "think",
+            "expr": "worried"
+          }
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "chapter": 5,
+      "text": "Fleeing Greek scholars carried ancient books to Italy, fuelling the Renaissance.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Fleeing Greek scholars carried ancient books to Italy, fuelling the Renaissance.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Fleeing Greek scholars carried ancient books to Italy, fuelling the Renaissance. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "map",
+        "view": [
+          6,
+          35,
+          31,
+          47.5
+        ],
+        "arrows": [
+          {
+            "from": "Constantinople",
+            "to": "Florence",
+            "mover": "books",
+            "at": 0.05,
+            "dur": 1.6
+          },
+          {
+            "from": "Constantinople",
+            "to": "Venice",
+            "mover": "scroll",
+            "at": 0.25,
+            "dur": 1.5
+          }
+        ],
+        "cities": [
+          {
+            "name": "Constantinople"
+          },
+          {
+            "name": "Venice",
+            "at": 0.4
+          },
+          {
+            "name": "Florence",
+            "icon": "bulb",
+            "label": "RENAISSANCE",
+            "at": 0.55
+          }
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "chapter": 5,
+      "text": "Orthodox Christianity and the Cyrillic alphabet spread north from Byzantium.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Orthodox Christianity and the Cyrillic alphabet spread north from Byzantium.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Orthodox Christianity and the Cyrillic alphabet spread north from Byzantium. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "map",
+        "view": "north",
+        "regions": [
+          {
+            "id": "kievan_rus",
+            "color": "teal",
+            "anim": "fade",
+            "at": 0.5,
+            "label": "ORTHODOX RUS"
+          }
+        ],
+        "arrows": [
+          {
+            "from": "Constantinople",
+            "to": "Preslav",
+            "mover": "letters",
+            "at": 0.05,
+            "dur": 1.0
+          },
+          {
+            "from": "Constantinople",
+            "to": "Kyiv",
+            "mover": "cross",
+            "at": 0.2,
+            "dur": 1.3
+          },
+          {
+            "from": "Kyiv",
+            "to": "Moscow",
+            "mover": "cross",
+            "at": 0.5,
+            "dur": 1.0
+          }
+        ],
+        "cities": [
+          {
+            "name": "Constantinople"
+          },
+          {
+            "name": "Kyiv",
+            "at": 0.45
+          },
+          {
+            "name": "Moscow",
+            "at": 0.65
+          }
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "chapter": 5,
+      "text": "Russia adopted the double-headed eagle and called Moscow the \"Third Rome.\"",
+      "break": "sentence",
+      "shot_type": "MAP",
+      "visual": "Russia adopted the double-headed eagle and called Moscow the \"Third Rome.\"",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Stylised hand-drawn map: Russia adopted the double-headed eagle and called Moscow the \"Third Rome.\". Sea in soft blue, land in parchment, the highlighted territory in brick red, small simple icons, no labels. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "symbol",
+        "icon": "eagle",
+        "anim": "pop",
+        "label": "THE THIRD ROME",
+        "sub": "MOSCOW",
+        "extra": [
+          {
+            "icon": "onion",
+            "x": 0.16,
+            "y": 0.6,
+            "s": 0.55
+          },
+          {
+            "icon": "onion",
+            "x": 0.84,
+            "y": 0.6,
+            "s": 0.55
+          }
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "chapter": 5,
+      "text": "Justinian's code still shapes civil law across Europe and Latin America.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Justinian's code still shapes civil law across Europe and Latin America.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Justinian's code still shapes civil law across Europe and Latin America. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "split",
+        "left": {
+          "icon": "book",
+          "label": "JUSTINIAN'S CODE",
+          "sub": "534 AD"
+        },
+        "right": {
+          "icon": "globe",
+          "label": "CIVIL LAW TODAY",
+          "sub": "EUROPE & LATIN AMERICA"
+        },
+        "divider": "line"
+      }
+    },
+    {
+      "id": 63,
+      "chapter": 5,
+      "text": "Nobody who lived there ever called themselves Byzantine.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "Nobody who lived there ever called themselves Byzantine.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. Nobody who lived there ever called themselves Byzantine. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "character",
+        "setting": "city",
+        "cast": [
+          {
+            "who": "citizen",
+            "pose": "shrug",
+            "expr": "worried",
+            "say": "BYZAN-WHAT?"
+          },
+          {
+            "who": "monk",
+            "pose": "shrug",
+            "expr": "neutral"
+          },
+          {
+            "who": "soldier",
+            "pose": "shrug",
+            "expr": "neutral"
+          }
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "chapter": 5,
+      "text": "To the last man on the walls, they were Romans.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "A lone Byzantine defender, a pebble-head in a steel helmet and red cloak, stands on the crenellated land walls of Constantinople at sunset holding a purple banner with a golden double-headed eagle; the domes of the city glow behind him and smoke rises in the distance. Historically accurate for 1453 before the conquest: the Hagia Sophia has no minarets, no crescents anywhere",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. A lone Byzantine defender, a pebble-head in a steel helmet and red cloak, stands on the crenellated land walls of Constantinople at sunset holding a purple banner with a golden double-headed eagle; the domes of the city glow behind him and smoke rises in the distance. Historically accurate for 1453 before the conquest: the Hagia Sophia has no minarets, no crescents anywhere. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "image",
+        "visual": "A lone Byzantine defender, a pebble-head in a steel helmet and red cloak, stands on the crenellated land walls of Constantinople at sunset holding a purple banner with a golden double-headed eagle; the domes of the city glow behind him and smoke rises in the distance. Historically accurate for 1453 before the conquest: the Hagia Sophia has no minarets, no crescents anywhere",
+        "kb": "in",
+        "fx": [
+          "embers"
+        ],
+        "label": "ROMANS",
+        "labelAt": 0.45
+      }
+    },
+    {
+      "id": 65,
+      "chapter": 5,
+      "text": "For more empires that refused to die, subscribe.",
+      "break": "sentence",
+      "shot_type": "SCENE",
+      "visual": "For more empires that refused to die, subscribe.",
+      "overlay": null,
+      "characters": [],
+      "motion": "auto",
+      "focus": null,
+      "transition": "cut",
+      "image_prompt": "Hand-inked editorial cartoon illustration. Bold, even black outlines; flat cel colours with a faint paper grain; warm parchment and earth palette (sand, olive, umber) with accents of brick red, ochre gold and sky blue. Richly detailed environments and architecture, but very simple cartoon people. One clear focal subject, readable at phone size, generous contrast between subject and background. 2D illustration. For more empires that refused to die, subscribe. The characters act this out clearly; medium-wide shot at eye level. Every person in the picture, including the ones doing the main action, is a \"pebble-head\" cartoon figure: a large smooth egg-shaped head in warm cream, two small black bead eyes, thick expressive eyebrows that carry the emotion, a tiny line mouth, two faint rosy cheek dots, no nose, no ears; hair, crowns and headwear are simple shapes sitting on top of the egg head; short rounded bodies and thin limbs drawn with the same black outline; clothing is simplified but period-accurate with solid colours; hands are simple mitten shapes. No realistic or anatomically drawn people anywhere. Wide 16:9 landscape composition. No lettering, no captions, no watermark, no signature, no frame border, no UI.",
+      "scene": {
+        "template": "cta",
+        "text": "SUBSCRIBE",
+        "sub": "MORE EMPIRES THAT REFUSED TO DIE",
+        "who": "constantine11"
+      }
+    }
+  ],
+  "characters": {},
+  "negative_prompt": "photorealistic, 3D render, CGI, anime, manga, realistic faces, noses, detailed hands, gradient-heavy airbrush, watermark, signature, logo, text, letters, misspelled words, blurry, cropped heads, extra limbs",
+  "image_aspect": "16:9",
+  "planner_scenes": "llm"
+}

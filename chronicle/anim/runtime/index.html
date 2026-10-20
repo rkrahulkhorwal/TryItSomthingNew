@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Chronicle animation runtime</title>
+<style>
+  @font-face { font-family: 'LuckiestGuy'; src: url('/fonts/LuckiestGuy-Regular.ttf'); }
+  @font-face { font-family: 'Anton'; src: url('/fonts/Anton-Regular.ttf'); }
+  @font-face { font-family: 'Cinzel'; src: url('/fonts/Cinzel-ExtraBold.ttf'); font-weight: 800; }
+  @font-face { font-family: 'Montserrat'; src: url('/fonts/Montserrat-ExtraBold.ttf'); font-weight: 800; }
+  @font-face { font-family: 'Montserrat'; src: url('/fonts/Montserrat-SemiBold.ttf'); font-weight: 600; }
+  @font-face { font-family: 'PatrickHand'; src: url('/fonts/PatrickHand-Regular.ttf'); }
+  html, body { margin: 0; padding: 0; background: #efe2c4; overflow: hidden; }
+  svg { display: block; }
+  /* keep the font faces loaded before the first frame */
+  #fontprobe { position: absolute; left: -9999px; font-size: 20px; }
+</style>
+</head>
+<body>
+<div id="fontprobe">
+  <span style="font-family:LuckiestGuy">a</span><span style="font-family:Anton">a</span>
+  <span style="font-family:Cinzel;font-weight:800">a</span><span style="font-family:Montserrat;font-weight:800">a</span>
+  <span style="font-family:Montserrat;font-weight:600">a</span><span style="font-family:PatrickHand">a</span>
+</div>
+<div id="stage"></div>
+<script src="/runtime/vendor/d3-d3.min.js"></script>
+<script src="/runtime/vendor/topojson-client-topojson-client.min.js"></script>
+<script src="/runtime/core.js"></script>
+<script src="/runtime/people.js"></script>
+<script src="/runtime/world.js"></script>
+<script src="/runtime/maps.js"></script>
+<script src="/runtime/scenes.js"></script>
+</body>
+</html>

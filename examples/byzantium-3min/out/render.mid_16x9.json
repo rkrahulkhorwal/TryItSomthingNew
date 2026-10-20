@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "shots": 65,
+    "median_shot_s": 2.89,
+    "mean_shot_s": 2.84,
+    "max_shot_s": 5.13,
+    "min_shot_s": 0.9,
+    "words": 576,
+    "wpm": 187.5,
+    "duration_s": 184.33
+  },
+  "render": {
+    "frames": 5530,
+    "workers": 3,
+    "seconds": 933.9,
+    "errors": [],
+    "audio": {
+      "music": null,
+      "sfx_events": 26,
+      "measured_lufs_before": -15.42,
+      "target_lufs": -14.0
+    }
+  }
+}

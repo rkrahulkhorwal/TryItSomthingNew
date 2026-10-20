@@ -23,3 +23,9 @@ examples/*/image_prompts.csv
 
 analysis/casting/
 analysis/reference/
+
+# animation runtime libraries (downloaded by `python -m chronicle setup --anim`)
+chronicle/anim/runtime/vendor/
+
+# large renders of the animated demo (re-render with `chronicle render`)
+examples/byzantium-3min/out/*.mp4

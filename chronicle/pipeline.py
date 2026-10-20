@@ -59,26 +59,46 @@ def voice(proj: Project, *, force: bool = False, log=print) -> dict:
     return clips
 
 
+def is_animated(proj: Project) -> bool:
+    return (proj.brief().get("render") or {}).get("engine") == "anim"
+
+
 def images(proj: Project, *, provider: str | None = None, only: list[int] | None = None, force: bool = False,
-           log=print) -> list[Path]:
+           aspects: list[str] | None = None, log=print) -> list[Path]:
     data = proj.beats()
     settings = proj.settings()
     active = provider or settings.get("images", {}).get("provider", "placeholder")
-    gen = get_image_provider(settings, proj.root, active)
+    gen = get_image_provider(settings, proj.root, active, ledger=proj.ledger())
     aspect = data.get("image_aspect") or proj.format().get("image_aspect", "16:9")
     export_prompt_sheet(data, proj.root / "image_prompts.csv")
-    done = []
+    animated = is_animated(proj)
+    if animated:  # code draws everything except the painted stills, which may come in several aspects
+        aspects = aspects or (proj.brief().get("render") or {}).get("image_aspects") or [aspect]
+    jobs = []
     for b in data["beats"]:
         if only and b["id"] not in only:
             continue
-        out = proj.image_path(b["id"])
+        if animated and (b.get("scene") or {}).get("template") != "image":
+            continue
+        for asp in (aspects if animated else [aspect]):
+            out = proj.image_path(b["id"]) if asp == aspect else proj.images_dir / f"beat_{b['id']:03d}_{asp.replace(':', 'x')}.png"
+            jobs.append((b, out, asp))
+    done = []
+    for b, out, asp in jobs:
         if out.exists() and not force:
             continue
-        gen.generate(b, out, aspect)
-        trimmed = trim_frame(out) if active != "placeholder" else (0, 0, 0, 0)
+        if asp != aspect:
+            from chronicle.style import compose_prompt
+
+            b = {**b, "image_prompt": compose_prompt(b, proj.style(), {**proj.format(), "image_aspect": asp}, data.get("characters") or {})}
+        gen.generate(b, out, asp)
+        # raw model output may carry a drawn frame; curated stills for animated projects are used as they are
+        trimmed = trim_frame(out) if active != "placeholder" and not (animated and active == "folder") else (0, 0, 0, 0)
         done.append(out)
         note = f"  (trimmed drawn border {trimmed})" if any(trimmed) else ""
         log(f"  image beat {b['id']:3d} [{b['shot_type']}] -> {out.name}{note}")
+        if hasattr(gen, "client") and getattr(gen.client, "ledger", None) is not None:
+            log(f"    spent so far: ${gen.client.ledger.spent:.4f}")
     log(f"images: {len(done)} generated ({active})")
     return done
 
@@ -99,9 +119,12 @@ def timeline(proj: Project, fmt_name: str | None = None) -> tuple[dict, object]:
     return tl, vo
 
 
-def render(proj: Project, formats: list[str] | None = None, *, preset: str = "medium", crf: int = 19, log=print) -> list[Path]:
+def render(proj: Project, formats: list[str] | None = None, *, preset: str = "medium", crf: int = 19,
+           workers: int | None = None, log=print) -> list[Path]:
     brief = proj.brief()
     formats = formats or [brief.get("format", "long_16x9")]
+    if is_animated(proj):
+        return render_animated_formats(proj, formats, preset=preset, crf=crf, workers=workers, log=log)
     data = proj.beats()
     images_map = {}
     for b in data["beats"]:
@@ -125,6 +148,40 @@ def render(proj: Project, formats: list[str] | None = None, *, preset: str = "me
             (proj.out_dir / f"{proj.root.name}.{name}.chapters.txt").write_text(chapters + "\n", encoding="utf-8")
         proj.write_json(f"out/render.{name}.json", {"stats": tl["stats"], "render": info})
         log(f"  -> {out}  ({info['computed_frames']}/{info['frames']} frames computed in {info['seconds']}s)")
+        outputs.append(out)
+    return outputs
+
+
+def _write_sidecars(proj: Project, name: str, tl: dict) -> None:
+    (proj.out_dir / f"{proj.root.name}.{name}.srt").write_text(srt(tl["words"]), encoding="utf-8")
+    chapters = youtube_chapters(tl)
+    if chapters:
+        (proj.out_dir / f"{proj.root.name}.{name}.chapters.txt").write_text(chapters + "\n", encoding="utf-8")
+
+
+def render_animated_formats(proj: Project, formats: list[str], *, preset: str = "medium", crf: int = 19,
+                            workers: int | None = None, log=print) -> list[Path]:
+    """Animated projects: the browser runtime draws every frame (see chronicle/anim)."""
+    from chronicle.anim.render import render_animated
+
+    brief = proj.brief()
+    missing = [b["id"] for b in proj.beats()["beats"] if not b.get("scene")]
+    if missing:
+        raise RuntimeError(f"beats {missing[:10]} have no scene - run `chronicle scenes` first")
+    outputs = []
+    for name in formats:
+        fmt = proj.format(name)
+        fmt["punch_cuts"] = bool((brief.get("render") or {}).get("punch_cuts", fmt.get("punch_cuts")))
+        tl, vo = timeline(proj, name)
+        music = find_music(fmt, brief, proj.root, MUSIC_DIR) if (fmt.get("music") or {}).get("enabled") else None
+        out = proj.out_dir / f"{proj.root.name}.{name}.mp4"
+        log(f"animate {name}: {fmt['width']}x{fmt['height']} @ {fmt['fps']} fps, {tl['duration']:.1f}s, "
+            f"{len(proj.beats()['beats'])} scenes, music={'yes' if music else 'no'}")
+        info = render_animated(proj, fmt, tl, vo, proj.style(), out, music_path=music, workers=workers, crf=crf,
+                               preset=preset, log=log)
+        _write_sidecars(proj, name, tl)
+        proj.write_json(f"out/render.{name}.json", {"stats": tl["stats"], "render": info})
+        log(f"  -> {out}  ({info['frames']} frames on {info['workers']} browsers in {info['seconds']}s)")
         outputs.append(out)
     return outputs
 

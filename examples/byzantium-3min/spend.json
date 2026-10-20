@@ -1,0 +1,207 @@
+{
+  "calls": [
+    {
+      "time": "2026-10-20T02:46:39",
+      "stage": "smoke_test",
+      "provider": "openrouter",
+      "model": "anthropic/claude-opus-5.5",
+      "cost": 0.000152,
+      "usage": {}
+    },
+    {
+      "time": "2026-10-20T02:50:01",
+      "stage": "research",
+      "provider": "openrouter",
+      "model": "anthropic/claude-opus-5.5",
+      "cost": 0.286496,
+      "usage": {
+        "prompt_tokens": 1309,
+        "completion_tokens": 14063,
+        "reasoning_tokens": 4492
+      }
+    },
+    {
+      "time": "2026-10-20T02:51:16",
+      "stage": "outline",
+      "provider": "openrouter",
+      "model": "anthropic/claude-opus-5.5",
+      "cost": 0.192764,
+      "usage": {
+        "prompt_tokens": 10676,
+        "completion_tokens": 7503,
+        "reasoning_tokens": 2721
+      }
+    },
+    {
+      "time": "2026-10-20T02:53:19",
+      "stage": "script",
+      "provider": "openrouter",
+      "model": "anthropic/claude-opus-5.5",
+      "cost": 0.34564,
+      "usage": {
+        "prompt_tokens": 16425,
+        "completion_tokens": 13997,
+        "reasoning_tokens": 12068
+      }
+    },
+    {
+      "time": "2026-10-20T03:37:00",
+      "stage": "image_024",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067927,
+      "usage": {
+        "prompt_tokens": 1453,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:37:32",
+      "stage": "image_024",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.068017,
+      "usage": {
+        "prompt_tokens": 1478,
+        "completion_tokens": 1146,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:37:44",
+      "stage": "image_032",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067923,
+      "usage": {
+        "prompt_tokens": 1447,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:37:54",
+      "stage": "image_032",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067936,
+      "usage": {
+        "prompt_tokens": 1472,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:38:04",
+      "stage": "image_040",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067924,
+      "usage": {
+        "prompt_tokens": 1448,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:38:15",
+      "stage": "image_040",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.068123,
+      "usage": {
+        "prompt_tokens": 1473,
+        "completion_tokens": 1182,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:38:27",
+      "stage": "image_053",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.06793,
+      "usage": {
+        "prompt_tokens": 1459,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:38:37",
+      "stage": "image_053",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067942,
+      "usage": {
+        "prompt_tokens": 1484,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:38:48",
+      "stage": "image_064",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067926,
+      "usage": {
+        "prompt_tokens": 1452,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:38:59",
+      "stage": "image_064",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067938,
+      "usage": {
+        "prompt_tokens": 1477,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:50:49",
+      "stage": "image_040",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067935,
+      "usage": {
+        "prompt_tokens": 1470,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:51:00",
+      "stage": "image_064",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067939,
+      "usage": {
+        "prompt_tokens": 1479,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    },
+    {
+      "time": "2026-10-20T03:51:10",
+      "stage": "image_024",
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-flash-image",
+      "cost": 0.067957,
+      "usage": {
+        "prompt_tokens": 1514,
+        "completion_tokens": 1120,
+        "reasoning_tokens": 0
+      }
+    }
+  ],
+  "openrouter_baseline_usd": 24.89718585,
+  "cap_usd": 2.0,
+  "spent_usd": 1.708469
+}

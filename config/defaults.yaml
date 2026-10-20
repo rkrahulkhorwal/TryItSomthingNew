@@ -2,10 +2,16 @@
 # API keys are read from environment variables, never from these files.
 
 llm:
-  provider: claude            # claude | manual  (manual = write the prompt to a file, paste the answer back)
+  provider: claude            # claude | openrouter | manual  (manual = write the prompt to a file, paste the answer back)
   model: claude-opus-5-5
   effort: high                # low | medium | high | xhigh | max
   max_tokens: 64000
+  openrouter:                 # env: OPENROUTER_API_KEY. Every call is priced against `budget_usd` in brief.yaml
+    model: anthropic/claude-opus-5.5
+    effort: medium            # reasoning effort: none | low | medium | high
+    max_tokens: 16000         # also the worst case the budget guard reserves for each call
+    stage_models: {}          # e.g. {beats: anthropic/claude-sonnet-5.5, scenes: anthropic/claude-sonnet-5.5}
+    stage_effort: {}
 
 tts:
   provider: kokoro            # kokoro (local, free) | elevenlabs | openai | edge | silent
@@ -35,7 +41,7 @@ tts:
     rate: "+12%"
 
 images:
-  provider: placeholder       # placeholder (offline animatic) | openai | gemini | replicate | folder
+  provider: placeholder       # placeholder (offline animatic) | openai | gemini | replicate | openrouter | folder
   openai:                     # env: OPENAI_API_KEY
     model: gpt-image-1
     quality: medium
@@ -43,6 +49,9 @@ images:
     model: gemini-2.5-flash-image
   replicate:                  # env: REPLICATE_API_TOKEN
     model: black-forest-labs/flux-1.1-pro
+  openrouter:                 # env: OPENROUTER_API_KEY, priced against budget_usd
+    model: google/gemini-3.1-flash-image
+    reference: ""             # optional style-sheet image (relative to the project) sent with every prompt
   folder:
     dir: images_in            # drop files named beat_001.png ... (e.g. from Midjourney) here
 
