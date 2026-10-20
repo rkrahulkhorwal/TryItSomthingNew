@@ -1,0 +1,3402 @@
+{
+  "1": {
+    "path": "audio/beat_001.wav",
+    "duration": 1.55,
+    "words": [
+      {
+        "w": "In",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "476,",
+        "s": 0.0,
+        "e": 0.66
+      },
+      {
+        "w": "Rome",
+        "s": 0.66,
+        "e": 1.12
+      },
+      {
+        "w": "fell.",
+        "s": 1.12,
+        "e": 1.4
+      }
+    ],
+    "hash": "6d2347b8b831",
+    "text": "In 476, Rome fell."
+  },
+  "2": {
+    "path": "audio/beat_002.wav",
+    "duration": 0.72,
+    "words": [
+      {
+        "w": "Except",
+        "s": 0.0,
+        "e": 0.18
+      },
+      {
+        "w": "it",
+        "s": 0.18,
+        "e": 0.32
+      },
+      {
+        "w": "didn't.",
+        "s": 0.32,
+        "e": 0.62
+      }
+    ],
+    "hash": "7e7d0f606638",
+    "text": "Except it didn't."
+  },
+  "3": {
+    "path": "audio/beat_003.wav",
+    "duration": 2.98,
+    "words": [
+      {
+        "w": "From",
+        "s": 0.0,
+        "e": 0.22799999999999998
+      },
+      {
+        "w": "a",
+        "s": 0.22799999999999998,
+        "e": 0.45599999999999996
+      },
+      {
+        "w": "Greek",
+        "s": 0.45599999999999996,
+        "e": 0.6839999999999999
+      },
+      {
+        "w": "harbour",
+        "s": 0.6839999999999999,
+        "e": 0.9119999999999999
+      },
+      {
+        "w": "town,",
+        "s": 0.9119999999999999,
+        "e": 1.14
+      },
+      {
+        "w": "Rome",
+        "s": 1.14,
+        "e": 1.24
+      },
+      {
+        "w": "ruled",
+        "s": 1.24,
+        "e": 1.48
+      },
+      {
+        "w": "for",
+        "s": 1.48,
+        "e": 1.72
+      },
+      {
+        "w": "nearly",
+        "s": 1.72,
+        "e": 1.86
+      },
+      {
+        "w": "a",
+        "s": 1.86,
+        "e": 2.02
+      },
+      {
+        "w": "thousand",
+        "s": 2.02,
+        "e": 2.26
+      },
+      {
+        "w": "more",
+        "s": 2.26,
+        "e": 2.54
+      },
+      {
+        "w": "years.",
+        "s": 2.54,
+        "e": 2.76
+      }
+    ],
+    "hash": "8c8b7b3ddf3b",
+    "text": "From a Greek harbour town, Rome ruled for nearly a thousand more years."
+  },
+  "4": {
+    "path": "audio/beat_004.wav",
+    "duration": 3.89,
+    "words": [
+      {
+        "w": "This",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "is",
+        "s": 0.08,
+        "e": 0.18
+      },
+      {
+        "w": "the",
+        "s": 0.18,
+        "e": 0.28
+      },
+      {
+        "w": "Byzantine",
+        "s": 0.28,
+        "e": 0.54
+      },
+      {
+        "w": "Empire:",
+        "s": 0.54,
+        "e": 1.04
+      },
+      {
+        "w": "riots,",
+        "s": 1.44,
+        "e": 1.64
+      },
+      {
+        "w": "plague,",
+        "s": 1.64,
+        "e": 1.94
+      },
+      {
+        "w": "secret",
+        "s": 1.94,
+        "e": 2.44
+      },
+      {
+        "w": "fire",
+        "s": 2.44,
+        "e": 2.66
+      },
+      {
+        "w": "and",
+        "s": 2.66,
+        "e": 2.86
+      },
+      {
+        "w": "betrayal",
+        "s": 2.86,
+        "e": 3.12
+      },
+      {
+        "w": "by",
+        "s": 3.12,
+        "e": 3.42
+      },
+      {
+        "w": "friends.",
+        "s": 3.42,
+        "e": 3.68
+      }
+    ],
+    "hash": "3b66950038d3",
+    "text": "This is the Byzantine Empire: riots, plague, secret fire and betrayal by friends."
+  },
+  "5": {
+    "path": "audio/beat_005.wav",
+    "duration": 3.29,
+    "words": [
+      {
+        "w": "So",
+        "s": 0.0,
+        "e": 0.09
+      },
+      {
+        "w": "why",
+        "s": 0.09,
+        "e": 0.18
+      },
+      {
+        "w": "was",
+        "s": 0.18,
+        "e": 0.32
+      },
+      {
+        "w": "a",
+        "s": 0.32,
+        "e": 0.4
+      },
+      {
+        "w": "Roman",
+        "s": 0.4,
+        "e": 0.56
+      },
+      {
+        "w": "emperor",
+        "s": 0.56,
+        "e": 0.92
+      },
+      {
+        "w": "still",
+        "s": 0.92,
+        "e": 1.2
+      },
+      {
+        "w": "fighting",
+        "s": 1.2,
+        "e": 1.58
+      },
+      {
+        "w": "in",
+        "s": 1.58,
+        "e": 1.78
+      },
+      {
+        "w": "1453?",
+        "s": 1.78,
+        "e": 3.16
+      }
+    ],
+    "hash": "8dc244f3fa8d",
+    "text": "So why was a Roman emperor still fighting in 1453?"
+  },
+  "6": {
+    "path": "audio/beat_006.wav",
+    "duration": 4.89,
+    "words": [
+      {
+        "w": "Our",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "story",
+        "s": 0.06,
+        "e": 0.26
+      },
+      {
+        "w": "starts",
+        "s": 0.26,
+        "e": 0.52
+      },
+      {
+        "w": "in",
+        "s": 0.52,
+        "e": 0.68
+      },
+      {
+        "w": "330,",
+        "s": 0.68,
+        "e": 0.92
+      },
+      {
+        "w": "when",
+        "s": 1.72,
+        "e": 1.86
+      },
+      {
+        "w": "Constantine",
+        "s": 1.86,
+        "e": 2.24
+      },
+      {
+        "w": "rebuilt",
+        "s": 2.24,
+        "e": 2.66
+      },
+      {
+        "w": "Byzantion,",
+        "s": 2.66,
+        "e": 3.26
+      },
+      {
+        "w": "on",
+        "s": 3.26,
+        "e": 3.42
+      },
+      {
+        "w": "the",
+        "s": 3.42,
+        "e": 3.5
+      },
+      {
+        "w": "Bosphorus,",
+        "s": 3.5,
+        "e": 4.1
+      },
+      {
+        "w": "as",
+        "s": 4.1,
+        "e": 4.3
+      },
+      {
+        "w": "\"New",
+        "s": 4.3,
+        "e": 4.5
+      },
+      {
+        "w": "Rome.\"",
+        "s": 4.5,
+        "e": 4.72
+      }
+    ],
+    "hash": "e3a6ade3f788",
+    "text": "Our story starts in 330, when Constantine rebuilt Byzantion, on the Bosphorus, as \"New Rome.\""
+  },
+  "7": {
+    "path": "audio/beat_007.wav",
+    "duration": 3.35,
+    "words": [
+      {
+        "w": "In",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "395,",
+        "s": 0.06,
+        "e": 0.52
+      },
+      {
+        "w": "the",
+        "s": 1.08,
+        "e": 1.18
+      },
+      {
+        "w": "empire",
+        "s": 1.18,
+        "e": 1.34
+      },
+      {
+        "w": "split",
+        "s": 1.34,
+        "e": 1.64
+      },
+      {
+        "w": "between",
+        "s": 1.64,
+        "e": 1.9
+      },
+      {
+        "w": "two",
+        "s": 1.9,
+        "e": 2.1
+      },
+      {
+        "w": "brothers,",
+        "s": 2.1,
+        "e": 2.34
+      },
+      {
+        "w": "East",
+        "s": 2.34,
+        "e": 2.72
+      },
+      {
+        "w": "and",
+        "s": 2.72,
+        "e": 2.96
+      },
+      {
+        "w": "West.",
+        "s": 2.96,
+        "e": 3.14
+      }
+    ],
+    "hash": "2b3739a1378c",
+    "text": "In 395, the empire split between two brothers, East and West."
+  },
+  "8": {
+    "path": "audio/beat_008.wav",
+    "duration": 4.78,
+    "words": [
+      {
+        "w": "Around",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "413,",
+        "s": 0.14,
+        "e": 0.42
+      },
+      {
+        "w": "giant",
+        "s": 1.1,
+        "e": 1.32
+      },
+      {
+        "w": "walls",
+        "s": 1.32,
+        "e": 1.62
+      },
+      {
+        "w": "went",
+        "s": 1.62,
+        "e": 1.82
+      },
+      {
+        "w": "up:",
+        "s": 1.82,
+        "e": 1.94
+      },
+      {
+        "w": "5.7",
+        "s": 1.94,
+        "e": 2.52
+      },
+      {
+        "w": "kilometres",
+        "s": 2.52,
+        "e": 3.1
+      },
+      {
+        "w": "long,",
+        "s": 3.1,
+        "e": 3.56
+      },
+      {
+        "w": "with",
+        "s": 3.56,
+        "e": 3.78
+      },
+      {
+        "w": "96",
+        "s": 3.78,
+        "e": 4.06
+      },
+      {
+        "w": "towers.",
+        "s": 4.06,
+        "e": 4.52
+      }
+    ],
+    "hash": "99feece05cd0",
+    "text": "Around 413, giant walls went up: 5.7 kilometres long, with 96 towers."
+  },
+  "9": {
+    "path": "audio/beat_009.wav",
+    "duration": 3.1,
+    "words": [
+      {
+        "w": "In",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "476,",
+        "s": 0.06,
+        "e": 0.72
+      },
+      {
+        "w": "a",
+        "s": 1.2,
+        "e": 1.3
+      },
+      {
+        "w": "warlord",
+        "s": 1.3,
+        "e": 1.58
+      },
+      {
+        "w": "kicked",
+        "s": 1.58,
+        "e": 1.8
+      },
+      {
+        "w": "out",
+        "s": 1.8,
+        "e": 1.98
+      },
+      {
+        "w": "the",
+        "s": 1.98,
+        "e": 2.1
+      },
+      {
+        "w": "last",
+        "s": 2.1,
+        "e": 2.26
+      },
+      {
+        "w": "western",
+        "s": 2.26,
+        "e": 2.7
+      },
+      {
+        "w": "emperor",
+        "s": 2.7,
+        "e": 2.86
+      }
+    ],
+    "hash": "28f35dcef837",
+    "text": "In 476, a warlord kicked out the last western emperor"
+  },
+  "10": {
+    "path": "audio/beat_010.wav",
+    "duration": 2.19,
+    "words": [
+      {
+        "w": "and",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "posted",
+        "s": 0.0,
+        "e": 0.24
+      },
+      {
+        "w": "his",
+        "s": 0.24,
+        "e": 0.42
+      },
+      {
+        "w": "crown",
+        "s": 0.42,
+        "e": 0.64
+      },
+      {
+        "w": "and",
+        "s": 0.64,
+        "e": 0.88
+      },
+      {
+        "w": "robes",
+        "s": 0.88,
+        "e": 1.12
+      },
+      {
+        "w": "to",
+        "s": 1.12,
+        "e": 1.4
+      },
+      {
+        "w": "Constantinople.",
+        "s": 1.4,
+        "e": 1.6
+      }
+    ],
+    "hash": "0c5f81624466",
+    "text": "and posted his crown and robes to Constantinople."
+  },
+  "11": {
+    "path": "audio/beat_011.wav",
+    "duration": 1.06,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "western",
+        "s": 0.06,
+        "e": 0.22
+      },
+      {
+        "w": "half",
+        "s": 0.22,
+        "e": 0.46
+      },
+      {
+        "w": "collapsed.",
+        "s": 0.46,
+        "e": 0.7
+      }
+    ],
+    "hash": "747afd9e9b0a",
+    "text": "The western half collapsed."
+  },
+  "12": {
+    "path": "audio/beat_012.wav",
+    "duration": 1.21,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "Roman",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "Empire",
+        "s": 0.2,
+        "e": 0.58
+      },
+      {
+        "w": "did",
+        "s": 0.58,
+        "e": 0.82
+      },
+      {
+        "w": "not.",
+        "s": 0.82,
+        "e": 0.98
+      }
+    ],
+    "hash": "8a7c753eade4",
+    "text": "The Roman Empire did not."
+  },
+  "13": {
+    "path": "audio/beat_013.wav",
+    "duration": 1.21,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "walls",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "could",
+        "s": 0.2,
+        "e": 0.4
+      },
+      {
+        "w": "stop",
+        "s": 0.4,
+        "e": 0.62
+      },
+      {
+        "w": "any",
+        "s": 0.62,
+        "e": 0.76
+      },
+      {
+        "w": "army.",
+        "s": 0.76,
+        "e": 1.04
+      }
+    ],
+    "hash": "b4ceb582cc7e",
+    "text": "The walls could stop any army."
+  },
+  "14": {
+    "path": "audio/beat_014.wav",
+    "duration": 1.77,
+    "words": [
+      {
+        "w": "But",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "the",
+        "s": 0.06,
+        "e": 0.12
+      },
+      {
+        "w": "danger",
+        "s": 0.12,
+        "e": 0.32
+      },
+      {
+        "w": "was",
+        "s": 0.32,
+        "e": 0.6
+      },
+      {
+        "w": "inside,",
+        "s": 0.6,
+        "e": 0.9
+      },
+      {
+        "w": "at",
+        "s": 0.9,
+        "e": 1.18
+      },
+      {
+        "w": "the",
+        "s": 1.18,
+        "e": 1.26
+      },
+      {
+        "w": "racetrack.",
+        "s": 1.26,
+        "e": 1.74
+      }
+    ],
+    "hash": "4694c70b175f",
+    "text": "But the danger was inside, at the racetrack."
+  },
+  "15": {
+    "path": "audio/beat_015.wav",
+    "duration": 4.19,
+    "words": [
+      {
+        "w": "Under",
+        "s": 0.0,
+        "e": 0.1
+      },
+      {
+        "w": "Justinian,",
+        "s": 0.1,
+        "e": 0.52
+      },
+      {
+        "w": "chariot-racing",
+        "s": 0.68,
+        "e": 1.24
+      },
+      {
+        "w": "fans",
+        "s": 1.24,
+        "e": 1.52
+      },
+      {
+        "w": "belonged",
+        "s": 1.52,
+        "e": 1.9
+      },
+      {
+        "w": "to",
+        "s": 1.9,
+        "e": 2.08
+      },
+      {
+        "w": "rival",
+        "s": 2.08,
+        "e": 2.26
+      },
+      {
+        "w": "gangs:",
+        "s": 2.26,
+        "e": 2.58
+      },
+      {
+        "w": "the",
+        "s": 3.06,
+        "e": 3.16
+      },
+      {
+        "w": "Blues",
+        "s": 3.16,
+        "e": 3.32
+      },
+      {
+        "w": "and",
+        "s": 3.32,
+        "e": 3.58
+      },
+      {
+        "w": "the",
+        "s": 3.58,
+        "e": 3.68
+      },
+      {
+        "w": "Greens.",
+        "s": 3.68,
+        "e": 3.82
+      }
+    ],
+    "hash": "e5d49d577bcc",
+    "text": "Under Justinian, chariot-racing fans belonged to rival gangs: the Blues and the Greens."
+  },
+  "16": {
+    "path": "audio/beat_016.wav",
+    "duration": 3.86,
+    "words": [
+      {
+        "w": "In",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "532,",
+        "s": 0.0,
+        "e": 0.6
+      },
+      {
+        "w": "both",
+        "s": 0.6,
+        "e": 1.04
+      },
+      {
+        "w": "gangs",
+        "s": 1.04,
+        "e": 1.28
+      },
+      {
+        "w": "rioted,",
+        "s": 1.28,
+        "e": 1.84
+      },
+      {
+        "w": "chanting",
+        "s": 1.84,
+        "e": 2.04
+      },
+      {
+        "w": "\"Nika!\",",
+        "s": 2.04,
+        "e": 2.48
+      },
+      {
+        "w": "and",
+        "s": 2.48,
+        "e": 2.94
+      },
+      {
+        "w": "burned",
+        "s": 2.94,
+        "e": 3.08
+      },
+      {
+        "w": "the",
+        "s": 3.08,
+        "e": 3.28
+      },
+      {
+        "w": "city",
+        "s": 3.28,
+        "e": 3.44
+      },
+      {
+        "w": "centre.",
+        "s": 3.44,
+        "e": 3.86
+      }
+    ],
+    "hash": "4683e157da3d",
+    "text": "In 532, both gangs rioted, chanting \"Nika!\", and burned the city centre."
+  },
+  "17": {
+    "path": "audio/beat_017.wav",
+    "duration": 1.07,
+    "words": [
+      {
+        "w": "Justinian",
+        "s": 0.0,
+        "e": 0.2675
+      },
+      {
+        "w": "packed",
+        "s": 0.2675,
+        "e": 0.535
+      },
+      {
+        "w": "to",
+        "s": 0.535,
+        "e": 0.8025
+      },
+      {
+        "w": "flee.",
+        "s": 0.8025,
+        "e": 1.07
+      }
+    ],
+    "hash": "a84bf46c6f4e",
+    "text": "Justinian packed to flee."
+  },
+  "18": {
+    "path": "audio/beat_018.wav",
+    "duration": 1.58,
+    "words": [
+      {
+        "w": "According",
+        "s": 0.0,
+        "e": 0.2
+      },
+      {
+        "w": "to",
+        "s": 0.2,
+        "e": 0.36
+      },
+      {
+        "w": "the",
+        "s": 0.36,
+        "e": 0.46
+      },
+      {
+        "w": "historian",
+        "s": 0.46,
+        "e": 0.72
+      },
+      {
+        "w": "Procopius,",
+        "s": 0.72,
+        "e": 1.4
+      }
+    ],
+    "hash": "64470953b439",
+    "text": "According to the historian Procopius,"
+  },
+  "19": {
+    "path": "audio/beat_019.wav",
+    "duration": 2.86,
+    "words": [
+      {
+        "w": "Empress",
+        "s": 0.0,
+        "e": 0.29333333333333333
+      },
+      {
+        "w": "Theodora",
+        "s": 0.29333333333333333,
+        "e": 0.5866666666666667
+      },
+      {
+        "w": "said",
+        "s": 0.5866666666666667,
+        "e": 0.88
+      },
+      {
+        "w": "she'd",
+        "s": 0.88,
+        "e": 1.06
+      },
+      {
+        "w": "rather",
+        "s": 1.06,
+        "e": 1.14
+      },
+      {
+        "w": "die",
+        "s": 1.14,
+        "e": 1.4
+      },
+      {
+        "w": "in",
+        "s": 1.4,
+        "e": 1.62
+      },
+      {
+        "w": "imperial",
+        "s": 1.62,
+        "e": 1.88
+      },
+      {
+        "w": "purple",
+        "s": 1.88,
+        "e": 2.24
+      },
+      {
+        "w": "than",
+        "s": 2.24,
+        "e": 2.54
+      },
+      {
+        "w": "run.",
+        "s": 2.54,
+        "e": 2.72
+      }
+    ],
+    "hash": "747d3780962d",
+    "text": "Empress Theodora said she'd rather die in imperial purple than run."
+  },
+  "20": {
+    "path": "audio/beat_020.wav",
+    "duration": 2.09,
+    "words": [
+      {
+        "w": "So",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "General",
+        "s": 0.06,
+        "e": 0.22
+      },
+      {
+        "w": "Belisarius",
+        "s": 0.22,
+        "e": 0.72
+      },
+      {
+        "w": "sealed",
+        "s": 0.72,
+        "e": 1.0
+      },
+      {
+        "w": "the",
+        "s": 1.0,
+        "e": 1.24
+      },
+      {
+        "w": "Hippodrome",
+        "s": 1.24,
+        "e": 1.62
+      },
+      {
+        "w": "gates.",
+        "s": 1.62,
+        "e": 1.84
+      }
+    ],
+    "hash": "3c909bcdba0f",
+    "text": "So General Belisarius sealed the Hippodrome gates."
+  },
+  "21": {
+    "path": "audio/beat_021.wav",
+    "duration": 2.64,
+    "words": [
+      {
+        "w": "Procopius",
+        "s": 0.0,
+        "e": 0.44
+      },
+      {
+        "w": "claims",
+        "s": 0.44,
+        "e": 0.58
+      },
+      {
+        "w": "about",
+        "s": 0.58,
+        "e": 0.86
+      },
+      {
+        "w": "30,000",
+        "s": 0.86,
+        "e": 1.5
+      },
+      {
+        "w": "people",
+        "s": 1.5,
+        "e": 1.82
+      },
+      {
+        "w": "died",
+        "s": 1.82,
+        "e": 2.04
+      },
+      {
+        "w": "inside.",
+        "s": 2.04,
+        "e": 2.28
+      }
+    ],
+    "hash": "d24da9f9bba6",
+    "text": "Procopius claims about 30,000 people died inside."
+  },
+  "22": {
+    "path": "audio/beat_022.wav",
+    "duration": 2.19,
+    "words": [
+      {
+        "w": "Weeks",
+        "s": 0.0,
+        "e": 0.12
+      },
+      {
+        "w": "later,",
+        "s": 0.12,
+        "e": 0.28
+      },
+      {
+        "w": "work",
+        "s": 0.46,
+        "e": 0.6
+      },
+      {
+        "w": "began",
+        "s": 0.6,
+        "e": 0.9
+      },
+      {
+        "w": "on",
+        "s": 0.9,
+        "e": 1.16
+      },
+      {
+        "w": "a",
+        "s": 1.16,
+        "e": 1.24
+      },
+      {
+        "w": "new",
+        "s": 1.24,
+        "e": 1.36
+      },
+      {
+        "w": "Hagia",
+        "s": 1.36,
+        "e": 1.54
+      },
+      {
+        "w": "Sophia.",
+        "s": 1.54,
+        "e": 1.88
+      }
+    ],
+    "hash": "0370b256b1cb",
+    "text": "Weeks later, work began on a new Hagia Sophia."
+  },
+  "23": {
+    "path": "audio/beat_023.wav",
+    "duration": 3.21,
+    "words": [
+      {
+        "w": "It",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "opened",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "in",
+        "s": 0.2,
+        "e": 0.36
+      },
+      {
+        "w": "537,",
+        "s": 0.36,
+        "e": 1.06
+      },
+      {
+        "w": "with",
+        "s": 1.06,
+        "e": 1.76
+      },
+      {
+        "w": "a",
+        "s": 1.76,
+        "e": 1.8
+      },
+      {
+        "w": "dome",
+        "s": 1.8,
+        "e": 1.98
+      },
+      {
+        "w": "31",
+        "s": 1.98,
+        "e": 2.38
+      },
+      {
+        "w": "metres",
+        "s": 2.38,
+        "e": 2.74
+      },
+      {
+        "w": "wide.",
+        "s": 2.74,
+        "e": 3.02
+      }
+    ],
+    "hash": "cf923da9b85f",
+    "text": "It opened in 537, with a dome 31 metres wide."
+  },
+  "24": {
+    "path": "audio/beat_024.wav",
+    "duration": 2.59,
+    "words": [
+      {
+        "w": "For",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "nearly",
+        "s": 0.06,
+        "e": 0.16
+      },
+      {
+        "w": "a",
+        "s": 0.16,
+        "e": 0.34
+      },
+      {
+        "w": "thousand",
+        "s": 0.34,
+        "e": 0.56
+      },
+      {
+        "w": "years,",
+        "s": 0.56,
+        "e": 0.92
+      },
+      {
+        "w": "no",
+        "s": 1.22,
+        "e": 1.32
+      },
+      {
+        "w": "cathedral",
+        "s": 1.32,
+        "e": 1.62
+      },
+      {
+        "w": "on",
+        "s": 1.62,
+        "e": 1.86
+      },
+      {
+        "w": "Earth",
+        "s": 1.86,
+        "e": 2.04
+      },
+      {
+        "w": "was",
+        "s": 2.04,
+        "e": 2.2
+      },
+      {
+        "w": "bigger.",
+        "s": 2.2,
+        "e": 2.4
+      }
+    ],
+    "hash": "5acdd8603fa4",
+    "text": "For nearly a thousand years, no cathedral on Earth was bigger."
+  },
+  "25": {
+    "path": "audio/beat_025.wav",
+    "duration": 2.32,
+    "words": [
+      {
+        "w": "Justinian",
+        "s": 0.0,
+        "e": 0.34
+      },
+      {
+        "w": "also",
+        "s": 0.34,
+        "e": 0.52
+      },
+      {
+        "w": "squeezed",
+        "s": 0.52,
+        "e": 0.88
+      },
+      {
+        "w": "Roman",
+        "s": 0.88,
+        "e": 1.22
+      },
+      {
+        "w": "law",
+        "s": 1.22,
+        "e": 1.52
+      },
+      {
+        "w": "into",
+        "s": 1.52,
+        "e": 1.7
+      },
+      {
+        "w": "one",
+        "s": 1.7,
+        "e": 1.9
+      },
+      {
+        "w": "code.",
+        "s": 1.9,
+        "e": 2.12
+      }
+    ],
+    "hash": "7ba14c5cbe8c",
+    "text": "Justinian also squeezed Roman law into one code."
+  },
+  "26": {
+    "path": "audio/beat_026.wav",
+    "duration": 2.14,
+    "words": [
+      {
+        "w": "Then",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "his",
+        "s": 0.08,
+        "e": 0.18
+      },
+      {
+        "w": "generals",
+        "s": 0.18,
+        "e": 0.44
+      },
+      {
+        "w": "retook",
+        "s": 0.44,
+        "e": 0.8
+      },
+      {
+        "w": "North",
+        "s": 0.8,
+        "e": 1.02
+      },
+      {
+        "w": "Africa",
+        "s": 1.02,
+        "e": 1.38
+      },
+      {
+        "w": "and",
+        "s": 1.38,
+        "e": 1.8
+      },
+      {
+        "w": "Italy.",
+        "s": 1.8,
+        "e": 1.94
+      }
+    ],
+    "hash": "35efe401473b",
+    "text": "Then his generals retook North Africa and Italy."
+  },
+  "27": {
+    "path": "audio/beat_027.wav",
+    "duration": 3.85,
+    "words": [
+      {
+        "w": "But",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "in",
+        "s": 0.08,
+        "e": 0.1
+      },
+      {
+        "w": "541,",
+        "s": 0.1,
+        "e": 0.72
+      },
+      {
+        "w": "plague",
+        "s": 1.18,
+        "e": 1.3
+      },
+      {
+        "w": "struck,",
+        "s": 1.3,
+        "e": 1.64
+      },
+      {
+        "w": "probably",
+        "s": 1.98,
+        "e": 2.2
+      },
+      {
+        "w": "carried",
+        "s": 2.2,
+        "e": 2.5
+      },
+      {
+        "w": "by",
+        "s": 2.5,
+        "e": 2.72
+      },
+      {
+        "w": "rats",
+        "s": 2.72,
+        "e": 2.96
+      },
+      {
+        "w": "on",
+        "s": 2.96,
+        "e": 3.16
+      },
+      {
+        "w": "grain",
+        "s": 3.16,
+        "e": 3.34
+      },
+      {
+        "w": "ships.",
+        "s": 3.34,
+        "e": 3.64
+      }
+    ],
+    "hash": "1359b2f01827",
+    "text": "But in 541, plague struck, probably carried by rats on grain ships."
+  },
+  "28": {
+    "path": "audio/beat_028.wav",
+    "duration": 1.36,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "wars",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "and",
+        "s": 0.2,
+        "e": 0.38
+      },
+      {
+        "w": "plague",
+        "s": 0.38,
+        "e": 0.56
+      },
+      {
+        "w": "drained",
+        "s": 0.56,
+        "e": 0.84
+      },
+      {
+        "w": "Rome,",
+        "s": 0.84,
+        "e": 1.18
+      }
+    ],
+    "hash": "a0097cc16e75",
+    "text": "The wars and plague drained Rome,"
+  },
+  "29": {
+    "path": "audio/beat_029.wav",
+    "duration": 1.63,
+    "words": [
+      {
+        "w": "just",
+        "s": 0.0,
+        "e": 0.1
+      },
+      {
+        "w": "as",
+        "s": 0.1,
+        "e": 0.2
+      },
+      {
+        "w": "a",
+        "s": 0.2,
+        "e": 0.28
+      },
+      {
+        "w": "new",
+        "s": 0.28,
+        "e": 0.4
+      },
+      {
+        "w": "power",
+        "s": 0.4,
+        "e": 0.64
+      },
+      {
+        "w": "rose",
+        "s": 0.64,
+        "e": 0.96
+      },
+      {
+        "w": "from",
+        "s": 0.96,
+        "e": 1.16
+      },
+      {
+        "w": "the",
+        "s": 1.16,
+        "e": 1.26
+      },
+      {
+        "w": "desert.",
+        "s": 1.26,
+        "e": 1.42
+      }
+    ],
+    "hash": "557def627039",
+    "text": "just as a new power rose from the desert."
+  },
+  "30": {
+    "path": "audio/beat_030.wav",
+    "duration": 3.85,
+    "words": [
+      {
+        "w": "Arab",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "armies",
+        "s": 0.06,
+        "e": 0.3
+      },
+      {
+        "w": "took",
+        "s": 0.3,
+        "e": 0.5
+      },
+      {
+        "w": "Syria",
+        "s": 0.5,
+        "e": 0.74
+      },
+      {
+        "w": "in",
+        "s": 0.74,
+        "e": 0.92
+      },
+      {
+        "w": "636,",
+        "s": 0.92,
+        "e": 1.64
+      },
+      {
+        "w": "then",
+        "s": 2.06,
+        "e": 2.24
+      },
+      {
+        "w": "Egypt,",
+        "s": 2.24,
+        "e": 2.52
+      },
+      {
+        "w": "the",
+        "s": 2.52,
+        "e": 2.8
+      },
+      {
+        "w": "empire's",
+        "s": 2.8,
+        "e": 3.26
+      },
+      {
+        "w": "breadbasket.",
+        "s": 3.26,
+        "e": 3.68
+      }
+    ],
+    "hash": "10f39d7a1f4e",
+    "text": "Arab armies took Syria in 636, then Egypt, the empire's breadbasket."
+  },
+  "31": {
+    "path": "audio/beat_031.wav",
+    "duration": 4.45,
+    "words": [
+      {
+        "w": "Twice,",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "in",
+        "s": 0.14,
+        "e": 0.32
+      },
+      {
+        "w": "674",
+        "s": 0.32,
+        "e": 0.96
+      },
+      {
+        "w": "and",
+        "s": 0.96,
+        "e": 1.4
+      },
+      {
+        "w": "717,",
+        "s": 1.4,
+        "e": 2.14
+      },
+      {
+        "w": "Arab",
+        "s": 2.62,
+        "e": 2.8
+      },
+      {
+        "w": "forces",
+        "s": 2.8,
+        "e": 3.1
+      },
+      {
+        "w": "besieged",
+        "s": 3.1,
+        "e": 3.52
+      },
+      {
+        "w": "Constantinople.",
+        "s": 3.52,
+        "e": 3.84
+      }
+    ],
+    "hash": "418af996541a",
+    "text": "Twice, in 674 and 717, Arab forces besieged Constantinople."
+  },
+  "32": {
+    "path": "audio/beat_032.wav",
+    "duration": 3.08,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "Romans",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "answered",
+        "s": 0.2,
+        "e": 0.54
+      },
+      {
+        "w": "with",
+        "s": 0.54,
+        "e": 0.78
+      },
+      {
+        "w": "Greek",
+        "s": 0.78,
+        "e": 0.9
+      },
+      {
+        "w": "fire:",
+        "s": 0.9,
+        "e": 1.26
+      },
+      {
+        "w": "liquid",
+        "s": 1.62,
+        "e": 1.76
+      },
+      {
+        "w": "flame",
+        "s": 1.76,
+        "e": 2.1
+      },
+      {
+        "w": "that",
+        "s": 2.1,
+        "e": 2.32
+      },
+      {
+        "w": "burned",
+        "s": 2.32,
+        "e": 2.5
+      },
+      {
+        "w": "on",
+        "s": 2.5,
+        "e": 2.7
+      },
+      {
+        "w": "water.",
+        "s": 2.7,
+        "e": 2.96
+      }
+    ],
+    "hash": "2bf0e61a7c8f",
+    "text": "The Romans answered with Greek fire: liquid flame that burned on water."
+  },
+  "33": {
+    "path": "audio/beat_033.wav",
+    "duration": 3.59,
+    "words": [
+      {
+        "w": "By",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "718,",
+        "s": 0.08,
+        "e": 0.5
+      },
+      {
+        "w": "fire,",
+        "s": 1.02,
+        "e": 1.2
+      },
+      {
+        "w": "frost",
+        "s": 1.74,
+        "e": 1.74
+      },
+      {
+        "w": "and",
+        "s": 1.74,
+        "e": 1.94
+      },
+      {
+        "w": "Bulgar",
+        "s": 1.94,
+        "e": 2.22
+      },
+      {
+        "w": "raiders",
+        "s": 2.22,
+        "e": 2.6
+      },
+      {
+        "w": "had",
+        "s": 2.6,
+        "e": 2.68
+      },
+      {
+        "w": "shattered",
+        "s": 2.68,
+        "e": 2.9
+      },
+      {
+        "w": "the",
+        "s": 2.9,
+        "e": 3.08
+      },
+      {
+        "w": "attackers.",
+        "s": 3.08,
+        "e": 3.28
+      }
+    ],
+    "hash": "c3f59438656d",
+    "text": "By 718, fire, frost and Bulgar raiders had shattered the attackers."
+  },
+  "34": {
+    "path": "audio/beat_034.wav",
+    "duration": 2.69,
+    "words": [
+      {
+        "w": "Later,",
+        "s": 0.0,
+        "e": 0.3
+      },
+      {
+        "w": "Basil",
+        "s": 0.3,
+        "e": 0.6
+      },
+      {
+        "w": "II,",
+        "s": 0.6,
+        "e": 0.86
+      },
+      {
+        "w": "the",
+        "s": 1.12,
+        "e": 1.22
+      },
+      {
+        "w": "Bulgar-Slayer,",
+        "s": 1.22,
+        "e": 1.64
+      },
+      {
+        "w": "conquered",
+        "s": 1.64,
+        "e": 2.0
+      },
+      {
+        "w": "Bulgaria.",
+        "s": 2.0,
+        "e": 2.3
+      }
+    ],
+    "hash": "30a6f1452ad5",
+    "text": "Later, Basil II, the Bulgar-Slayer, conquered Bulgaria."
+  },
+  "35": {
+    "path": "audio/beat_035.wav",
+    "duration": 3.28,
+    "words": [
+      {
+        "w": "A",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "later",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "chronicler",
+        "s": 0.14,
+        "e": 0.64
+      },
+      {
+        "w": "claims",
+        "s": 0.64,
+        "e": 0.82
+      },
+      {
+        "w": "he",
+        "s": 0.82,
+        "e": 1.0
+      },
+      {
+        "w": "blinded",
+        "s": 1.0,
+        "e": 1.24
+      },
+      {
+        "w": "15,000",
+        "s": 1.24,
+        "e": 2.22
+      },
+      {
+        "w": "Bulgarian",
+        "s": 2.22,
+        "e": 2.52
+      },
+      {
+        "w": "prisoners.",
+        "s": 2.52,
+        "e": 2.9
+      }
+    ],
+    "hash": "da74d587827d",
+    "text": "A later chronicler claims he blinded 15,000 Bulgarian prisoners."
+  },
+  "36": {
+    "path": "audio/beat_036.wav",
+    "duration": 3.26,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "empire's",
+        "s": 0.06,
+        "e": 0.46
+      },
+      {
+        "w": "gold",
+        "s": 0.46,
+        "e": 0.64
+      },
+      {
+        "w": "coin,",
+        "s": 0.64,
+        "e": 0.94
+      },
+      {
+        "w": "the",
+        "s": 1.14,
+        "e": 1.22
+      },
+      {
+        "w": "solidus,",
+        "s": 1.22,
+        "e": 1.82
+      },
+      {
+        "w": "was",
+        "s": 1.82,
+        "e": 2.0
+      },
+      {
+        "w": "the",
+        "s": 2.0,
+        "e": 2.1
+      },
+      {
+        "w": "dollar",
+        "s": 2.1,
+        "e": 2.34
+      },
+      {
+        "w": "of",
+        "s": 2.34,
+        "e": 2.5
+      },
+      {
+        "w": "the",
+        "s": 2.5,
+        "e": 2.54
+      },
+      {
+        "w": "Middle",
+        "s": 2.54,
+        "e": 2.66
+      },
+      {
+        "w": "Ages.",
+        "s": 2.66,
+        "e": 2.98
+      }
+    ],
+    "hash": "7cc913d2dc25",
+    "text": "The empire's gold coin, the solidus, was the dollar of the Middle Ages."
+  },
+  "37": {
+    "path": "audio/beat_037.wav",
+    "duration": 1.85,
+    "words": [
+      {
+        "w": "But",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "after",
+        "s": 0.06,
+        "e": 0.22
+      },
+      {
+        "w": "Basil,",
+        "s": 0.22,
+        "e": 0.46
+      },
+      {
+        "w": "the",
+        "s": 0.8,
+        "e": 0.82
+      },
+      {
+        "w": "gold",
+        "s": 0.82,
+        "e": 0.96
+      },
+      {
+        "w": "got",
+        "s": 0.96,
+        "e": 1.16
+      },
+      {
+        "w": "watered",
+        "s": 1.16,
+        "e": 1.42
+      },
+      {
+        "w": "down.",
+        "s": 1.42,
+        "e": 1.68
+      }
+    ],
+    "hash": "803af0a41019",
+    "text": "But after Basil, the gold got watered down."
+  },
+  "38": {
+    "path": "audio/beat_038.wav",
+    "duration": 3.11,
+    "words": [
+      {
+        "w": "In",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "1071,",
+        "s": 0.06,
+        "e": 0.68
+      },
+      {
+        "w": "at",
+        "s": 0.68,
+        "e": 1.16
+      },
+      {
+        "w": "Manzikert,",
+        "s": 1.16,
+        "e": 1.86
+      },
+      {
+        "w": "the",
+        "s": 1.86,
+        "e": 1.94
+      },
+      {
+        "w": "Turks",
+        "s": 1.94,
+        "e": 2.1
+      },
+      {
+        "w": "captured",
+        "s": 2.1,
+        "e": 2.52
+      },
+      {
+        "w": "an",
+        "s": 2.52,
+        "e": 2.74
+      },
+      {
+        "w": "emperor.",
+        "s": 2.74,
+        "e": 2.88
+      }
+    ],
+    "hash": "6d87d0b2b258",
+    "text": "In 1071, at Manzikert, the Turks captured an emperor."
+  },
+  "39": {
+    "path": "audio/beat_039.wav",
+    "duration": 3.59,
+    "words": [
+      {
+        "w": "In",
+        "s": 0.0,
+        "e": 0.67
+      },
+      {
+        "w": "1204,",
+        "s": 0.67,
+        "e": 1.34
+      },
+      {
+        "w": "a",
+        "s": 1.34,
+        "e": 1.44
+      },
+      {
+        "w": "crusade",
+        "s": 1.44,
+        "e": 1.62
+      },
+      {
+        "w": "steered",
+        "s": 1.62,
+        "e": 2.0
+      },
+      {
+        "w": "by",
+        "s": 2.0,
+        "e": 2.22
+      },
+      {
+        "w": "Venice's",
+        "s": 2.22,
+        "e": 2.6
+      },
+      {
+        "w": "blind",
+        "s": 2.6,
+        "e": 2.78
+      },
+      {
+        "w": "old",
+        "s": 2.78,
+        "e": 3.14
+      },
+      {
+        "w": "leader",
+        "s": 3.14,
+        "e": 3.38
+      }
+    ],
+    "hash": "9105b3f10f8e",
+    "text": "In 1204, a crusade steered by Venice's blind old leader"
+  },
+  "40": {
+    "path": "audio/beat_040.wav",
+    "duration": 1.34,
+    "words": [
+      {
+        "w": "looted",
+        "s": 0.0,
+        "e": 0.18
+      },
+      {
+        "w": "the",
+        "s": 0.18,
+        "e": 0.26
+      },
+      {
+        "w": "greatest",
+        "s": 0.26,
+        "e": 0.46
+      },
+      {
+        "w": "Christian",
+        "s": 0.46,
+        "e": 0.78
+      },
+      {
+        "w": "city.",
+        "s": 0.78,
+        "e": 1.16
+      }
+    ],
+    "hash": "24bdf3a369b2",
+    "text": "looted the greatest Christian city."
+  },
+  "41": {
+    "path": "audio/beat_041.wav",
+    "duration": 1.9,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "Romans",
+        "s": 0.06,
+        "e": 0.16
+      },
+      {
+        "w": "won",
+        "s": 0.16,
+        "e": 0.5
+      },
+      {
+        "w": "it",
+        "s": 0.5,
+        "e": 0.6
+      },
+      {
+        "w": "back",
+        "s": 0.6,
+        "e": 0.76
+      },
+      {
+        "w": "57",
+        "s": 0.76,
+        "e": 1.16
+      },
+      {
+        "w": "years",
+        "s": 1.16,
+        "e": 1.52
+      },
+      {
+        "w": "later,",
+        "s": 1.52,
+        "e": 1.78
+      }
+    ],
+    "hash": "51cc3453c470",
+    "text": "The Romans won it back 57 years later,"
+  },
+  "42": {
+    "path": "audio/beat_042.wav",
+    "duration": 1.17,
+    "words": [
+      {
+        "w": "but",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "a",
+        "s": 0.08,
+        "e": 0.12
+      },
+      {
+        "w": "new",
+        "s": 0.12,
+        "e": 0.24
+      },
+      {
+        "w": "enemy",
+        "s": 0.24,
+        "e": 0.48
+      },
+      {
+        "w": "was",
+        "s": 0.48,
+        "e": 0.74
+      },
+      {
+        "w": "waiting.",
+        "s": 0.74,
+        "e": 1.0
+      }
+    ],
+    "hash": "2f1080422617",
+    "text": "but a new enemy was waiting."
+  },
+  "43": {
+    "path": "audio/beat_043.wav",
+    "duration": 3.16,
+    "words": [
+      {
+        "w": "Then",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "the",
+        "s": 0.08,
+        "e": 0.14
+      },
+      {
+        "w": "final",
+        "s": 0.14,
+        "e": 0.3
+      },
+      {
+        "w": "boss",
+        "s": 0.3,
+        "e": 0.5
+      },
+      {
+        "w": "arrived:",
+        "s": 0.5,
+        "e": 0.9
+      },
+      {
+        "w": "Sultan",
+        "s": 1.26,
+        "e": 1.44
+      },
+      {
+        "w": "Mehmed",
+        "s": 1.44,
+        "e": 1.9
+      },
+      {
+        "w": "II,",
+        "s": 1.9,
+        "e": 2.16
+      },
+      {
+        "w": "aged",
+        "s": 2.16,
+        "e": 2.48
+      },
+      {
+        "w": "21.",
+        "s": 2.48,
+        "e": 2.86
+      }
+    ],
+    "hash": "7d999a9d5140",
+    "text": "Then the final boss arrived: Sultan Mehmed II, aged 21."
+  },
+  "44": {
+    "path": "audio/beat_044.wav",
+    "duration": 2.26,
+    "words": [
+      {
+        "w": "He",
+        "s": 0.0,
+        "e": 0.02
+      },
+      {
+        "w": "brought",
+        "s": 0.02,
+        "e": 0.14
+      },
+      {
+        "w": "giant",
+        "s": 0.14,
+        "e": 0.38
+      },
+      {
+        "w": "cannons",
+        "s": 0.38,
+        "e": 0.76
+      },
+      {
+        "w": "built",
+        "s": 0.76,
+        "e": 1.06
+      },
+      {
+        "w": "by",
+        "s": 1.06,
+        "e": 1.26
+      },
+      {
+        "w": "a",
+        "s": 1.26,
+        "e": 1.34
+      },
+      {
+        "w": "gunsmith",
+        "s": 1.34,
+        "e": 1.66
+      },
+      {
+        "w": "named",
+        "s": 1.66,
+        "e": 1.9
+      },
+      {
+        "w": "Orban.",
+        "s": 1.9,
+        "e": 2.26
+      }
+    ],
+    "hash": "fb4fdfb9f1a0",
+    "text": "He brought giant cannons built by a gunsmith named Orban."
+  },
+  "45": {
+    "path": "audio/beat_045.wav",
+    "duration": 2.59,
+    "words": [
+      {
+        "w": "He'd",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "reportedly",
+        "s": 0.04,
+        "e": 0.26
+      },
+      {
+        "w": "offered",
+        "s": 0.26,
+        "e": 0.68
+      },
+      {
+        "w": "them",
+        "s": 0.68,
+        "e": 0.88
+      },
+      {
+        "w": "to",
+        "s": 0.88,
+        "e": 1.0
+      },
+      {
+        "w": "the",
+        "s": 1.0,
+        "e": 1.08
+      },
+      {
+        "w": "Romans",
+        "s": 1.08,
+        "e": 1.26
+      },
+      {
+        "w": "first,",
+        "s": 1.26,
+        "e": 1.64
+      },
+      {
+        "w": "who",
+        "s": 1.98,
+        "e": 2.04
+      },
+      {
+        "w": "couldn't",
+        "s": 2.04,
+        "e": 2.28
+      },
+      {
+        "w": "pay.",
+        "s": 2.28,
+        "e": 2.44
+      }
+    ],
+    "hash": "a90ac784516c",
+    "text": "He'd reportedly offered them to the Romans first, who couldn't pay."
+  },
+  "46": {
+    "path": "audio/beat_046.wav",
+    "duration": 2.49,
+    "words": [
+      {
+        "w": "Stone",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "balls",
+        "s": 0.14,
+        "e": 0.32
+      },
+      {
+        "w": "smashed",
+        "s": 0.32,
+        "e": 0.64
+      },
+      {
+        "w": "walls",
+        "s": 0.64,
+        "e": 1.02
+      },
+      {
+        "w": "that",
+        "s": 1.02,
+        "e": 1.24
+      },
+      {
+        "w": "had",
+        "s": 1.24,
+        "e": 1.32
+      },
+      {
+        "w": "held",
+        "s": 1.32,
+        "e": 1.5
+      },
+      {
+        "w": "for",
+        "s": 1.5,
+        "e": 1.7
+      },
+      {
+        "w": "a",
+        "s": 1.7,
+        "e": 1.82
+      },
+      {
+        "w": "thousand",
+        "s": 1.82,
+        "e": 1.98
+      },
+      {
+        "w": "years.",
+        "s": 1.98,
+        "e": 2.3
+      }
+    ],
+    "hash": "4f9580c2b2ec",
+    "text": "Stone balls smashed walls that had held for a thousand years."
+  },
+  "47": {
+    "path": "audio/beat_047.wav",
+    "duration": 3.68,
+    "words": [
+      {
+        "w": "Mehmed",
+        "s": 0.0,
+        "e": 0.12
+      },
+      {
+        "w": "dragged",
+        "s": 0.12,
+        "e": 0.32
+      },
+      {
+        "w": "about",
+        "s": 0.32,
+        "e": 0.62
+      },
+      {
+        "w": "70",
+        "s": 0.62,
+        "e": 0.86
+      },
+      {
+        "w": "ships",
+        "s": 0.86,
+        "e": 1.12
+      },
+      {
+        "w": "overland",
+        "s": 1.12,
+        "e": 1.6
+      },
+      {
+        "w": "on",
+        "s": 1.6,
+        "e": 1.76
+      },
+      {
+        "w": "greased",
+        "s": 1.76,
+        "e": 2.08
+      },
+      {
+        "w": "logs,",
+        "s": 2.08,
+        "e": 2.32
+      },
+      {
+        "w": "past",
+        "s": 2.32,
+        "e": 2.82
+      },
+      {
+        "w": "the",
+        "s": 2.82,
+        "e": 3.06
+      },
+      {
+        "w": "harbour",
+        "s": 3.06,
+        "e": 3.2
+      },
+      {
+        "w": "chain.",
+        "s": 3.2,
+        "e": 3.54
+      }
+    ],
+    "hash": "58694e28c4ed",
+    "text": "Mehmed dragged about 70 ships overland on greased logs, past the harbour chain."
+  },
+  "48": {
+    "path": "audio/beat_048.wav",
+    "duration": 2.96,
+    "words": [
+      {
+        "w": "About",
+        "s": 0.0,
+        "e": 0.1
+      },
+      {
+        "w": "7,000",
+        "s": 0.1,
+        "e": 0.62
+      },
+      {
+        "w": "defenders",
+        "s": 0.62,
+        "e": 1.04
+      },
+      {
+        "w": "faced",
+        "s": 1.04,
+        "e": 1.42
+      },
+      {
+        "w": "up",
+        "s": 1.42,
+        "e": 1.68
+      },
+      {
+        "w": "to",
+        "s": 1.68,
+        "e": 1.78
+      },
+      {
+        "w": "80,000",
+        "s": 1.78,
+        "e": 2.4
+      },
+      {
+        "w": "attackers.",
+        "s": 2.4,
+        "e": 2.74
+      }
+    ],
+    "hash": "f7bec0f3a9ff",
+    "text": "About 7,000 defenders faced up to 80,000 attackers."
+  },
+  "49": {
+    "path": "audio/beat_049.wav",
+    "duration": 1.41,
+    "words": [
+      {
+        "w": "But",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "here's",
+        "s": 0.08,
+        "e": 0.26
+      },
+      {
+        "w": "the",
+        "s": 0.26,
+        "e": 0.34
+      },
+      {
+        "w": "twist",
+        "s": 0.34,
+        "e": 0.48
+      },
+      {
+        "w": "most",
+        "s": 0.48,
+        "e": 0.78
+      },
+      {
+        "w": "people",
+        "s": 0.78,
+        "e": 0.96
+      },
+      {
+        "w": "forget.",
+        "s": 0.96,
+        "e": 1.24
+      }
+    ],
+    "hash": "8c379008928a",
+    "text": "But here's the twist most people forget."
+  },
+  "50": {
+    "path": "audio/beat_050.wav",
+    "duration": 2.18,
+    "words": [
+      {
+        "w": "The",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "last",
+        "s": 0.06,
+        "e": 0.2
+      },
+      {
+        "w": "emperor",
+        "s": 0.2,
+        "e": 0.42
+      },
+      {
+        "w": "was",
+        "s": 0.42,
+        "e": 0.66
+      },
+      {
+        "w": "Constantine,",
+        "s": 0.66,
+        "e": 1.04
+      },
+      {
+        "w": "son",
+        "s": 1.54,
+        "e": 1.7
+      },
+      {
+        "w": "of",
+        "s": 1.7,
+        "e": 1.78
+      },
+      {
+        "w": "Helena.",
+        "s": 1.78,
+        "e": 2.18
+      }
+    ],
+    "hash": "90a823479df7",
+    "text": "The last emperor was Constantine, son of Helena."
+  },
+  "51": {
+    "path": "audio/beat_051.wav",
+    "duration": 3.3,
+    "words": [
+      {
+        "w": "So",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "was",
+        "s": 0.04,
+        "e": 0.14
+      },
+      {
+        "w": "the",
+        "s": 0.14,
+        "e": 0.22
+      },
+      {
+        "w": "city's",
+        "s": 0.22,
+        "e": 0.48
+      },
+      {
+        "w": "first",
+        "s": 0.48,
+        "e": 0.66
+      },
+      {
+        "w": "emperor,",
+        "s": 0.66,
+        "e": 1.02
+      },
+      {
+        "w": "1,123",
+        "s": 1.02,
+        "e": 2.34
+      },
+      {
+        "w": "years",
+        "s": 2.34,
+        "e": 2.86
+      },
+      {
+        "w": "earlier.",
+        "s": 2.86,
+        "e": 3.08
+      }
+    ],
+    "hash": "bb178f3cca27",
+    "text": "So was the city's first emperor, 1,123 years earlier."
+  },
+  "52": {
+    "path": "audio/beat_052.wav",
+    "duration": 3.12,
+    "words": [
+      {
+        "w": "On",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "29",
+        "s": 0.06,
+        "e": 0.32
+      },
+      {
+        "w": "May",
+        "s": 0.32,
+        "e": 0.6
+      },
+      {
+        "w": "1453,",
+        "s": 0.6,
+        "e": 1.96
+      },
+      {
+        "w": "the",
+        "s": 2.34,
+        "e": 2.44
+      },
+      {
+        "w": "walls",
+        "s": 2.44,
+        "e": 2.6
+      },
+      {
+        "w": "broke.",
+        "s": 2.6,
+        "e": 2.92
+      }
+    ],
+    "hash": "953c3c8d1937",
+    "text": "On 29 May 1453, the walls broke."
+  },
+  "53": {
+    "path": "audio/beat_053.wav",
+    "duration": 3.6,
+    "words": [
+      {
+        "w": "Constantine",
+        "s": 0.0,
+        "e": 0.3
+      },
+      {
+        "w": "XI",
+        "s": 0.3,
+        "e": 1.02
+      },
+      {
+        "w": "died",
+        "s": 1.02,
+        "e": 1.28
+      },
+      {
+        "w": "fighting,",
+        "s": 1.28,
+        "e": 1.78
+      },
+      {
+        "w": "and",
+        "s": 2.16,
+        "e": 2.24
+      },
+      {
+        "w": "his",
+        "s": 2.24,
+        "e": 2.32
+      },
+      {
+        "w": "body",
+        "s": 2.32,
+        "e": 2.52
+      },
+      {
+        "w": "was",
+        "s": 2.52,
+        "e": 2.72
+      },
+      {
+        "w": "never",
+        "s": 2.72,
+        "e": 2.92
+      },
+      {
+        "w": "identified.",
+        "s": 2.92,
+        "e": 3.16
+      }
+    ],
+    "hash": "ebf2b26abd66",
+    "text": "Constantine XI died fighting, and his body was never identified."
+  },
+  "54": {
+    "path": "audio/beat_054.wav",
+    "duration": 0.7,
+    "words": [
+      {
+        "w": "Rome",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "was",
+        "s": 0.14,
+        "e": 0.3
+      },
+      {
+        "w": "dead.",
+        "s": 0.3,
+        "e": 0.52
+      }
+    ],
+    "hash": "36a26b5eeb12",
+    "text": "Rome was dead."
+  },
+  "55": {
+    "path": "audio/beat_055.wav",
+    "duration": 1.01,
+    "words": [
+      {
+        "w": "Then",
+        "s": 0.0,
+        "e": 0.1
+      },
+      {
+        "w": "someone",
+        "s": 0.1,
+        "e": 0.34
+      },
+      {
+        "w": "renamed",
+        "s": 0.34,
+        "e": 0.6
+      },
+      {
+        "w": "it.",
+        "s": 0.6,
+        "e": 0.92
+      }
+    ],
+    "hash": "5176f9ef7b5b",
+    "text": "Then someone renamed it."
+  },
+  "56": {
+    "path": "audio/beat_056.wav",
+    "duration": 1.84,
+    "words": [
+      {
+        "w": "Even",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "Mehmed",
+        "s": 0.14,
+        "e": 0.34
+      },
+      {
+        "w": "called",
+        "s": 0.34,
+        "e": 0.6
+      },
+      {
+        "w": "himself",
+        "s": 0.6,
+        "e": 0.8
+      },
+      {
+        "w": "\"Caesar",
+        "s": 0.8,
+        "e": 1.26
+      },
+      {
+        "w": "of",
+        "s": 1.26,
+        "e": 1.46
+      },
+      {
+        "w": "Rome.\"",
+        "s": 1.46,
+        "e": 1.64
+      }
+    ],
+    "hash": "1b01fc01418a",
+    "text": "Even Mehmed called himself \"Caesar of Rome.\""
+  },
+  "57": {
+    "path": "audio/beat_057.wav",
+    "duration": 4.79,
+    "words": [
+      {
+        "w": "But",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "in",
+        "s": 0.06,
+        "e": 0.12
+      },
+      {
+        "w": "1557,",
+        "s": 0.12,
+        "e": 1.52
+      },
+      {
+        "w": "a",
+        "s": 1.84,
+        "e": 1.98
+      },
+      {
+        "w": "German",
+        "s": 1.98,
+        "e": 2.18
+      },
+      {
+        "w": "scholar",
+        "s": 2.18,
+        "e": 2.52
+      },
+      {
+        "w": "popularised",
+        "s": 2.52,
+        "e": 3.34
+      },
+      {
+        "w": "a",
+        "s": 3.34,
+        "e": 3.46
+      },
+      {
+        "w": "new",
+        "s": 3.46,
+        "e": 3.56
+      },
+      {
+        "w": "label:",
+        "s": 3.56,
+        "e": 3.86
+      },
+      {
+        "w": "Byzantine.",
+        "s": 4.2,
+        "e": 4.34
+      }
+    ],
+    "hash": "0061a447e7d5",
+    "text": "But in 1557, a German scholar popularised a new label: Byzantine."
+  },
+  "58": {
+    "path": "audio/beat_058.wav",
+    "duration": 1.2,
+    "words": [
+      {
+        "w": "So",
+        "s": 0.0,
+        "e": 0.08
+      },
+      {
+        "w": "why",
+        "s": 0.08,
+        "e": 0.24
+      },
+      {
+        "w": "does",
+        "s": 0.24,
+        "e": 0.38
+      },
+      {
+        "w": "this",
+        "s": 0.38,
+        "e": 0.52
+      },
+      {
+        "w": "matter",
+        "s": 0.52,
+        "e": 0.74
+      },
+      {
+        "w": "today?",
+        "s": 0.74,
+        "e": 1.02
+      }
+    ],
+    "hash": "baf7253be451",
+    "text": "So why does this matter today?"
+  },
+  "59": {
+    "path": "audio/beat_059.wav",
+    "duration": 3.23,
+    "words": [
+      {
+        "w": "Fleeing",
+        "s": 0.0,
+        "e": 0.22
+      },
+      {
+        "w": "Greek",
+        "s": 0.22,
+        "e": 0.34
+      },
+      {
+        "w": "scholars",
+        "s": 0.34,
+        "e": 0.66
+      },
+      {
+        "w": "carried",
+        "s": 0.66,
+        "e": 1.0
+      },
+      {
+        "w": "ancient",
+        "s": 1.0,
+        "e": 1.26
+      },
+      {
+        "w": "books",
+        "s": 1.26,
+        "e": 1.52
+      },
+      {
+        "w": "to",
+        "s": 1.52,
+        "e": 1.72
+      },
+      {
+        "w": "Italy,",
+        "s": 1.72,
+        "e": 1.88
+      },
+      {
+        "w": "fuelling",
+        "s": 1.88,
+        "e": 2.42
+      },
+      {
+        "w": "the",
+        "s": 2.42,
+        "e": 2.66
+      },
+      {
+        "w": "Renaissance.",
+        "s": 2.66,
+        "e": 2.8
+      }
+    ],
+    "hash": "3a8f32dee130",
+    "text": "Fleeing Greek scholars carried ancient books to Italy, fuelling the Renaissance."
+  },
+  "60": {
+    "path": "audio/beat_060.wav",
+    "duration": 3.48,
+    "words": [
+      {
+        "w": "Orthodox",
+        "s": 0.0,
+        "e": 0.3
+      },
+      {
+        "w": "Christianity",
+        "s": 0.3,
+        "e": 0.7
+      },
+      {
+        "w": "and",
+        "s": 0.7,
+        "e": 1.3
+      },
+      {
+        "w": "the",
+        "s": 1.3,
+        "e": 1.36
+      },
+      {
+        "w": "Cyrillic",
+        "s": 1.36,
+        "e": 1.72
+      },
+      {
+        "w": "alphabet",
+        "s": 1.72,
+        "e": 1.9
+      },
+      {
+        "w": "spread",
+        "s": 1.9,
+        "e": 2.4
+      },
+      {
+        "w": "north",
+        "s": 2.4,
+        "e": 2.72
+      },
+      {
+        "w": "from",
+        "s": 2.72,
+        "e": 2.96
+      },
+      {
+        "w": "Byzantium.",
+        "s": 2.96,
+        "e": 3.38
+      }
+    ],
+    "hash": "f3d1f1316383",
+    "text": "Orthodox Christianity and the Cyrillic alphabet spread north from Byzantium."
+  },
+  "61": {
+    "path": "audio/beat_061.wav",
+    "duration": 3.14,
+    "words": [
+      {
+        "w": "Russia",
+        "s": 0.0,
+        "e": 0.14
+      },
+      {
+        "w": "adopted",
+        "s": 0.14,
+        "e": 0.48
+      },
+      {
+        "w": "the",
+        "s": 0.48,
+        "e": 0.7
+      },
+      {
+        "w": "double-headed",
+        "s": 0.7,
+        "e": 1.1
+      },
+      {
+        "w": "eagle",
+        "s": 1.1,
+        "e": 1.36
+      },
+      {
+        "w": "and",
+        "s": 1.36,
+        "e": 1.82
+      },
+      {
+        "w": "called",
+        "s": 1.82,
+        "e": 1.98
+      },
+      {
+        "w": "Moscow",
+        "s": 1.98,
+        "e": 2.26
+      },
+      {
+        "w": "the",
+        "s": 2.26,
+        "e": 2.48
+      },
+      {
+        "w": "\"Third",
+        "s": 2.48,
+        "e": 2.74
+      },
+      {
+        "w": "Rome.\"",
+        "s": 2.74,
+        "e": 2.94
+      }
+    ],
+    "hash": "979f878c791f",
+    "text": "Russia adopted the double-headed eagle and called Moscow the \"Third Rome.\""
+  },
+  "62": {
+    "path": "audio/beat_062.wav",
+    "duration": 3.29,
+    "words": [
+      {
+        "w": "Justinian's",
+        "s": 0.0,
+        "e": 0.46
+      },
+      {
+        "w": "code",
+        "s": 0.46,
+        "e": 0.64
+      },
+      {
+        "w": "still",
+        "s": 0.64,
+        "e": 0.98
+      },
+      {
+        "w": "shapes",
+        "s": 0.98,
+        "e": 1.22
+      },
+      {
+        "w": "civil",
+        "s": 1.22,
+        "e": 1.42
+      },
+      {
+        "w": "law",
+        "s": 1.42,
+        "e": 1.66
+      },
+      {
+        "w": "across",
+        "s": 1.66,
+        "e": 1.9
+      },
+      {
+        "w": "Europe",
+        "s": 1.9,
+        "e": 2.24
+      },
+      {
+        "w": "and",
+        "s": 2.24,
+        "e": 2.54
+      },
+      {
+        "w": "Latin",
+        "s": 2.54,
+        "e": 2.72
+      },
+      {
+        "w": "America.",
+        "s": 2.72,
+        "e": 2.98
+      }
+    ],
+    "hash": "e1401ffb1f48",
+    "text": "Justinian's code still shapes civil law across Europe and Latin America."
+  },
+  "63": {
+    "path": "audio/beat_063.wav",
+    "duration": 2.37,
+    "words": [
+      {
+        "w": "Nobody",
+        "s": 0.0,
+        "e": 0.18
+      },
+      {
+        "w": "who",
+        "s": 0.18,
+        "e": 0.38
+      },
+      {
+        "w": "lived",
+        "s": 0.38,
+        "e": 0.54
+      },
+      {
+        "w": "there",
+        "s": 0.54,
+        "e": 0.78
+      },
+      {
+        "w": "ever",
+        "s": 0.78,
+        "e": 1.04
+      },
+      {
+        "w": "called",
+        "s": 1.04,
+        "e": 1.28
+      },
+      {
+        "w": "themselves",
+        "s": 1.28,
+        "e": 1.56
+      },
+      {
+        "w": "Byzantine.",
+        "s": 1.56,
+        "e": 2.02
+      }
+    ],
+    "hash": "28a3444b544f",
+    "text": "Nobody who lived there ever called themselves Byzantine."
+  },
+  "64": {
+    "path": "audio/beat_064.wav",
+    "duration": 1.81,
+    "words": [
+      {
+        "w": "To",
+        "s": 0.0,
+        "e": 0.05
+      },
+      {
+        "w": "the",
+        "s": 0.0,
+        "e": 0.1
+      },
+      {
+        "w": "last",
+        "s": 0.1,
+        "e": 0.26
+      },
+      {
+        "w": "man",
+        "s": 0.26,
+        "e": 0.48
+      },
+      {
+        "w": "on",
+        "s": 0.48,
+        "e": 0.62
+      },
+      {
+        "w": "the",
+        "s": 0.62,
+        "e": 0.7
+      },
+      {
+        "w": "walls,",
+        "s": 0.7,
+        "e": 0.9
+      },
+      {
+        "w": "they",
+        "s": 1.14,
+        "e": 1.22
+      },
+      {
+        "w": "were",
+        "s": 1.22,
+        "e": 1.34
+      },
+      {
+        "w": "Romans.",
+        "s": 1.34,
+        "e": 1.56
+      }
+    ],
+    "hash": "4af75f656d0e",
+    "text": "To the last man on the walls, they were Romans."
+  },
+  "65": {
+    "path": "audio/beat_065.wav",
+    "duration": 2.06,
+    "words": [
+      {
+        "w": "For",
+        "s": 0.0,
+        "e": 0.06
+      },
+      {
+        "w": "more",
+        "s": 0.06,
+        "e": 0.14
+      },
+      {
+        "w": "empires",
+        "s": 0.14,
+        "e": 0.46
+      },
+      {
+        "w": "that",
+        "s": 0.46,
+        "e": 0.68
+      },
+      {
+        "w": "refused",
+        "s": 0.68,
+        "e": 0.88
+      },
+      {
+        "w": "to",
+        "s": 0.88,
+        "e": 1.08
+      },
+      {
+        "w": "die,",
+        "s": 1.08,
+        "e": 1.26
+      },
+      {
+        "w": "subscribe.",
+        "s": 1.48,
+        "e": 1.64
+      }
+    ],
+    "hash": "eb70022fab0f",
+    "text": "For more empires that refused to die, subscribe."
+  }
+}

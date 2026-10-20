@@ -1,8 +1,9 @@
 """LLM access for the writing stages.
 
-Two providers:
-  claude  - Anthropic API through the official SDK (needs ANTHROPIC_API_KEY or an `ant auth login` profile)
-  manual  - writes the full prompt to projects/<slug>/llm/<stage>.prompt.md; paste it into any chat model,
+Providers:
+  claude      - Anthropic API through the official SDK (needs ANTHROPIC_API_KEY or an `ant auth login` profile)
+  openrouter  - any OpenRouter model (env OPENROUTER_API_KEY), every call priced against the project budget
+  manual      - writes the full prompt to projects/<slug>/llm/<stage>.prompt.md; paste it into any chat model,
             save the answer as <stage>.response.md (or .json) and re-run the same command.
 """
 
@@ -88,6 +89,49 @@ class ClaudeLLM:
         return "".join(b.text for b in message.content if b.type == "text")
 
 
+class OpenRouterLLM:
+    """Chat completions through OpenRouter. `stage_models` / `stage_effort` let cheap stages use cheap models."""
+
+    def __init__(self, model: str, effort: str | None = "medium", max_tokens: int = 16000, ledger=None,
+                 stage_models: dict | None = None, stage_effort: dict | None = None, audit_dir: Path | None = None):
+        from chronicle.openrouter import OpenRouter
+
+        self.client = OpenRouter(ledger)
+        self.model, self.effort, self.max_tokens = model, effort, max_tokens
+        self.stage_models, self.stage_effort = stage_models or {}, stage_effort or {}
+        self.audit_dir = audit_dir
+
+    def complete(self, system: str, user: str, *, json_schema: dict | None = None, stage: str = "") -> str:
+        from chronicle.openrouter import estimate_tokens
+
+        base = re.sub(r"_\d+$", "", stage)
+        model = self.stage_models.get(base, self.model)
+        effort = self.stage_effort.get(base, self.effort)
+        price = self.client.pricing(model)
+        reserve = (estimate_tokens(system, user) * price.get("prompt", 0)
+                   + self.max_tokens * max(price.get("completion", 0), price.get("internal_reasoning", 0)))
+        body: dict = {"model": model, "max_tokens": self.max_tokens,
+                      "messages": ([{"role": "system", "content": system}] if system else [])
+                      + [{"role": "user", "content": user}]}
+        if effort and effort != "none":
+            body["reasoning"] = {"effort": effort, "exclude": True}
+        if json_schema is not None:
+            body["response_format"] = {"type": "json_schema",
+                                       "json_schema": {"name": base or "output", "strict": True, "schema": json_schema}}
+        data = self.client.chat(body, stage=stage, reserve=reserve)
+        choice = data["choices"][0]
+        text = choice["message"].get("content") or ""
+        if self.audit_dir is not None:  # keep every answer next to the prompts, like the manual provider does
+            self.audit_dir.mkdir(parents=True, exist_ok=True)
+            (self.audit_dir / f"{stage}.{model.split('/')[-1]}.md").write_text(text, encoding="utf-8")
+        reason = choice.get("finish_reason") or choice.get("native_finish_reason")
+        if reason in ("content_filter", "refusal"):
+            raise LLMRefusal(f"model declined the '{stage}' request ({reason})")
+        if reason == "length":
+            raise RuntimeError(f"'{stage}' output hit max_tokens ({self.max_tokens}); raise llm.openrouter.max_tokens")
+        return text
+
+
 class ManualLLM:
     def __init__(self, folder: Path):
         self.folder = folder
@@ -109,12 +153,18 @@ class ManualLLM:
         )
 
 
-def get_llm(settings: dict, project_llm_dir: Path):
+def get_llm(settings: dict, project_llm_dir: Path, ledger=None):
     cfg = settings.get("llm", {})
     provider = cfg.get("provider", "claude")
     if provider == "manual":
         return ManualLLM(project_llm_dir)
+    if provider == "openrouter":
+        sub = cfg.get("openrouter", {}) or {}
+        return OpenRouterLLM(model=sub.get("model", "anthropic/claude-opus-5.5"), effort=sub.get("effort", "medium"),
+                             max_tokens=int(sub.get("max_tokens", 16000)), ledger=ledger,
+                             stage_models=sub.get("stage_models"), stage_effort=sub.get("stage_effort"),
+                             audit_dir=project_llm_dir)
     if provider == "claude":
         return ClaudeLLM(model=cfg.get("model", "claude-opus-5-5"), effort=cfg.get("effort", "high"),
                          max_tokens=int(cfg.get("max_tokens", 64000)))
-    raise ValueError(f"unknown llm provider '{provider}' (use claude or manual)")
+    raise ValueError(f"unknown llm provider '{provider}' (use claude, openrouter or manual)")

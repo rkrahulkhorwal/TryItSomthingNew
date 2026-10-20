@@ -50,7 +50,7 @@ def _run(proj: Project, template: str, stage: str, extra: dict | None = None, js
     variables = template_vars(proj)
     variables.update(extra or {})
     system, user = render_template(template, variables)
-    llm = get_llm(proj.settings(), proj.llm_dir)
+    llm = get_llm(proj.settings(), proj.llm_dir, ledger=proj.ledger())
     return llm.complete(system, user, json_schema=json_schema, stage=stage)
 
 

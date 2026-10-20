@@ -25,15 +25,19 @@ claude = ["anthropic>=1.15"]                       # LLM writing stages
 kokoro = ["kokoro-onnx>=0.4", "onnxruntime>=1.17"]  # free local voice
 align = ["faster-whisper>=1.0"]                     # word timings for captions / subtitles
 edge = ["edge-tts>=6.1"]                            # free online Microsoft voices
+anim = ["playwright>=1.40"]                         # hand-inked animation engine (headless Chromium)
 analyze = ["scenedetect[opencv-headless]>=0.6", "librosa>=0.10", "faster-whisper>=1.0", "matplotlib>=3.7"]
 dev = ["pytest>=8"]
-all = ["chronicle-explainers[claude,kokoro,align,analyze,dev]"]
+all = ["chronicle-explainers[claude,kokoro,align,analyze,anim,dev]"]
 
 [project.scripts]
 chronicle = "chronicle.cli:main"
 
 [tool.setuptools]
-packages = ["chronicle", "chronicle.render"]
+packages = ["chronicle", "chronicle.render", "chronicle.anim"]
+
+[tool.setuptools.package-data]
+chronicle = ["anim/runtime/*.js", "anim/runtime/*.html"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

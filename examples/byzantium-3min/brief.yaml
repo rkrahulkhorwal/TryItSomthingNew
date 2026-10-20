@@ -1,0 +1,56 @@
+topic: The Byzantine Empire
+title: The ENTIRE History of the Byzantine Empire in 3 Minutes
+format: mid_16x9
+duration_s: 180
+style: ink_cartoon
+audience: curious general audience, 16-45, watching on a phone or TV
+angle: 'Rome never fell in 476: its eastern half kept going for another thousand years, and called itself Roman
+  to the very end'
+language: en
+notes: 'Visuals are animated in code (maps, pebble-head characters, cities, walls, battles, ships, number counters)
+  plus a handful of illustrated stills, so every sentence must be concrete and drawable. Must-include beats (check
+  every date and number): 330 Constantine founds New Rome on the Bosphorus; the Theodosian Walls; 476 the West falls
+  while the East carries on; Justinian and Theodora; the 532 Nika riots (chariot-racing fan clubs, the Blues and
+  the Greens) and Theodora''s purple-shroud speech (hedge as reported by Procopius); Hagia Sophia in 537; Justinian''s
+  law code; reconquest of Italy and North Africa; the plague of 541; the 7th-century Arab conquests; Greek fire
+  saving the city (674-678 and 717-718); Basil II the Bulgar-Slayer and the gold solidus; 1071 Manzikert; 1204 the
+  Fourth Crusade sacks Constantinople; 1453 Mehmed II, his giant cannons and the ships dragged overland into the
+  Golden Horn; Constantine XI dies; the irony that the first and last emperors were both Constantine, son of Helena;
+  they always called themselves Romans and ''Byzantine'' is a label coined after the fall (Hieronymus Wolf, 1557);
+  legacy: Greek scholars and manuscripts fuelling the Italian Renaissance, Orthodox Christianity, the Cyrillic alphabet,
+  Russia''s double-headed eagle and ''Third Rome'', Justinian''s code inside modern civil law. One short CTA line
+  at the very end, nothing else promotional.'
+providers:
+  llm:
+    provider: openrouter
+    openrouter:
+      model: anthropic/claude-opus-5.5
+      effort: medium
+      max_tokens: 16000
+  tts:
+    provider: kokoro
+    kokoro:
+      voice: am_adam
+      speed: 1.33
+  images:
+    provider: openrouter
+    openrouter:
+      model: google/gemini-3.1-flash-image
+      reference: style_sheet.png
+format_overrides:
+  short_9x16:
+    duration_s: 180
+  mid_16x9:
+    pauses_s:
+      sentence: 0.2
+      clause: 0.1
+      chapter: 0.35
+style_overrides: {}
+characters: {}
+budget_usd: 2.0
+header_text: BYZANTIUM IN 3 MINUTES
+render:
+  engine: anim
+  image_aspects:
+  - '16:9'
+  - '9:16'

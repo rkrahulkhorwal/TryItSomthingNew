@@ -56,6 +56,31 @@ def cmd_setup(a):
                 print(f"downloading {name} ...")
                 subprocess.run(["curl", "-sSL", "-o", str(d / name), base + name], check=True)
         print(f"kokoro voice model ready in {d}")
+    if a.anim or a.all:
+        import io
+        import tarfile
+        import urllib.request
+
+        from chronicle.paths import ROOT
+
+        vendor = ROOT / "chronicle" / "anim" / "runtime" / "vendor"
+        vendor.mkdir(parents=True, exist_ok=True)
+        wanted = {  # npm package -> files to keep (all ISC; Natural Earth data is public domain)
+            "d3@7.9.0": ["package/dist/d3.min.js", "package/LICENSE"],
+            "topojson-client@3.1.0": ["package/dist/topojson-client.min.js", "package/LICENSE"],
+            "world-atlas@2.0.2": ["package/land-50m.json", "package/LICENSE"],
+        }
+        for spec, files in wanted.items():
+            name, ver = spec.split("@")
+            if all((vendor / f"{name}-{Path(f).name}").exists() for f in files):
+                continue
+            url = f"https://registry.npmjs.org/{name}/-/{name}-{ver}.tgz"
+            data = urllib.request.urlopen(url, timeout=60).read()
+            with tarfile.open(fileobj=io.BytesIO(data), mode="r:gz") as tar:
+                for f in files:
+                    (vendor / f"{name}-{Path(f).name}").write_bytes(tar.extractfile(f).read())
+            print(f"anim vendor: {spec}")
+        print(f"animation libraries ready in {vendor}")
     if a.whisper or a.all:
         from faster_whisper import WhisperModel
 
@@ -132,6 +157,45 @@ def cmd_plan(a):
           + ", ".join(f"{k} {mix[k]}" for k in SHOT_TYPES if mix.get(k)))
 
 
+def cmd_scenes(a):
+    from chronicle.anim import plan
+
+    p = _proj(a.project)
+    if a.file:
+        scenes, warn = plan.load_scene_file(p, a.file)
+    else:
+        scenes, warn = plan.plan_scenes(p, image_budget=a.images)
+    for w in warn:
+        print(f"  ! {w}")
+    from collections import Counter
+
+    mix = Counter(s.get("template") for s in scenes.values())
+    print(f"scenes: {len(scenes)} planned; " + ", ".join(f"{k} {v}" for k, v in mix.most_common()))
+
+
+def cmd_still(a):
+    from chronicle import pipeline
+    from chronicle.anim.render import preview_timeline, render_stills
+
+    p = _proj(a.project)
+    data = p.beats()
+    ids = [int(x) for x in a.beats.split(",")] if a.beats else [b["id"] for b in data["beats"]]
+    for name in (a.formats.split(",") if a.formats else [p.brief().get("format", "long_16x9")]):
+        fmt = p.format(name)
+        try:
+            tl, _ = pipeline.timeline(p, name)
+        except (FileNotFoundError, RuntimeError):
+            tl = preview_timeline(data, fmt)
+        spans = {}
+        for s in tl["shots"]:
+            sp = spans.setdefault(s["beat"], [s["start"], s["end"]])
+            sp[0], sp[1] = min(sp[0], s["start"]), max(sp[1], s["end"])
+        times = [spans[i][0] + (spans[i][1] - spans[i][0]) * a.at for i in ids if i in spans]
+        out = Path(a.out) if a.out else p.out_dir / "stills"
+        paths = render_stills(p, fmt, tl, times, out)
+        print(f"{name}: {len(paths)} stills in {out}")
+
+
 def cmd_voice(a):
     from chronicle import pipeline
 
@@ -155,7 +219,7 @@ def cmd_render(a):
     formats = a.formats.split(",") if a.formats else None
     preset = a.preset or ("veryfast" if a.fast else "medium")
     crf = a.crf if a.crf is not None else (23 if a.fast else 19)
-    pipeline.render(p, formats, preset=preset, crf=crf)
+    pipeline.render(p, formats, preset=preset, crf=crf, workers=a.workers)
 
 
 def cmd_package(a):
@@ -236,6 +300,10 @@ def cmd_status(a):
         print(f"  images: {have}/{len(beats)}")
     for f in sorted(p.out_dir.glob("*.mp4")):
         print(f"  ✓ {f.relative_to(p.root)}")
+    ledger = p.ledger()
+    if ledger.data["calls"]:
+        print("  spend (paid API calls):")
+        print(ledger.summary())
 
 
 def _override(p, section: str, provider: str):
@@ -253,6 +321,7 @@ def main(argv=None):
     s.add_argument("--fonts", action="store_true")
     s.add_argument("--kokoro", action="store_true")
     s.add_argument("--whisper", action="store_true")
+    s.add_argument("--anim", action="store_true", help="d3 + topojson + Natural Earth for the animation engine")
     s.add_argument("--all", action="store_true")
     s.set_defaults(fn=cmd_setup)
 
@@ -282,6 +351,20 @@ def main(argv=None):
     s.add_argument("--rules", action="store_true", help="no LLM: rule-based shot types")
     s.set_defaults(fn=cmd_plan)
 
+    s = sub.add_parser("scenes", help="animated projects: plan one living illustration per beat (LLM or --file)")
+    s.add_argument("project")
+    s.add_argument("--file", help="apply a hand-written scene plan (same JSON the LLM returns)")
+    s.add_argument("--images", type=int, default=6, help="painted stills the planner may use")
+    s.set_defaults(fn=cmd_scenes)
+
+    s = sub.add_parser("still", help="animated projects: render preview stills")
+    s.add_argument("project")
+    s.add_argument("--beats", help="comma-separated beat ids (default: all)")
+    s.add_argument("--formats")
+    s.add_argument("--at", type=float, default=0.6, help="position inside each beat, 0..1")
+    s.add_argument("--out")
+    s.set_defaults(fn=cmd_still)
+
     s = sub.add_parser("voice", help="synthesise the voice-over")
     s.add_argument("project")
     s.add_argument("--provider", choices=["kokoro", "elevenlabs", "openai", "edge", "silent"])
@@ -301,6 +384,7 @@ def main(argv=None):
     s.add_argument("--fast", action="store_true", help="faster, lower-quality encode for proofs")
     s.add_argument("--crf", type=int, help="x264 quality (lower = better/bigger; default 19)")
     s.add_argument("--preset", help="x264 preset (ultrafast ... veryslow; default medium)")
+    s.add_argument("--workers", type=int, help="animated projects: parallel browser renderers (default: CPUs - 1)")
     s.set_defaults(fn=cmd_render)
 
     s = sub.add_parser("package", help="titles, description, chapters")

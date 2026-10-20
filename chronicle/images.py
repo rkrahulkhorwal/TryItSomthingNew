@@ -5,6 +5,7 @@ folder       use your own files (Midjourney, an artist, stock): images_in/beat_#
 openai       gpt-image models          env OPENAI_API_KEY
 gemini       Gemini image models       env GEMINI_API_KEY
 replicate    Flux / Ideogram / Recraft env REPLICATE_API_TOKEN
+openrouter   any OpenRouter image model (Gemini, GPT image...)  env OPENROUTER_API_KEY, priced against budget_usd
 """
 
 from __future__ import annotations
@@ -121,12 +122,14 @@ class FolderImages:
         self.dir = project_root / cfg.get("dir", "images_in")
 
     def generate(self, beat: dict, out_path: Path, aspect: str) -> Path:
-        for ext in ("png", "jpg", "jpeg", "webp"):
-            src = self.dir / f"beat_{beat['id']:03d}.{ext}"
-            if src.exists():
-                Image.open(src).convert("RGB").save(out_path)
-                return out_path
-        raise FileNotFoundError(f"no image for beat {beat['id']} in {self.dir} (expected beat_{beat['id']:03d}.png)")
+        # aspect-specific files first (beat_012_9x16.jpg), then the plain one (beat_012.jpg)
+        for stem in dict.fromkeys([out_path.stem, f"beat_{beat['id']:03d}"]):
+            for ext in ("png", "jpg", "jpeg", "webp"):
+                src = self.dir / f"{stem}.{ext}"
+                if src.exists():
+                    Image.open(src).convert("RGB").save(out_path)
+                    return out_path
+        raise FileNotFoundError(f"no image for beat {beat['id']} in {self.dir} (expected {out_path.stem}.png)")
 
 
 def _retry(fn, tries=4):
@@ -232,7 +235,50 @@ class ReplicateImages:
         return out_path
 
 
-def get_image_provider(settings: dict, project_root: Path, name: str | None = None):
+class OpenRouterImages:
+    """Image models through OpenRouter chat completions (`modalities: [image, text]`).
+
+    `reference` (optional, path relative to the project) is sent with every prompt as a style sheet, so the
+    generated stills match the look of the engine-drawn scenes around them.
+    """
+
+    def __init__(self, cfg: dict, project_root: Path, ledger=None):
+        from chronicle.openrouter import OpenRouter
+
+        self.cfg = cfg
+        self.client = OpenRouter(ledger)
+        self.model = cfg.get("model", "google/gemini-3.1-flash-image")
+        ref = cfg.get("reference")
+        self.reference = (project_root / ref) if ref else None
+
+    def generate(self, beat: dict, out_path: Path, aspect: str) -> Path:
+        from chronicle.openrouter import data_url, estimate_tokens
+
+        prompt = beat["image_prompt"]
+        content: list = [{"type": "text", "text": prompt}]
+        if self.reference is not None and self.reference.exists():
+            content = [{"type": "text", "text": "Style reference: match this drawing style, line work, palette and "
+                                                "character design exactly. Do not copy its layout or its scene."},
+                       {"type": "image_url", "image_url": {"url": data_url(self.reference)}},
+                       {"type": "text", "text": prompt}]
+        price = self.client.pricing(self.model)
+        reserve = (estimate_tokens(prompt) * price.get("prompt", 0) + 1600 * price.get("image", 0)
+                   + 2500 * price.get("image_output", price.get("completion", 0)) + 600 * price.get("completion", 0))
+        body = {"model": self.model, "messages": [{"role": "user", "content": content}],
+                "modalities": ["image", "text"], "image_config": {"aspect_ratio": aspect}}
+        data = self.client.chat(body, stage=f"image_{beat['id']:03d}", reserve=reserve, timeout=300)
+        msg = data["choices"][0]["message"]
+        for im in msg.get("images") or []:
+            url = (im.get("image_url") or {}).get("url", "")
+            if url.startswith("data:"):
+                raw = base64.b64decode(url.split(",", 1)[1])
+                out_path.parent.mkdir(parents=True, exist_ok=True)
+                Image.open(io.BytesIO(raw)).convert("RGB").save(out_path)
+                return out_path
+        raise RuntimeError(f"{self.model} returned no image for beat {beat['id']}: {str(msg.get('content'))[:200]}")
+
+
+def get_image_provider(settings: dict, project_root: Path, name: str | None = None, ledger=None):
     cfg = settings.get("images", {})
     provider = name or cfg.get("provider", "placeholder")
     sub = cfg.get(provider, {}) or {}
@@ -246,6 +292,8 @@ def get_image_provider(settings: dict, project_root: Path, name: str | None = No
         return GeminiImages(sub)
     if provider == "replicate":
         return ReplicateImages(sub)
+    if provider == "openrouter":
+        return OpenRouterImages(sub, project_root, ledger)
     raise ValueError(f"unknown image provider '{provider}'")
 
 

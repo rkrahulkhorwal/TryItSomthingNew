@@ -58,3 +58,12 @@ Make each episode a long-form project with the same style and character sheet (c
 
 Generate a free placeholder animatic first (`chronicle images --provider placeholder`, then `render --fast`) to
 check timing and shot mix before paying for images.
+
+**Animated mode** ([09-animation-engine.md](09-animation-engine.md)) removes most of the image bill. Code draws
+every scene; only the few painted stills you choose are paid for. Measured on the 3-minute Byzantium demo:
+
+- Writing: research, outline and script with Claude Opus 5.5 on OpenRouter at medium reasoning, $0.83.
+- Stills: 5 scenes in two aspects, plus 3 corrections, with Gemini 3.1 Flash Image at $0.068 each, $0.88.
+- Voice and render: free.
+
+Set `budget_usd` in the brief and the system refuses any call that could break the cap.

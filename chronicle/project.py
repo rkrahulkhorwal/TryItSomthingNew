@@ -101,6 +101,12 @@ class Project:
         """Provider settings: config/defaults.yaml merged with the brief's `providers:` block."""
         return get_defaults(self.brief().get("providers") or {})
 
+    def ledger(self):
+        """Spending ledger for paid APIs, capped by `budget_usd` in the brief (no cap if absent)."""
+        from chronicle.budget import Ledger
+
+        return Ledger(self.root / "spend.json", self.brief().get("budget_usd"))
+
     # ------------------------------------------------------------------ text files
     def read_text(self, name: str) -> str | None:
         p = self.root / name

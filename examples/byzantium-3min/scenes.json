@@ -1,0 +1,1379 @@
+{
+ "scenes": [
+  {
+   "id": 1,
+   "scene": {
+    "template": "collapse",
+    "label": "ROME",
+    "date": "476 AD"
+   }
+  },
+  {
+   "id": 2,
+   "scene": {
+    "template": "character",
+    "setting": "ruins",
+    "cast": [
+     {
+      "who": "emperor",
+      "pose": "point_up",
+      "expr": "smug",
+      "enter": "rise",
+      "say": "NOT SO FAST!",
+      "sayAt": 0.2
+     }
+    ]
+   }
+  },
+  {
+   "id": 3,
+   "scene": {
+    "template": "timeline",
+    "from": 300,
+    "to": 1500,
+    "marks": [
+     {
+      "year": 330,
+      "label": "NEW ROME"
+     },
+     {
+      "year": 476,
+      "label": "WEST FALLS"
+     },
+     {
+      "year": 1453,
+      "label": "EAST FALLS"
+     }
+    ],
+    "current": 1453,
+    "label": "NEARLY 1,000 MORE YEARS"
+   }
+  },
+  {
+   "id": 4,
+   "scene": {
+    "template": "title",
+    "text": "THE BYZANTINE EMPIRE",
+    "sub": "330 - 1453",
+    "icons": [
+     "torch",
+     "rat",
+     "flask",
+     "swords"
+    ]
+   }
+  },
+  {
+   "id": 5,
+   "scene": {
+    "template": "question",
+    "text": "STILL FIGHTING IN 1453?",
+    "cast": [
+     {
+      "who": "constantine11",
+      "pose": "shrug",
+      "expr": "worried",
+      "prop": "none"
+     }
+    ]
+   }
+  },
+  {
+   "id": 6,
+   "scene": {
+    "template": "character",
+    "setting": "harbour",
+    "cast": [
+     {
+      "who": "constantine",
+      "pose": "point",
+      "expr": "proud",
+      "x": 0.4,
+      "say": "NEW ROME!",
+      "sayAt": 0.55
+     }
+    ],
+    "extras": [
+     {
+      "kind": "ship",
+      "x": 0.8,
+      "y": 0.82,
+      "s": 0.7,
+      "behind": true
+     }
+    ],
+    "label": "CONSTANTINE I",
+    "sub": "ROMAN EMPEROR, 306-337"
+   }
+  },
+  {
+   "id": 7,
+   "scene": {
+    "template": "map",
+    "view": "empire",
+    "regions": [
+     {
+      "id": "west_395",
+      "color": "red",
+      "anim": "fade",
+      "at": 0.15,
+      "label": "WEST"
+     },
+     {
+      "id": "east_395",
+      "color": "purple",
+      "anim": "fade",
+      "at": 0.3,
+      "label": "EAST"
+     }
+    ],
+    "crack": {
+     "from": [
+      19.6,
+      47.5
+     ],
+     "to": [
+      19.0,
+      30.5
+     ],
+     "at": 0.05
+    },
+    "cities": [
+     {
+      "name": "Rome",
+      "at": 0.2
+     },
+     {
+      "name": "Constantinople",
+      "at": 0.35
+     }
+    ],
+    "title": "395 AD: THE SPLIT"
+   }
+  },
+  {
+   "id": 8,
+   "scene": {
+    "template": "walls",
+    "mode": "build",
+    "numbers": [
+     {
+      "value": "5.7 KM",
+      "label": "LONG",
+      "at": 0.45
+     },
+     {
+      "value": "96",
+      "label": "TOWERS",
+      "at": 0.7
+     }
+    ],
+    "title": "THE LAND WALLS, 413"
+   }
+  },
+  {
+   "id": 9,
+   "scene": {
+    "template": "character",
+    "setting": "throne",
+    "cast": [
+     {
+      "who": "romulus",
+      "pose": "run",
+      "expr": "scared",
+      "x": 0.28,
+      "f": -1
+     },
+     {
+      "who": "odoacer",
+      "pose": "point",
+      "expr": "smug",
+      "x": 0.64,
+      "f": -1
+     }
+    ],
+    "label": "ODOACER",
+    "sub": "GERMANIC WARLORD"
+   }
+  },
+  {
+   "id": 10,
+   "scene": {
+    "template": "map",
+    "view": "mediterranean",
+    "arrows": [
+     {
+      "from": "Ravenna",
+      "to": "Constantinople",
+      "mover": "crown",
+      "at": 0.05,
+      "dur": 1.6,
+      "bend": 0.25,
+      "label": "CROWN BY POST"
+     }
+    ],
+    "cities": [
+     {
+      "name": "Ravenna",
+      "at": 0.0
+     },
+     {
+      "name": "Constantinople",
+      "at": 0.3
+     }
+    ]
+   }
+  },
+  {
+   "id": 11,
+   "scene": {
+    "template": "map",
+    "view": "empire",
+    "regions": [
+     {
+      "id": "west_395",
+      "color": "red",
+      "anim": "crumble",
+      "at": 0.0,
+      "dur": 1.0,
+      "label": "WEST"
+     },
+     {
+      "id": "east_395",
+      "color": "purple",
+      "anim": "static",
+      "label": "EAST"
+     }
+    ]
+   }
+  },
+  {
+   "id": 12,
+   "scene": {
+    "template": "character",
+    "setting": "city",
+    "cast": [
+     {
+      "who": "emperor",
+      "pose": "fist",
+      "expr": "proud"
+     }
+    ],
+    "fx": "sparkle"
+   }
+  },
+  {
+   "id": 13,
+   "scene": {
+    "template": "walls",
+    "mode": "defend",
+    "attacker": "odoacer"
+   }
+  },
+  {
+   "id": 14,
+   "scene": {
+    "template": "crowd",
+    "teams": [
+     {
+      "color": "bluesTeam",
+      "hat": "band"
+     },
+     {
+      "color": "greensTeam",
+      "hat": "band"
+     }
+    ],
+    "mood": "cheer",
+    "setting": "hippodrome",
+    "chariots": 2
+   }
+  },
+  {
+   "id": 15,
+   "scene": {
+    "template": "character",
+    "setting": "hippodrome",
+    "cast": [
+     {
+      "who": "blues",
+      "pose": "cheer",
+      "expr": "laugh",
+      "prop": "flag",
+      "propColor": "bluesTeam"
+     },
+     {
+      "who": "justinian",
+      "pose": "present",
+      "expr": "determined"
+     },
+     {
+      "who": "greens",
+      "pose": "cheer",
+      "expr": "laugh",
+      "prop": "flag",
+      "propColor": "greensTeam"
+     }
+    ],
+    "label": "JUSTINIAN",
+    "sub": "EMPEROR, 527-565"
+   }
+  },
+  {
+   "id": 16,
+   "scene": {
+    "template": "crowd",
+    "teams": [
+     {
+      "color": "bluesTeam",
+      "hat": "band",
+      "label": "BLUES"
+     },
+     {
+      "color": "greensTeam",
+      "hat": "band",
+      "label": "GREENS"
+     }
+    ],
+    "mood": "riot",
+    "chant": "NIKA!",
+    "setting": "fire"
+   }
+  },
+  {
+   "id": 17,
+   "scene": {
+    "template": "character",
+    "setting": "harbour",
+    "cast": [
+     {
+      "who": "justinian",
+      "pose": "run",
+      "expr": "scared",
+      "prop": "bundle",
+      "x": 0.42
+     }
+    ],
+    "extras": [
+     {
+      "kind": "ship",
+      "x": 0.82,
+      "y": 0.82,
+      "s": 0.8,
+      "behind": true
+     }
+    ]
+   }
+  },
+  {
+   "id": 18,
+   "scene": {
+    "template": "character",
+    "setting": "study",
+    "cast": [
+     {
+      "who": "procopius",
+      "pose": "hold",
+      "expr": "sly",
+      "prop": "scroll"
+     }
+    ],
+    "label": "PROCOPIUS",
+    "sub": "COURT HISTORIAN"
+   }
+  },
+  {
+   "id": 19,
+   "scene": {
+    "template": "character",
+    "setting": "palace",
+    "cast": [
+     {
+      "who": "justinian",
+      "pose": "scared",
+      "expr": "shock",
+      "prop": "bundle",
+      "x": 0.3,
+      "f": 1
+     },
+     {
+      "who": "theodora",
+      "pose": "fist",
+      "expr": "determined",
+      "x": 0.68,
+      "f": -1,
+      "say": "I'D RATHER DIE IN PURPLE!",
+      "sayAt": 0.15
+     }
+    ],
+    "label": "THEODORA",
+    "sub": "EMPRESS"
+   }
+  },
+  {
+   "id": 20,
+   "scene": {
+    "template": "character",
+    "setting": "hippodrome",
+    "cast": [
+     {
+      "who": "belisarius",
+      "pose": "point",
+      "expr": "determined",
+      "x": 0.3
+     },
+     {
+      "who": "soldier",
+      "pose": "hold",
+      "x": 0.6,
+      "f": -1
+     },
+     {
+      "who": "soldier",
+      "pose": "hold",
+      "x": 0.8,
+      "f": -1
+     }
+    ],
+    "label": "BELISARIUS",
+    "sub": "GENERAL"
+   }
+  },
+  {
+   "id": 21,
+   "scene": {
+    "template": "number",
+    "value": 30000,
+    "prefix": "~",
+    "label": "DIED IN THE HIPPODROME",
+    "sub": "according to Procopius",
+    "people": 120,
+    "fade": true,
+    "dark": true
+   }
+  },
+  {
+   "id": 22,
+   "scene": {
+    "template": "construction",
+    "label": "HAGIA SOPHIA",
+    "sub": "WORK BEGINS, 532",
+    "max": 0.62
+   }
+  },
+  {
+   "id": 23,
+   "scene": {
+    "template": "construction",
+    "start": 0.62,
+    "label": "OPENED 537",
+    "measure": "31 M",
+    "noScaffold": true
+   }
+  },
+  {
+   "id": 24,
+   "scene": {
+    "template": "image",
+    "visual": "The vast interior of the Hagia Sophia as it looked when new in 537: a gigantic dome ringed with arched windows, shafts of sunlight beaming down, golden mosaics with simple crosses, marble columns and galleries; tiny pebble-head worshippers in Byzantine robes stand on the floor looking up in awe, showing the enormous scale. Historically accurate for 537: no Islamic calligraphy medallions, no minbar, no mihrab, no minarets",
+    "kb": "in",
+    "fx": [
+     "rays",
+     "dust"
+    ],
+    "sub": "BIGGEST FOR ~1,000 YEARS",
+    "subAt": 0.3
+   }
+  },
+  {
+   "id": 25,
+   "scene": {
+    "template": "symbol",
+    "icon": "book",
+    "anim": "squeeze",
+    "label": "JUSTINIAN'S CODE",
+    "gather": [
+     "scroll",
+     "scroll",
+     "scroll",
+     "scroll",
+     "scroll"
+    ],
+    "bg": "rays"
+   }
+  },
+  {
+   "id": 26,
+   "scene": {
+    "template": "map",
+    "view": "mediterranean",
+    "regions": [
+     {
+      "id": "byz_565",
+      "color": "purple",
+      "anim": "grow",
+      "from": "Constantinople",
+      "at": 0.05,
+      "dur": 2.0,
+      "label": "JUSTINIAN'S EMPIRE"
+     }
+    ],
+    "arrows": [
+     {
+      "from": "Constantinople",
+      "to": "Carthage",
+      "mover": "ship",
+      "at": 0.05
+     },
+     {
+      "from": "Constantinople",
+      "to": "Rome",
+      "mover": "army",
+      "at": 0.25
+     }
+    ],
+    "cities": [
+     {
+      "name": "Constantinople"
+     },
+     {
+      "name": "Carthage",
+      "at": 0.4
+     },
+     {
+      "name": "Rome",
+      "at": 0.55
+     }
+    ]
+   }
+  },
+  {
+   "id": 27,
+   "scene": {
+    "template": "character",
+    "setting": "harbour",
+    "cast": [
+     {
+      "who": "citizen",
+      "pose": "scared",
+      "expr": "scared",
+      "x": 0.66,
+      "f": -1
+     },
+     {
+      "who": "citizen",
+      "robe": "#857858",
+      "hat": "cap",
+      "pose": "scared",
+      "expr": "shock",
+      "x": 0.84,
+      "f": -1
+     }
+    ],
+    "extras": [
+     {
+      "kind": "ship",
+      "x": 0.18,
+      "y": 0.82,
+      "s": 0.8,
+      "behind": true
+     },
+     {
+      "kind": "icon",
+      "name": "rat",
+      "x": 0.3,
+      "y": 0.86,
+      "s": 0.95,
+      "move": [
+       0.2,
+       0
+      ],
+      "at": 0.1
+     },
+     {
+      "kind": "icon",
+      "name": "rat",
+      "x": 0.2,
+      "y": 0.9,
+      "s": 0.95,
+      "move": [
+       0.24,
+       0
+      ],
+      "at": 0.25
+     }
+    ],
+    "title": "541: THE PLAGUE"
+   }
+  },
+  {
+   "id": 28,
+   "scene": {
+    "template": "symbol",
+    "icon": "bucket",
+    "anim": "float",
+    "label": "DRAINED",
+    "bg": "plain"
+   }
+  },
+  {
+   "id": 29,
+   "scene": {
+    "template": "character",
+    "setting": "desert",
+    "cast": [
+     {
+      "who": "arab",
+      "enter": "rise",
+      "pose": "raise",
+      "prop": "banner",
+      "propColor": "#2f6f4f"
+     },
+     {
+      "who": "caliph",
+      "enter": "rise",
+      "delay": 0.15,
+      "pose": "point"
+     },
+     {
+      "who": "arab",
+      "enter": "rise",
+      "delay": 0.3,
+      "pose": "fist",
+      "prop": "sword"
+     }
+    ]
+   }
+  },
+  {
+   "id": 30,
+   "scene": {
+    "template": "map",
+    "view": "east",
+    "regions": [
+     {
+      "id": "byz_565",
+      "color": "purple",
+      "anim": "static"
+     },
+     {
+      "id": "arab_642",
+      "color": "green",
+      "anim": "conquer",
+      "from": "Medina",
+      "at": 0.05,
+      "dur": 2.2,
+      "label": "ARAB CALIPHATE"
+     }
+    ],
+    "cities": [
+     {
+      "name": "Damascus",
+      "at": 0.15,
+      "label": "SYRIA, 636"
+     },
+     {
+      "name": "Alexandria",
+      "icon": "wheat",
+      "label": "EGYPT: THE BREADBASKET",
+      "at": 0.55
+     }
+    ]
+   }
+  },
+  {
+   "id": 31,
+   "scene": {
+    "template": "cityplan",
+    "show": [
+     "walls",
+     "seawalls",
+     "city",
+     "siege",
+     "fleet",
+     "labels"
+    ],
+    "fleetColor": "#2f6f4f",
+    "besieger": "arab",
+    "title": "674 & 717"
+   }
+  },
+  {
+   "id": 32,
+   "scene": {
+    "template": "image",
+    "visual": "A Byzantine war galley at sea at dusk sprays a roaring jet of Greek fire from a bronze lion-headed siphon at its bow; the liquid flame spreads across the water and engulfs enemy Arab ships; pebble-head sailors in helmets work the siphon pump",
+    "kb": "right",
+    "fx": [
+     "embers"
+    ],
+    "label": "GREEK FIRE",
+    "labelAt": 0.25
+   }
+  },
+  {
+   "id": 33,
+   "scene": {
+    "template": "icons",
+    "items": [
+     {
+      "icon": "fire",
+      "label": "FIRE"
+     },
+     {
+      "icon": "snowflake",
+      "label": "FROST"
+     },
+     {
+      "icon": "horseman",
+      "label": "BULGARS"
+     }
+    ],
+    "title": "718: SIEGE BROKEN"
+   }
+  },
+  {
+   "id": 34,
+   "scene": {
+    "template": "character",
+    "setting": "field",
+    "cast": [
+     {
+      "who": "basil",
+      "pose": "raise",
+      "expr": "angry",
+      "prop": "sword",
+      "x": 0.4
+     },
+     {
+      "who": "bulgar",
+      "pose": "scared",
+      "expr": "scared",
+      "x": 0.76,
+      "f": -1
+     }
+    ],
+    "label": "BASIL II",
+    "sub": "THE BULGAR-SLAYER, 976-1025"
+   }
+  },
+  {
+   "id": 35,
+   "scene": {
+    "template": "number",
+    "value": 15000,
+    "label": "PRISONERS BLINDED",
+    "sub": "according to a later chronicler",
+    "people": 100,
+    "fade": true,
+    "dark": true
+   }
+  },
+  {
+   "id": 36,
+   "scene": {
+    "template": "split",
+    "left": {
+     "icon": "coin",
+     "label": "SOLIDUS",
+     "sub": "MIDDLE AGES"
+    },
+    "right": {
+     "icon": "dollar",
+     "label": "DOLLAR",
+     "sub": "TODAY"
+    },
+    "divider": "line"
+   }
+  },
+  {
+   "id": 37,
+   "scene": {
+    "template": "symbol",
+    "icon": "coin",
+    "anim": "dip",
+    "label": "WATERED DOWN",
+    "bg": "plain"
+   }
+  },
+  {
+   "id": 38,
+   "scene": {
+    "template": "battle",
+    "left": {
+     "who": "soldier",
+     "label": "ROMANS",
+     "color": "purple",
+     "emblem": "chirho"
+    },
+    "right": {
+     "who": "seljuk",
+     "label": "SELJUK TURKS",
+     "color": "#4f6a3a",
+     "emblem": "none"
+    },
+    "mode": "clash",
+    "captured": "romanos",
+    "title": "MANZIKERT, 1071"
+   }
+  },
+  {
+   "id": 39,
+   "scene": {
+    "template": "character",
+    "setting": "harbour",
+    "cast": [
+     {
+      "who": "dandolo",
+      "pose": "point",
+      "prop": "staff",
+      "x": 0.34
+     },
+     {
+      "who": "crusader",
+      "pose": "hold",
+      "prop": "sword",
+      "x": 0.64,
+      "f": -1
+     }
+    ],
+    "extras": [
+     {
+      "kind": "ship",
+      "x": 0.86,
+      "y": 0.82,
+      "s": 0.75,
+      "flag": "#b5452f",
+      "behind": true
+     }
+    ],
+    "label": "ENRICO DANDOLO",
+    "sub": "DOGE OF VENICE, BLIND"
+   }
+  },
+  {
+   "id": 40,
+   "scene": {
+    "template": "image",
+    "visual": "Crusader knights loot Constantinople in 1204: they wear chain-mail hoods and flat-topped steel great helms (no horned helmets) with long white surcoats bearing red crosses, and carry off golden crosses, chests of treasure and a bronze horse statue; a great domed church and burning buildings behind them, frightened pebble-head citizens watching",
+    "kb": "in",
+    "fx": [
+     "embers",
+     "smoke"
+    ],
+    "label": "1204: THE SACK",
+    "labelAt": 0.15
+   }
+  },
+  {
+   "id": 41,
+   "scene": {
+    "template": "character",
+    "setting": "city",
+    "cast": [
+     {
+      "who": "citizen",
+      "pose": "cheer",
+      "expr": "laugh"
+     },
+     {
+      "who": "michael8",
+      "pose": "raise",
+      "expr": "happy"
+     },
+     {
+      "who": "citizen",
+      "robe": "#b5452f",
+      "pose": "cheer",
+      "expr": "laugh"
+     }
+    ],
+    "title": "1261: BACK HOME"
+   }
+  },
+  {
+   "id": 42,
+   "scene": {
+    "template": "character",
+    "setting": "night",
+    "cast": [
+     {
+      "who": "janissary",
+      "pose": "arms_crossed",
+      "expr": "evil",
+      "x": 0.36
+     },
+     {
+      "who": "ottoman",
+      "pose": "hold",
+      "prop": "sword",
+      "expr": "evil",
+      "x": 0.64,
+      "f": -1
+     }
+    ],
+    "title": "THE OTTOMANS"
+   }
+  },
+  {
+   "id": 43,
+   "scene": {
+    "template": "character",
+    "setting": "camp",
+    "cast": [
+     {
+      "who": "mehmed",
+      "pose": "arms_crossed",
+      "expr": "evil",
+      "enter": "drop"
+     }
+    ],
+    "fx": "rays",
+    "label": "MEHMED II",
+    "sub": "SULTAN, AGED 21"
+   }
+  },
+  {
+   "id": 44,
+   "scene": {
+    "template": "character",
+    "setting": "workshop",
+    "cast": [
+     {
+      "who": "orban",
+      "pose": "present",
+      "expr": "smug",
+      "x": 0.24
+     }
+    ],
+    "extras": [
+     {
+      "kind": "cannon",
+      "x": 0.66,
+      "s": 1.45
+     }
+    ],
+    "label": "ORBAN",
+    "sub": "GUNSMITH"
+   }
+  },
+  {
+   "id": 45,
+   "scene": {
+    "template": "split",
+    "left": {
+     "cast": [
+      {
+       "who": "orban",
+       "pose": "present",
+       "expr": "happy",
+       "say": "GIANT CANNON?"
+      }
+     ],
+     "label": "ORBAN",
+     "sub": "REPORTEDLY"
+    },
+    "right": {
+     "cast": [
+      {
+       "who": "constantine11",
+       "pose": "shrug",
+       "expr": "worried",
+       "say": "WE'RE BROKE!",
+       "prop": "none"
+      }
+     ],
+     "label": "THE ROMANS"
+    },
+    "divider": "line"
+   }
+  },
+  {
+   "id": 46,
+   "scene": {
+    "template": "walls",
+    "mode": "bombard",
+    "title": "1453: THE BOMBARDMENT"
+   }
+  },
+  {
+   "id": 47,
+   "scene": {
+    "template": "cityplan",
+    "show": [
+     "walls",
+     "seawalls",
+     "city",
+     "chain",
+     "camp",
+     "overland",
+     "labels"
+    ],
+    "overlandLabel": "~70 SHIPS OVER LAND",
+    "title": "APRIL 1453"
+   }
+  },
+  {
+   "id": 48,
+   "scene": {
+    "template": "versus",
+    "left": {
+     "value": 7000,
+     "label": "DEFENDERS",
+     "color": "purple",
+     "who": "defender"
+    },
+    "right": {
+     "value": 80000,
+     "label": "ATTACKERS",
+     "color": "red",
+     "who": "janissary"
+    },
+    "unit": 1000
+   }
+  },
+  {
+   "id": 49,
+   "scene": {
+    "template": "symbol",
+    "icon": "question",
+    "anim": "shake",
+    "label": "THE TWIST",
+    "bg": "rays"
+   }
+  },
+  {
+   "id": 50,
+   "scene": {
+    "template": "character",
+    "setting": "walls",
+    "cast": [
+     {
+      "who": "constantine11",
+      "pose": "idle",
+      "expr": "determined",
+      "x": 0.38
+     },
+     {
+      "who": "helena",
+      "x": 0.68,
+      "f": -1,
+      "expr": "happy",
+      "enter": "pop",
+      "delay": 0.45
+     }
+    ],
+    "label": "CONSTANTINE XI",
+    "sub": "SON OF HELENA"
+   }
+  },
+  {
+   "id": 51,
+   "scene": {
+    "template": "split",
+    "left": {
+     "cast": [
+      {
+       "who": "constantine1"
+      },
+      {
+       "who": "helena"
+      }
+     ],
+     "label": "CONSTANTINE I",
+     "sub": "SON OF HELENA, 330"
+    },
+    "right": {
+     "cast": [
+      {
+       "who": "constantine11"
+      },
+      {
+       "who": "helena"
+      }
+     ],
+     "label": "CONSTANTINE XI",
+     "sub": "SON OF HELENA, 1453"
+    },
+    "divider": "line"
+   }
+  },
+  {
+   "id": 52,
+   "scene": {
+    "template": "walls",
+    "mode": "breach",
+    "title": "29 MAY 1453"
+   }
+  },
+  {
+   "id": 53,
+   "scene": {
+    "template": "image",
+    "visual": "The last Byzantine emperor Constantine XI, a pebble-head with a short dark beard, a gold crown and a purple cloak over steel armour, charges with his sword raised into the smoke of battle at a breach in the great land walls of Constantinople, Ottoman janissaries in tall white hats ahead, fiery sunset light",
+    "kb": "out",
+    "fx": [
+     "smoke",
+     "embers"
+    ],
+    "sub": "BODY NEVER IDENTIFIED",
+    "subAt": 0.4
+   }
+  },
+  {
+   "id": 54,
+   "scene": {
+    "template": "symbol",
+    "icon": "crown",
+    "anim": "fall",
+    "bg": "dark",
+    "label": "ROME WAS DEAD",
+    "sparkle": false
+   }
+  },
+  {
+   "id": 55,
+   "scene": {
+    "template": "timeline",
+    "from": 1400,
+    "to": 1600,
+    "marks": [
+     {
+      "year": 1453,
+      "label": "ROME FALLS"
+     },
+     {
+      "year": 1557,
+      "label": "RENAMED"
+     }
+    ],
+    "current": 1557
+   }
+  },
+  {
+   "id": 56,
+   "scene": {
+    "template": "character",
+    "setting": "throne",
+    "cast": [
+     {
+      "who": "mehmed",
+      "pose": "fist",
+      "expr": "proud",
+      "say": "CAESAR OF ROME!",
+      "sayAt": 0.1
+     }
+    ],
+    "title": "KAYSER-I RUM"
+   }
+  },
+  {
+   "id": 57,
+   "scene": {
+    "template": "stamp",
+    "who": "wolf",
+    "word": "BYZANTINE",
+    "old": "ROMANS",
+    "label": "HIERONYMUS WOLF",
+    "sub": "1557"
+   }
+  },
+  {
+   "id": 58,
+   "scene": {
+    "template": "question",
+    "text": "WHY DOES IT MATTER?",
+    "cast": [
+     {
+      "who": "citizen",
+      "pose": "think",
+      "expr": "worried"
+     }
+    ]
+   }
+  },
+  {
+   "id": 59,
+   "scene": {
+    "template": "map",
+    "view": [
+     6,
+     35,
+     31,
+     47.5
+    ],
+    "arrows": [
+     {
+      "from": "Constantinople",
+      "to": "Florence",
+      "mover": "books",
+      "at": 0.05,
+      "dur": 1.6
+     },
+     {
+      "from": "Constantinople",
+      "to": "Venice",
+      "mover": "scroll",
+      "at": 0.25,
+      "dur": 1.5
+     }
+    ],
+    "cities": [
+     {
+      "name": "Constantinople"
+     },
+     {
+      "name": "Venice",
+      "at": 0.4
+     },
+     {
+      "name": "Florence",
+      "icon": "bulb",
+      "label": "RENAISSANCE",
+      "at": 0.55
+     }
+    ]
+   }
+  },
+  {
+   "id": 60,
+   "scene": {
+    "template": "map",
+    "view": "north",
+    "regions": [
+     {
+      "id": "kievan_rus",
+      "color": "teal",
+      "anim": "fade",
+      "at": 0.5,
+      "label": "ORTHODOX RUS"
+     }
+    ],
+    "arrows": [
+     {
+      "from": "Constantinople",
+      "to": "Preslav",
+      "mover": "letters",
+      "at": 0.05,
+      "dur": 1.0
+     },
+     {
+      "from": "Constantinople",
+      "to": "Kyiv",
+      "mover": "cross",
+      "at": 0.2,
+      "dur": 1.3
+     },
+     {
+      "from": "Kyiv",
+      "to": "Moscow",
+      "mover": "cross",
+      "at": 0.5,
+      "dur": 1.0
+     }
+    ],
+    "cities": [
+     {
+      "name": "Constantinople"
+     },
+     {
+      "name": "Kyiv",
+      "at": 0.45
+     },
+     {
+      "name": "Moscow",
+      "at": 0.65
+     }
+    ]
+   }
+  },
+  {
+   "id": 61,
+   "scene": {
+    "template": "symbol",
+    "icon": "eagle",
+    "anim": "pop",
+    "label": "THE THIRD ROME",
+    "sub": "MOSCOW",
+    "extra": [
+     {
+      "icon": "onion",
+      "x": 0.16,
+      "y": 0.6,
+      "s": 0.55
+     },
+     {
+      "icon": "onion",
+      "x": 0.84,
+      "y": 0.6,
+      "s": 0.55
+     }
+    ]
+   }
+  },
+  {
+   "id": 62,
+   "scene": {
+    "template": "split",
+    "left": {
+     "icon": "book",
+     "label": "JUSTINIAN'S CODE",
+     "sub": "534 AD"
+    },
+    "right": {
+     "icon": "globe",
+     "label": "CIVIL LAW TODAY",
+     "sub": "EUROPE & LATIN AMERICA"
+    },
+    "divider": "line"
+   }
+  },
+  {
+   "id": 63,
+   "scene": {
+    "template": "character",
+    "setting": "city",
+    "cast": [
+     {
+      "who": "citizen",
+      "pose": "shrug",
+      "expr": "worried",
+      "say": "BYZAN-WHAT?"
+     },
+     {
+      "who": "monk",
+      "pose": "shrug",
+      "expr": "neutral"
+     },
+     {
+      "who": "soldier",
+      "pose": "shrug",
+      "expr": "neutral"
+     }
+    ]
+   }
+  },
+  {
+   "id": 64,
+   "scene": {
+    "template": "image",
+    "visual": "A lone Byzantine defender, a pebble-head in a steel helmet and red cloak, stands on the crenellated land walls of Constantinople at sunset holding a purple banner with a golden double-headed eagle; the domes of the city glow behind him and smoke rises in the distance. Historically accurate for 1453 before the conquest: the Hagia Sophia has no minarets, no crescents anywhere",
+    "kb": "in",
+    "fx": [
+     "embers"
+    ],
+    "label": "ROMANS",
+    "labelAt": 0.45
+   }
+  },
+  {
+   "id": 65,
+   "scene": {
+    "template": "cta",
+    "text": "SUBSCRIBE",
+    "sub": "MORE EMPIRES THAT REFUSED TO DIE",
+    "who": "constantine11"
+   }
+  }
+ ]
+}
